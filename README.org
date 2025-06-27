@@ -18,9 +18,9 @@ compartidos y los pendientes.
 + 23 [[https://youtu.be/_eLU5W1vc8Y][Albinoni: Adagio]].
 + 24 [[https://youtu.be/h3-rNMhIyuQ][Bach: Adagio ~ Víkingur Ólafsson (piano)]].
 + 26 [[https://youtu.be/afQe11rv810][Tchaikovsky: Danza española de "El lago de los cisnes" ~ Yuri Temirkanov (dirección)]].
++ 27 [[https://youtu.be/opoVkvHyA7o][Chopin: Concierto n° 1, mov. 3° Rondo-Vivace ~ Rafal Blechacz (piano)]].
 
 * Pendientes
-+ [[https://youtu.be/opoVkvHyA7o][Chopin: Concierto n° 1, mov. 3° Rondo-Vivace ~ Rafal Blechacz (piano)]].
 + [[https://youtu.be/tRHd5g5m4O8][Massenet: Meditación ~ Anna Tifu (violín)]].
 + [[https://youtu.be/rCP27rIVJBw][Schumann/Liszt: Dedicación ~ Martha Argerich (piano)]].
 + [[https://youtu.be/ghTitIMtTCM][Bach: Concierto italiano ~ András Schiff (piano)]].
@@ -39,3 +39,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/SNWOhm5iXxs][Bach: Fantasía cromática y fuga en re menor ~ András Schiff (piano)]].
 + [[https://youtu.be/7VWHBHeNrg4][Chopin: Estudio op. 10, n.º 12 en do menor 'Revolucionario' ~ Evgeny Kissin (piano)]].
 + [[https://youtu.be/s_ST3hzMsVE][Chopin: Nocturno en do sostenido menor ~ Bruce Liu (piano)]].
++ [[https://youtu.be/gHAF2TjxDsU][Dvořák: Concierto para violín en la menor, op. 53. ~ Midori (violín)]].
++ [[https://youtu.be/oEnc_Qp5g6Q][Bach: Minueto en sol mayor y en sol menor ~ Hanna Zhang (clave)]].
++ [[https://youtu.be/bcdS2hbpZcY][Bach: Gavotte de la 4ª suite de laúd para guitarra. ~ Andrés Segovia]].
