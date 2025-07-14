@@ -37,9 +37,9 @@ compartidos y los pendientes.
 + 11 [[https://youtu.be/mVUpKIFHqZk][Offenbach: Los cuentos de Hoffmann]] ~ Patricia Janečková (soprano).
 + 12 [[https://youtu.be/y7sPRNhPDQU][Chopin: Estudio Op. 10 nº 4]] ~ Valentina Lisitsa (piano).
 + 13 [[https://youtu.be/SNWOhm5iXxs][Bach: Fantasía cromática y fuga en re menor]] ~ András Schiff (piano).
++ 14 [[https://youtu.be/7VWHBHeNrg4][Chopin: Estudio op. 10, n.º 12 en do menor 'Revolucionario']] ~ Evgeny Kissin (piano).
 
 * Pendientes
-+ [[https://youtu.be/7VWHBHeNrg4][Chopin: Estudio op. 10, n.º 12 en do menor 'Revolucionario']] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/s_ST3hzMsVE][Chopin: Nocturno en do sostenido menor]] ~ Bruce Liu (piano).
 + [[https://youtu.be/gHAF2TjxDsU][Dvořák: Concierto para violín en la menor, op. 53.]] ~ Midori (violín).
 + [[https://youtu.be/oEnc_Qp5g6Q][Bach: Minueto en sol mayor y en sol menor]] ~ Hanna Zhang (clave).
@@ -56,3 +56,4 @@ compartidos y los pendientes.
 + [[https://youtu.be/YjkdsuWAKTw?si=UGbDvpPni18gt4oG][Brahms: Sonata para piano nº 1]] ~ Alexandre Kantorow
 + [[https://youtu.be/b0YjkDFJwJE][Sibelius: Concierto para violín Op. 47]] ~ David Oistrakh
 + [[https://youtu.be/w8eVHVblRVA][Bach: Primer movimiento de la Suite para violonchelo n.º 6]] ~ Sergey Malov
++ [[https://youtu.be/g7LveqdAKcs][Bach: Preludio y fuga nº 11]] ~ Piotr Anderszewski (piano)
