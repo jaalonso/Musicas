@@ -40,10 +40,10 @@ compartidos y los pendientes.
 + 14 [[https://youtu.be/7VWHBHeNrg4][Chopin: Estudio op. 10, n.º 12 en do menor 'Revolucionario']] ~ Evgeny Kissin (piano).
 + 15 [[https://youtu.be/s_ST3hzMsVE][Chopin: Nocturno en do sostenido menor]] ~ Bruce Liu (piano).
 + 16 [[https://youtu.be/gHAF2TjxDsU][Dvořák: Concierto para violín en la menor, op. 53.]] ~ Midori (violín).
++ 17 [[https://youtu.be/oEnc_Qp5g6Q][Bach: Minueto en sol mayor y en sol menor]] ~ Hanna Zhang (clave).
++ 18 [[https://youtu.be/bcdS2hbpZcY][Bach: Gavotte de la 4ª suite de laúd para guitarra.]] ~ Andrés Segovia.
 
 * Pendientes
-+ [[https://youtu.be/oEnc_Qp5g6Q][Bach: Minueto en sol mayor y en sol menor]] ~ Hanna Zhang (clave).
-+ [[https://youtu.be/bcdS2hbpZcY][Bach: Gavotte de la 4ª suite de laúd para guitarra.]] ~ Andrés Segovia.
 + [[https://youtu.be/y9KC6c9wWbU][Satie: Gnossienne nº 3]] ~ Arsenii Moon (piano).
 + [[https://youtu.be/_V6HpGCmId0][Vivaldi: Concierto en re mayor RV 212 "San Antonio"]] ~ Alana Youssefian (violín).
 + [[https://youtu.be/erXG9vnN-GI][Bach: Tocata y fuga en re menor]] ~ Liene Andreta Kalnciema (órgano).
@@ -57,3 +57,5 @@ compartidos y los pendientes.
 + [[https://youtu.be/b0YjkDFJwJE][Sibelius: Concierto para violín Op. 47]] ~ David Oistrakh
 + [[https://youtu.be/w8eVHVblRVA][Bach: Primer movimiento de la Suite para violonchelo n.º 6]] ~ Sergey Malov
 + [[https://youtu.be/g7LveqdAKcs][Bach: Preludio y fuga nº 11]] ~ Piotr Anderszewski (piano)
++ [[https://youtu.be/xXPlCTQ2DMA][Ravel: Preludio en la menor]] ~ Seong-Jin Cho (piano)
++ [[https://youtu.be/-VDuMRZmg3Y][Bach: Preludio en re menor BWV 926]] ~ Adriel González (piano)
