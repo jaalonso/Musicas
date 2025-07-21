@@ -43,10 +43,10 @@ compartidos y los pendientes.
 + 17 [[https://youtu.be/oEnc_Qp5g6Q][Bach: Minueto en sol mayor y en sol menor]] ~ Hanna Zhang (clave).
 + 18 [[https://youtu.be/bcdS2hbpZcY][Bach: Gavotte de la 4ª suite de laúd para guitarra.]] ~ Andrés Segovia.
 + 19 [[https://youtu.be/_V6HpGCmId0][Vivaldi: Concierto en re mayor RV 212 "San Antonio"]] ~ Alana Youssefian (violín).
++ 20 [[https://youtu.be/erXG9vnN-GI][Bach: Tocata y fuga en re menor]] ~ Liene Andreta Kalnciema (órgano).
++ 21 [[https://youtu.be/-tIdhz35tcU][Chopin: Nocturno]] ~ Menahem Presler (piano).
 
 * Pendientes
-+ [[https://youtu.be/erXG9vnN-GI][Bach: Tocata y fuga en re menor]] ~ Liene Andreta Kalnciema (órgano).
-+ [[https://youtu.be/-tIdhz35tcU][Chopin: Nocturno]] ~ Menahem Presler (piano).
 + [[https://youtu.be/Ws4QlQklqR8][Debussy: Claro de Luna]] ~ Menahem Pressler (piano).
 + [[https://youtu.be/jdO0OAvNj1o][Schubert: Vals capricho]] ~ David Oistrakh (violín) y Frieda Bauer (piano).
 + [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano n.º 8 en la menor]] ~ Alexandra Dovgan.
@@ -58,3 +58,5 @@ compartidos y los pendientes.
 + [[https://youtu.be/g7LveqdAKcs][Bach: Preludio y fuga nº 11]] ~ Piotr Anderszewski (piano)
 + [[https://youtu.be/xXPlCTQ2DMA][Ravel: Preludio en la menor]] ~ Seong-Jin Cho (piano)
 + [[https://youtu.be/-VDuMRZmg3Y][Bach: Preludio en re menor BWV 926]] ~ Adriel González (piano)
++ [[https://youtu.be/wCikqGo9O7o][Beethoven: Concierto para violín en re]] ~ Lisa Batiashvili (violín)
++ [[https://youtu.be/k0uL8DLwfYg][Bach: Preludio y fuga nº 24]] ~ Piotr Anderszewski (piano)
