@@ -47,9 +47,9 @@ compartidos y los pendientes.
 + 21 [[https://youtu.be/-tIdhz35tcU][Chopin: Nocturno]] ~ Menahem Presler (piano).
 + 22 [[https://youtu.be/Ws4QlQklqR8][Debussy: Claro de Luna]] ~ Menahem Pressler (piano).
 + 23 [[https://youtu.be/jdO0OAvNj1o][Schubert: Vals capricho]] ~ David Oistrakh (violín) y Frieda Bauer (piano).
++ 24 [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano nº 8 en la menor]] ~ Alexandra Dovgan.
 
 * Pendientes
-+ [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano n.º 8 en la menor]] ~ Alexandra Dovgan.
 + [[https://youtu.be/LNUJA9N14eM][Schubert: Ave María]] ~ Michael Lucarelli (guitarra).
 + [[https://youtu.be/oDB1kOUFy5A][Beethoven: Sonata nº 3 para violín y piano, op. 12]] ~ David Oistrakh y Sviatoslav Richter
 + [[https://youtu.be/YjkdsuWAKTw?si=UGbDvpPni18gt4oG][Brahms: Sonata para piano nº 1]] ~ Alexandre Kantorow
@@ -60,3 +60,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/-VDuMRZmg3Y][Bach: Preludio en re menor BWV 926]] ~ Adriel González (piano)
 + [[https://youtu.be/wCikqGo9O7o][Beethoven: Concierto para violín en re]] ~ Lisa Batiashvili (violín)
 + [[https://youtu.be/k0uL8DLwfYg][Bach: Preludio y fuga nº 24]] ~ Piotr Anderszewski (piano)
++ [[https://youtu.be/1viUagdHYRA][Schubert: Serenata]] ~ Luke Faulkner (piano)
++ [[https://youtu.be/D4q7lzfpCIs][Brahms: Sinfonía nº 3]] ~ Luke Faulkner (piano)
++ [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
