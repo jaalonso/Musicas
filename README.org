@@ -48,9 +48,9 @@ compartidos y los pendientes.
 + 22 [[https://youtu.be/Ws4QlQklqR8][Debussy: Claro de Luna]] ~ Menahem Pressler (piano).
 + 23 [[https://youtu.be/jdO0OAvNj1o][Schubert: Vals capricho]] ~ David Oistrakh (violín) y Frieda Bauer (piano).
 + 24 [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano nº 8 en la menor]] ~ Alexandra Dovgan.
++ 25 [[https://youtu.be/LNUJA9N14eM][Schubert: Ave María]] ~ Michael Lucarelli (guitarra).
 
 * Pendientes
-+ [[https://youtu.be/LNUJA9N14eM][Schubert: Ave María]] ~ Michael Lucarelli (guitarra).
 + [[https://youtu.be/oDB1kOUFy5A][Beethoven: Sonata nº 3 para violín y piano, op. 12]] ~ David Oistrakh y Sviatoslav Richter
 + [[https://youtu.be/YjkdsuWAKTw?si=UGbDvpPni18gt4oG][Brahms: Sonata para piano nº 1]] ~ Alexandre Kantorow
 + [[https://youtu.be/b0YjkDFJwJE][Sibelius: Concierto para violín Op. 47]] ~ David Oistrakh
@@ -63,3 +63,4 @@ compartidos y los pendientes.
 + [[https://youtu.be/1viUagdHYRA][Schubert: Serenata]] ~ Luke Faulkner (piano)
 + [[https://youtu.be/D4q7lzfpCIs][Brahms: Sinfonía nº 3]] ~ Luke Faulkner (piano)
 + [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
++ [[https://youtu.be/9ZX_XCYokQo][Bach: Concierto para teclado nº 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
