@@ -57,8 +57,10 @@ compartidos y los pendientes.
 + 30 [[https://youtu.be/xXPlCTQ2DMA][Ravel: Preludio en la menor]] ~ Seong-Jin Cho (piano)
 + 31 [[https://youtu.be/-VDuMRZmg3Y][Bach: Preludio en re menor BWV 926]] ~ Adriel González (piano)
 
+** Agosto 01
++ 01 [[https://youtu.be/wCikqGo9O7o][Beethoven: Concierto para violín en re]] ~ Lisa Batiashvili (violín)
+
 * Pendientes
-+ [[https://youtu.be/wCikqGo9O7o][Beethoven: Concierto para violín en re]] ~ Lisa Batiashvili (violín)
 + [[https://youtu.be/k0uL8DLwfYg][Bach: Preludio y fuga nº 24]] ~ Piotr Anderszewski (piano)
 + [[https://youtu.be/1viUagdHYRA][Schubert: Serenata]] ~ Luke Faulkner (piano)
 + [[https://youtu.be/D4q7lzfpCIs][Brahms: Sinfonía nº 3]] ~ Luke Faulkner (piano)
@@ -66,3 +68,25 @@ compartidos y los pendientes.
 + [[https://youtu.be/9ZX_XCYokQo][Bach: Concierto para teclado nº 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
 + [[https://youtu.be/Nq5fDKzf_oQ][Scarlatti: Sonata K. 141]] ~ Javier Perianes (piano).
 + [[https://youtu.be/8AmvyuhMAMg][Tchaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
++ [[https://youtu.be/zzBXZ__LN_M][Bach: Pasacalle en do menor]]. ~ Reitze Smits (órgano).
++ [[https://youtu.be/Z-xvW920gqk][Bach: Concierto en la menor BWV 593]]. ~ Reitze Smits (órgano).
++ [[https://youtu.be/452nsCCzIJs][Beethoven: Triple Concerto in C Major, Op. 56 No. 2]] ~~~ Anne-Sophie Mutter, Daniel Barenboim, Yo-Yo Ma.
++ [[https://youtu.be/iUuYirDJOa0][Bach: Variaciones Goldberg (Aria)]] ~ Thibaut Garcia (guitarra) y Antoine Morinière (guitarra).
++ [[https://youtu.be/9ZqpSWkN5Ls][Vivaldi: Las cuatro estaciones (Verano)]] ~ Renaud Capuçon (violín).
++ [[https://youtu.be/iWoI8vmE8bI][Bach: El clave bien temperado (Preludio n° 1)]] ~ Alexandre Tharaud (piano).
++ [[https://youtu.be/Di2k06uNU1U][Bach: Concierto para 4 pianos]] ~ D. Fray, J. Rouvier, E. Christien, A. Vigoureux.
++ [[https://youtu.be/_90bJpLcMzI][Mozart: Marcha turca]] ~ Alexandre Tharaud (piano).
++ [[https://youtu.be/X8VSmkFmMSQ][Mozart: Sonata para piano n.º 8]] ~ Elisabeth Leonskaja (piano).
++ [[https://youtu.be/XcsfDxojdV8][Bach: Concierto para clavecín n.° 1 en re menor]] ~ Jean Rondeau.
++ [[https://youtu.be/co6nWmswipo][Beethoven: Sonata para piano "La tempestad"]] ~ Fazıl Say (piano).
++ [[https://youtu.be/KLzYwT9YT-c][Chopin: Nocturno n.º 2]] ~ Yundi Li (piano).
++ [[https://youtu.be/COoxnAYXALQ][Bach: Concierto para 3 pianos]] ~ David Fray, J. Rouvier, E. Christien.
++ [[https://youtu.be/TjmKsInL4cc][Chopin: Estudio Op. 10 Nº 12 'Revolucionario']] ~ Yundi Li (piano).
++ [[https://youtu.be/UWiy7xfn_YQ][Chopin: Vals Opus 64/2 en do sostenido menor]] ~ Valentina Igoshina (piano).
++ [[https://youtu.be/qNoq240t54I][Debussy: Arabesco n.º 1 en mi mayor]] ~ Alain Lefèvre (piano).
++ [[https://youtu.be/PtcIMMhnppk][Bach: Concierto para 2 pianos]] ~ David Fray y Audrey Vigoureux.
++ [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
++ [[https://youtu.be/fH225XZldjs][Schubert: Ave María]] ~ Gautier Capuçon (violonchelo).
++ [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14 en do menor]] ~ Yundi Li (piano).
++ [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
++ [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1 en re menor]] ~ Beatrice Rana (piano).
