@@ -59,9 +59,9 @@ compartidos y los pendientes.
 
 ** Agosto 01
 + 01 [[https://youtu.be/wCikqGo9O7o][Beethoven: Concierto para violín en re]] ~ Lisa Batiashvili (violín)
++ 02 [[https://youtu.be/k0uL8DLwfYg][Bach: Preludio y fuga nº 24]] ~ Piotr Anderszewski (piano)
 
 * Pendientes
-+ [[https://youtu.be/k0uL8DLwfYg][Bach: Preludio y fuga nº 24]] ~ Piotr Anderszewski (piano)
 + [[https://youtu.be/1viUagdHYRA][Schubert: Serenata]] ~ Luke Faulkner (piano)
 + [[https://youtu.be/D4q7lzfpCIs][Brahms: Sinfonía nº 3]] ~ Luke Faulkner (piano)
 + [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
@@ -90,3 +90,4 @@ compartidos y los pendientes.
 + [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1 en re menor]] ~ Beatrice Rana (piano).
++ [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
