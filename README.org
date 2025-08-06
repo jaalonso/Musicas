@@ -63,9 +63,9 @@ compartidos y los pendientes.
 + 03 [[https://youtu.be/1viUagdHYRA][Schubert: Serenata]] ~ Luke Faulkner (piano)
 + 04 [[https://youtu.be/D4q7lzfpCIs][Brahms: Sinfonía nº 3]] ~ Luke Faulkner (piano)
 + 05 [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
++ 06 [[https://youtu.be/h7qtyCl7ysE][Bach: Concierto para teclado nº 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
 
 * Pendientes
-+ [[https://youtu.be/9ZX_XCYokQo][Bach: Concierto para teclado nº 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
 + [[https://youtu.be/Nq5fDKzf_oQ][Scarlatti: Sonata K. 141]] ~ Javier Perianes (piano).
 + [[https://youtu.be/8AmvyuhMAMg][Tchaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
 + [[https://youtu.be/zzBXZ__LN_M][Bach: Pasacalle en do menor]]. ~ Reitze Smits (órgano).
@@ -91,3 +91,4 @@ compartidos y los pendientes.
 + [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1 en re menor]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
++ [[https://youtu.be/cLmUzFOSsls][Tchaikovsky: Concierto para piano n.º 1]]  ~ Khatia Buniatishvili.
