@@ -66,9 +66,9 @@ compartidos y los pendientes.
 + 06 [[https://youtu.be/h7qtyCl7ysE][Bach: Concierto para teclado nº 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
 + 07 [[https://youtu.be/Nq5fDKzf_oQ][Scarlatti: Sonata K. 141]] ~ Javier Perianes (piano).
 + 08 [[https://youtu.be/8AmvyuhMAMg][Tchaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
++ 09 [[https://youtu.be/zzBXZ__LN_M][Bach: Pasacalle en do menor]]. ~ Reitze Smits (órgano).
 
 * Pendientes
-+ [[https://youtu.be/zzBXZ__LN_M][Bach: Pasacalle en do menor]]. ~ Reitze Smits (órgano).
 + [[https://youtu.be/Z-xvW920gqk][Bach: Concierto en la menor BWV 593]]. ~ Reitze Smits (órgano).
 + [[https://youtu.be/452nsCCzIJs][Beethoven: Triple Concerto in C Major, Op. 56 No. 2]] ~~~ Anne-Sophie Mutter, Daniel Barenboim, Yo-Yo Ma.
 + [[https://youtu.be/iUuYirDJOa0][Bach: Variaciones Goldberg (Aria)]] ~ Thibaut Garcia (guitarra) y Antoine Morinière (guitarra).
@@ -92,3 +92,5 @@ compartidos y los pendientes.
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1 en re menor]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
 + [[https://youtu.be/cLmUzFOSsls][Tchaikovsky: Concierto para piano n.º 1]]  ~ Khatia Buniatishvili.
++ [[https://youtu.be/rzQnPyJx3hA][Bach: Suite francesa n.º 4 en mi bemol mayor]] ~ David Fray (piano).
++ [[https://youtu.be/zJ_Nsm-Y7RU][Bizet: Los pescadores de perlas]] ~ Alfredo Kraus
