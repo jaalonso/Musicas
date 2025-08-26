@@ -82,9 +82,10 @@ compartidos y los pendientes.
 + 22 [[https://youtu.be/UWiy7xfn_YQ][Chopin: Vals Opus 64/2 en do sostenido menor]] ~ Valentina Igoshina (piano).
 + 23 [[https://youtu.be/qNoq240t54I][Debussy: Arabesco n.º 1 en mi mayor]] ~ Alain Lefèvre (piano).
 + 24 [[https://youtu.be/PtcIMMhnppk][Bach: Concierto para 2 pianos]] ~ David Fray y Audrey Vigoureux.
++ 25 [[https://youtu.be/99R-IpvH1CA][Bach: Variaciones Goldberg]] ~ Glenn Gould.
++ 26 [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
 
 * Pendientes
-+ [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
 + [[https://youtu.be/fH225XZldjs][Schubert: Ave María]] ~ Gautier Capuçon (violonchelo).
 + [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
@@ -118,3 +119,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/_V7oujd9djk][Bach: Concierto de Brandemburgo n.º 5 BWV 1050]] ~ Orquesta barroca de Friburgo.
 + [[https://youtu.be/-b06eO8QQkI][Bach: Aria de Giovannini BWV 518]] ~ Griet De Geyter (soprano).
 + [[https://youtu.be/KGMZaPYm-T4][Bach: Cantata de los campesinos, BWV 212]] ~ Rudolf Lutz (director).
++ [[https://youtu.be/UoZwnXDjbV0][Bach: Sinfonía BWV 788]] ~ Glenn Gould.
++ [[https://youtu.be/lQAPykd7usM][Bach: Sinfonía BWV 789]] ~ Glenn Gould.
++ [[https://youtu.be/sfwqbWt13kQ][Bach: Sinfonía BWV 790]] ~ Glenn Gould.
++ [[https://youtu.be/QmBKTdGM2hQ][Bach: Cantata n.º 45 BWV 45]] ~ Rudolf Lutz (director).
