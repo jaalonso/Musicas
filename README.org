@@ -84,9 +84,9 @@ compartidos y los pendientes.
 + 24 [[https://youtu.be/PtcIMMhnppk][Bach: Concierto para 2 pianos]] ~ David Fray y Audrey Vigoureux.
 + 25 [[https://youtu.be/99R-IpvH1CA][Bach: Variaciones Goldberg]] ~ Glenn Gould.
 + 26 [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
++ 27 [[https://youtu.be/fH225XZldjs][Schubert: Ave María]] ~ Gautier Capuçon (violonchelo).
 
 * Pendientes
-+ [[https://youtu.be/fH225XZldjs][Schubert: Ave María]] ~ Gautier Capuçon (violonchelo).
 + [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1 en re menor]] ~ Beatrice Rana (piano).
@@ -123,3 +123,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/lQAPykd7usM][Bach: Sinfonía BWV 789]] ~ Glenn Gould.
 + [[https://youtu.be/sfwqbWt13kQ][Bach: Sinfonía BWV 790]] ~ Glenn Gould.
 + [[https://youtu.be/QmBKTdGM2hQ][Bach: Cantata n.º 45 BWV 45]] ~ Rudolf Lutz (director).
++ [[https://youtu.be/UjRBNFhP_ac][Bach: Pequeño preludio para principiantes BWV 934]] ~ Anyssa Neumann (piano).
++ [[https://youtu.be/-K1G8PgDfCI][Brahms: Réquiem alemán]] ~ Mariss Jansons (director).
++ [[https://youtu.be/VR49WCES28A][Brahms: Sinfonía n.º 3]] ~ Orquesta Filarmónica de Londres.
++ [[https://youtu.be/RmbdJt0VUQI][Brahms: Quinteto para clarinete, op. 115]] ~ Heritage Ensemble
++ [[https://youtu.be/QNRxHyZDU-Q][Rachmaninov: Sinfonía n.° 2, op. 27]] ~ Orquesta Sinfónica de Londres.
