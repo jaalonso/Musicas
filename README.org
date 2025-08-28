@@ -85,9 +85,9 @@ compartidos y los pendientes.
 + 25 [[https://youtu.be/99R-IpvH1CA][Bach: Variaciones Goldberg]] ~ Glenn Gould.
 + 26 [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
 + 27 [[https://youtu.be/fH225XZldjs][Schubert: Ave María]] ~ Gautier Capuçon (violonchelo).
++ 28 [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14]] ~ Yundi Li (piano).
 
 * Pendientes
-+ [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1 en re menor]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
@@ -128,3 +128,9 @@ compartidos y los pendientes.
 + [[https://youtu.be/VR49WCES28A][Brahms: Sinfonía n.º 3]] ~ Orquesta Filarmónica de Londres.
 + [[https://youtu.be/RmbdJt0VUQI][Brahms: Quinteto para clarinete, op. 115]] ~ Heritage Ensemble
 + [[https://youtu.be/QNRxHyZDU-Q][Rachmaninov: Sinfonía n.° 2, op. 27]] ~ Orquesta Sinfónica de Londres.
++ [[https://youtu.be/IgrUb2IS9sI][Chaikovski: Concierto para violín]] ~ David Oistrakh (violín).
++ [[https://youtu.be/DgfyryZJES4][Bach: Concierto para violín n.º 2, BWV 1042]] ~ Hilary Hahn (violín).
++ [[https://youtu.be/BSFNl4roGlI][Chopin: Balada n.º 1]] ~ Krystian Zimerman (piano).
++ [[https://youtu.be/NxV9VytEm9c][Mozart: Sinfonía n.º 40, K. 550]] ~ Orquesta de cámara noruega.
++ [[https://youtu.be/1V0rGf9PjzI][Mozart: Fantasía n.º 3, K. 397]] ~ Fazıl Say (piano).
++ [[https://youtu.be/BMsRteqEeII][Chaikovsky: Concierto para piano n.º 1]] ~ Martha Argerich (piano).
