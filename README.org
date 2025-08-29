@@ -86,9 +86,9 @@ compartidos y los pendientes.
 + 26 [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
 + 27 [[https://youtu.be/fH225XZldjs][Schubert: Ave María]] ~ Gautier Capuçon (violonchelo).
 + 28 [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14]] ~ Yundi Li (piano).
++ 29 [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
 
 * Pendientes
-+ [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1 en re menor]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
 + [[https://youtu.be/cLmUzFOSsls][Tchaikovsky: Concierto para piano n.º 1]]  ~ Khatia Buniatishvili.
@@ -134,3 +134,4 @@ compartidos y los pendientes.
 + [[https://youtu.be/NxV9VytEm9c][Mozart: Sinfonía n.º 40, K. 550]] ~ Orquesta de cámara noruega.
 + [[https://youtu.be/1V0rGf9PjzI][Mozart: Fantasía n.º 3, K. 397]] ~ Fazıl Say (piano).
 + [[https://youtu.be/BMsRteqEeII][Chaikovsky: Concierto para piano n.º 1]] ~ Martha Argerich (piano).
++ [[https://youtu.be/Aum2EmVMPYE][Bach: Sonata para viola da gamba y clave n.º 3, BWV 1029]] ~ Rebeka Rusó (viola da gamba) y Peter Waldner (clavicémbalo).
