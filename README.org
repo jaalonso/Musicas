@@ -17,7 +17,7 @@ compartidos y los pendientes.
 + 22 [[https://youtu.be/5XzZudf5LJ0][Bach: Sarabanda de la partita n.º 1 para violín solo]] ~ Hilary Hahn.
 + 23 [[https://youtu.be/_eLU5W1vc8Y][Albinoni: Adagio]].
 + 24 [[https://youtu.be/h3-rNMhIyuQ][Bach: Adagio]] ~ Víkingur Ólafsson (piano).
-+ 26 [[https://youtu.be/afQe11rv810][Tchaikovsky: Danza española de "El lago de los cisnes"]] ~ Yuri Temirkanov (dirección).
++ 26 [[https://youtu.be/afQe11rv810][Chaikovsky: Danza española de "El lago de los cisnes"]] ~ Yuri Temirkanov (dirección).
 + 27 [[https://youtu.be/opoVkvHyA7o][Chopin: Concierto n° 1, mov. 3° Rondo-Vivace]] ~ Rafal Blechacz (piano).
 + 28 [[https://youtu.be/tRHd5g5m4O8][Massenet: Meditación]] ~ Anna Tifu (violín).
 + 29 [[https://youtu.be/rCP27rIVJBw][Schumann/Liszt: Dedicación]] ~ Martha Argerich (piano).
@@ -65,7 +65,7 @@ compartidos y los pendientes.
 + 05 [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
 + 06 [[https://youtu.be/h7qtyCl7ysE][Bach: Concierto para teclado n.º 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
 + 07 [[https://youtu.be/Nq5fDKzf_oQ][Scarlatti: Sonata K. 141]] ~ Javier Perianes (piano).
-+ 08 [[https://youtu.be/8AmvyuhMAMg][Tchaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
++ 08 [[https://youtu.be/8AmvyuhMAMg][Chaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
 + 09 [[https://youtu.be/zzBXZ__LN_M][Bach: Pasacalle en do menor]]. ~ Reitze Smits (órgano).
 + 10 [[https://youtu.be/452nsCCzIJs][Beethoven: Triple concerto, op. 56 n.º 2]] ~~~ Anne-Sophie Mutter, Daniel Barenboim, Yo-Yo Ma.
 + 11 [[https://youtu.be/iUuYirDJOa0][Bach: Variaciones Goldberg (Aria)]] ~ Thibaut Garcia (guitarra) y Antoine Morinière (guitarra).
@@ -90,8 +90,10 @@ compartidos y los pendientes.
 + 30 [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1]] ~ Beatrice Rana (piano).
 + 31 [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
 
+*** Septiembre 2025
++ 01 [[https://youtu.be/cLmUzFOSsls][Chaikovsky: Concierto para piano n.º 1]]  ~ Khatia Buniatishvili.
+
 * Pendientes
-+ [[https://youtu.be/cLmUzFOSsls][Tchaikovsky: Concierto para piano n.º 1]]  ~ Khatia Buniatishvili.
 + [[https://youtu.be/rzQnPyJx3hA][Bach: Suite francesa n.º 4 en mi bemol mayor]] ~ David Fray (piano).
 + [[https://youtu.be/zJ_Nsm-Y7RU][Bizet: Los pescadores de perlas]] ~ Alfredo Kraus.
 + [[https://youtu.be/QW-s_FzD9Uc][Dvořák: Sinfonía del nuevo Mundo]] ~ Karajan.
