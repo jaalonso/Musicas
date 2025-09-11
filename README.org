@@ -100,10 +100,10 @@ compartidos y los pendientes.
 + 07 [[https://youtu.be/8UAYCubihlc][Debussy: Preludio a la siesta de un fauno]]. ~ Clara Andrada de la Calle (flauta).
 + 08 [[https://youtu.be/gJHPZ0JGfb4][Rachmaninoff: Concierto para piano n.° 2]] ~ Khatia Buniatishvili.
 + 09 [[https://youtu.be/K0nqoXSIS0Y][Bach: Concierto para 2 pianos]] ~ Khatia y Gvantsa Buniatishvili.
-+ 10 [[https://youtu.be/j8e0fBlvEMQ][Mozart: Concierto para piano n.° 23]] ~ Hélène Grimaud
++ 10 [[https://youtu.be/j8e0fBlvEMQ][Mozart: Concierto para piano n.° 23]] ~ Hélène Grimaud.
++ 11 [[https://youtu.be/24sDrkeDil8][Bach: Sinfonía de la Cantata BWV 35]] ~ Jos van Veldhoven (director).
 
 * Pendientes
-+ [[https://youtu.be/24sDrkeDil8][Bach: Sinfonía de la Cantata BWV 35]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/Rx_IibJH4rA][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma.
 + [[https://youtu.be/FyeOPfg_6FE][Bach: Apertura de la Pasión según San Juan]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/98w25S5yASc][Bach: Tocata y fuga en re menor]] ~ Karl Richter (órgano).
@@ -158,3 +158,5 @@ compartidos y los pendientes.
 + [[https://youtu.be/7OvsVSWB4TI][Mascagni: Intermezzo Cavalleria Rusticana]] ~ Orquesta Sinfónica Evergreen.
 + [[https://youtu.be/Y7UTWYO25Y4][Chopin: Nocturno, op 27 nº. 2]] ~ Maria João Pires (piano).
 + [[https://youtu.be/rDu4XKtryvw][Albinoni: Adagio]] ~ Orquesta de cámara Mozart.
++ [[https://youtu.be/qch9mpigHUc][Mozart: Pequeña serenata nocturna, K.525]] ~ Orquesta Filarmónica de Viena dirigida por Karl Böhm.
++ [[https://youtu.be/N7XH-58eB8c][Haendel: Ombra mai fu]] ~ Andreas Scholl (contratenor).
