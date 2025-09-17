@@ -107,9 +107,9 @@ compartidos y los pendientes.
 + 14 [[https://youtu.be/tp_WeHUKoXM][Bach: Concierto de Brandeburgo n.º 4]] ~ Claudio Abbado (director).
 + 15 [[https://youtu.be/5gTA5q6eqyo][Bach: El clave bien temperado]] ~ András Schiff (piano).
 + 16 [[https://youtu.be/wYC53466Y2c][Bach: Cantata BWV 49]] ~ Dorothee Mields (soprano) y Andreas Wolf (bajo).
++ 17 [[https://youtu.be/pXMH56hJBVI][Bach: Concierto para clave, cuerda y continuo BWV 1055]] ~ Francesco Corti (clavicémbalo).
 
 * Pendientes
-+ [[https://youtu.be/pXMH56hJBVI][Bach: Concierto para clave, cuerda y continuo BWV 1055]] ~ Francesco Corti (clavicémbalo).
 + [[https://youtu.be/bLRHf_j1dLI][Bach: El arte de la fuga, BWV 1080]] ~ Daniil Trifonov (piano).
 + [[https://youtu.be/Ug6Wj8rO-iw][Bach: Misa en si menor BWV 232 (Agnus Dei)]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/7v0OlBiADJo][Bach: Cantata n.º 17 BWV 17]] ~ Rudolf Lutz (director).
@@ -167,5 +167,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/K2BWikzQojw][Chaikovsky: La bella durmiente, Op. 66]] ~ Daniil Trifonov (piano).
 + [[https://youtu.be/ceE6iKZHFVI][Brahms: Sinfonía n.º 2, Op. 73]] ~ Orquesta Filarmónica de Helsinki.
 + [[https://youtu.be/CwxLR13XFi4][Bach: Coral "No tan triste, no tanto" BWV 384]] ~ Sociedad holandesa de Bach
++ [[https://youtu.be/ZNLAYOl6SRU][Enrique de Melchor: A mi padre Melchor (Soleá)]].
 
 ------------------------------------------------------------------------
