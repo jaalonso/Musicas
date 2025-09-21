@@ -109,11 +109,11 @@ compartidos y los pendientes.
 + 16 [[https://youtu.be/wYC53466Y2c][Bach: Cantata BWV 49]] ~ Dorothee Mields (soprano) y Andreas Wolf (bajo).
 + 17 [[https://youtu.be/pXMH56hJBVI][Bach: Concierto para clave, cuerda y continuo BWV 1055]] ~ Francesco Corti (clavicémbalo).
 + 18 [[https://youtu.be/bLRHf_j1dLI][Bach: El arte de la fuga, BWV 1080]] ~ Daniil Trifonov (piano).
++ 19 [[https://youtu.be/Ug6Wj8rO-iw][Bach: Misa en si menor BWV 232 (Agnus Dei)]] ~ Jos van Veldhoven (director).
++ 20 [[https://youtu.be/7v0OlBiADJo][Bach: Cantata n.º 17 BWV 17]] ~ Rudolf Lutz (director).
++ 21 [[https://youtu.be/UXDVB-glRKw][Bach: Sonata para violín solo n.º 3 BWV 1005 (Allegro assai)]] ~ Hilary Hahn (violín).
 
 * Pendientes
-+ [[https://youtu.be/Ug6Wj8rO-iw][Bach: Misa en si menor BWV 232 (Agnus Dei)]] ~ Jos van Veldhoven (director).
-+ [[https://youtu.be/7v0OlBiADJo][Bach: Cantata n.º 17 BWV 17]] ~ Rudolf Lutz (director).
-+ [[https://youtu.be/UXDVB-glRKw][Bach: Sonata para violín solo n.º 3 BWV 1005 (Allegro assai)]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/nUcxG3h5XCc][Bach: Cantata n.º 36 (Aria Willkommen, werter Schatz!) BWV 36]] ~ Olaf Bär (bajo).
 + [[https://youtu.be/bkCfCttf79k][Bach: Concierto para órgano n.º 1 BWV 592]] ~ Leo van Doeselaar.
 + [[https://youtu.be/-QA-Tc8Vw80][Bach: Cantata n.º 34 BWV 34]] ~ Jos van Veldhoven (director).
@@ -169,5 +169,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/CwxLR13XFi4][Bach: Coral "No tan triste, no tanto" BWV 384]] ~ Sociedad holandesa de Bach
 + [[https://youtu.be/ZNLAYOl6SRU][Enrique de Melchor: A mi padre Melchor (Soleá)]].
 + [[https://youtu.be/TL0xzp4zzBE][Satie: Gymnopédie n.º 1]] ~ Khatia Buniatishvili (piano).
++ [[https://youtu.be/s_i9wdM2Y_k][Mozart: Concierto para piano n.º 20]] ~ András Schiff (piano).
++ [[https://youtu.be/T0cH_BvpeCU][Bach:- Concierto en sol mayor según Vivaldi, BWV 973]] ~ Kanji Daito (clavicémbalo).
++ [[https://youtu.be/ZB-yofZVeDQ][Mendelssohn: Concierto para violín lírico]] ~ Janine Jansen (violín).
 
 ------------------------------------------------------------------------
