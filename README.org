@@ -125,9 +125,9 @@ compartidos y los pendientes.
 *** Octubre 2025
 + 01 [[https://youtu.be/RmbdJt0VUQI][Brahms: Quinteto para clarinete, op. 115]] ~ Heritage Ensemble.
 + 02 [[https://youtu.be/IgrUb2IS9sI][Chaikovski: Concierto para violín]] ~ David Oistrakh (violín).
++ 03 [[https://youtu.be/DgfyryZJES4][Bach: Concierto para violín n.º 2, BWV 1042]] ~ Hilary Hahn (violín).
 
 * Pendientes
-+ [[https://youtu.be/DgfyryZJES4][Bach: Concierto para violín n.º 2, BWV 1042]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/BSFNl4roGlI][Chopin: Balada n.º 1]] ~ Krystian Zimerman (piano).
 + [[https://youtu.be/NxV9VytEm9c][Mozart: Sinfonía n.º 40, K. 550]] ~ Orquesta de cámara noruega.
 + [[https://youtu.be/1V0rGf9PjzI][Mozart: Fantasía n.º 3, K. 397]] ~ Fazıl Say (piano).
@@ -169,5 +169,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/s_i9wdM2Y_k][Mozart: Concierto para piano n.º 20]] ~ András Schiff (piano).
 + [[https://youtu.be/T0cH_BvpeCU][Bach:- Concierto en sol mayor según Vivaldi, BWV 973]] ~ Kanji Daito (clavicémbalo).
 + [[https://youtu.be/ZB-yofZVeDQ][Mendelssohn: Concierto para violín lírico]] ~ Janine Jansen (violín).
++ [[https://youtu.be/4VLOOVJQMNQ][Shostakóvich: Vals nº 2]] ~ Orquesta Filarmónica de Berlín.
 
 ------------------------------------------------------------------------
