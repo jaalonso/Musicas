@@ -133,11 +133,10 @@ compartidos y los pendientes.
 + 08 [[https://youtu.be/Aum2EmVMPYE][Bach: Sonata para viola da gamba y clave n.º 3, BWV 1029]] ~ Rebeka Rusó (viola da gamba) y Peter Waldner (clavicémbalo).
 + 09 [[https://youtu.be/IS8FO6DEwfU][Shostakovich: Sinfonía n.º 5, Op. 47]] ~ Leonard Bernstein (director).
 + 10 [[https://youtu.be/cB6lP3ORUtI][Beethoven: Sonata para violín n.º 5 «Primavera»]] ~ Sarah Kim (violín) y Nelson Padgett (piano).
-+ 11 [[https://youtu.be/-WxCQlu2l2I][Beethoven: Sonata para piano n.° 31, op. 110]] ~ András Schiff
++ 11 [[https://youtu.be/-WxCQlu2l2I][Beethoven: Sonata para piano n.° 31, op. 110]] ~ András Schiff.
++ 12 [[https://youtu.be/Fe40O80Kmcg][Bach: Concierto para teclado n.º 5]] ~ Beatrice Rana (piano).
 
 * Pendientes
-+ [[https://youtu.be/tO2bOCWrYw0][Beethoven: Sinfonía n.º 9 en re menor, op. 125 "Coral"]] ~ Herbert von Karajan (director).
-+ [[https://youtu.be/Fe40O80Kmcg][Bach: Concierto para teclado n.º 5]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/ai8NiHI1-eo][Bach: Partita para violín n.º 2 - Chacona]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/-ov2KrrrvSQ][Prokofiev: Concierto para piano n.º 3]] ~ Martha Argerich (piano).
 + [[https://youtu.be/pu7zWrIMV_g][Verdi: Brindis de La Traviata]] ~ Pavarotti.
