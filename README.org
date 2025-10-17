@@ -139,9 +139,9 @@ compartidos y los pendientes.
 + 14 [[https://youtu.be/pu7zWrIMV_g][Verdi: Brindis de La Traviata]] ~ Pavarotti.
 + 15 [[https://youtu.be/USl7qUWU33k][Mozart: Sonata para dos pianos, K. 448]] ~ Martha Argerich y Daniel Barenboim.
 + 16 [[https://youtu.be/slfumgKMKyA][Bruckner: Adagio de la sinfonía n.º 6]] ~ Mirga Gražinytė-Tyla (directora).
++ 17 [[https://youtu.be/xX_0NhiMT_w][Brahms: Danzas húngaras]] ~ Claudio Abbado (director).
 
 * Pendientes
-+ [[https://youtu.be/xX_0NhiMT_w][Brahms: Danzas húngaras]] ~ Claudio Abbado (director).
 + [[https://youtu.be/-HqnqRZcMiE][Bach: Tocata y fuga BWV 565]] ~ Vincent Dubois (órgano).
 + [[https://youtu.be/4r6KZZnDBwg][Saint-Saëns: Allegro appassionato para violonchelo y piano]] ~ Jacqueline du Pré (violonchelo).
 + [[https://youtu.be/fw_7rUSpmbQ][Bach: Cantata n.º 39, BWV 39]] ~~~ Orquesta de la Fundación JS Bach.
@@ -171,5 +171,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/auNCLDkEbnQ][Richard Strauss: Burlesque para piano y orquesta en re menor]] ~ Mao Fujita (piano).
 + [[https://youtu.be/i7NlNgl4dkg][Bach: Preludio en la menor BWV 931]] ~ Dmitri Szostak (clave).
 + [[https://youtu.be/Ogfd8DSMkRo][Bach: Primer movimiento (coro) de la cantata BWV 33]] ~ Coro y orquesta de la Fundación JS Bach.
++ [[https://youtu.be/DX3UlhEEA2M][Bach: Sinfonía de la Cantata BWV 146]] - Jos van Veldhoven (director).
++ [[https://youtu.be/jc_zEe7ExPU][Bach: Preludio n.º 9 en mi mayor, BWV 854]] ~ Víkingur Ólafsson (piano).
++ [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
++ [[https://youtu.be/2oNE03TqoOg][Bach-Kempff: Siciliano]] ~ Evgeny Kissin (piano).
++ [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
 
 ------------------------------------------------------------------------
