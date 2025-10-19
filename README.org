@@ -141,9 +141,9 @@ compartidos y los pendientes.
 + 16 [[https://youtu.be/slfumgKMKyA][Bruckner: Adagio de la sinfonía n.º 6]] ~ Mirga Gražinytė-Tyla (directora).
 + 17 [[https://youtu.be/xX_0NhiMT_w][Brahms: Danzas húngaras]] ~ Claudio Abbado (director).
 + 18 [[https://youtu.be/-HqnqRZcMiE][Bach: Tocata y fuga BWV 565]] ~ Vincent Dubois (órgano).
++ 19 [[https://youtu.be/4r6KZZnDBwg][Saint-Saëns: Allegro appassionato para violonchelo y piano]] ~ Jacqueline du Pré (violonchelo).
 
 * Pendientes
-+ [[https://youtu.be/4r6KZZnDBwg][Saint-Saëns: Allegro appassionato para violonchelo y piano]] ~ Jacqueline du Pré (violonchelo).
 + [[https://youtu.be/fw_7rUSpmbQ][Bach: Cantata n.º 39, BWV 39]] ~~~ Orquesta de la Fundación JS Bach.
 + [[https://youtu.be/7Q6WQVV1GxQ][Dvořák: Serenata para cuerdas, op. 22]] ~ Orquesta de cámara Noruega.
 + [[https://youtu.be/1h4mAceHmrI][Handel: Música acuática, HWV 349]] ~ FestspielOrchester Göttingen.
@@ -176,5 +176,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
 + [[https://youtu.be/2oNE03TqoOg][Bach-Kempff: Siciliano]] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
++ [[https://youtu.be/MI0kGczlaJE][Chopin: Concierto para piano n.º 1]] ~ Garrick Ohlsson (piano).
 
 ------------------------------------------------------------------------
