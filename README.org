@@ -166,9 +166,9 @@ compartidos y los pendientes.
 + 09 [[https://youtu.be/JvNQLJ1_HQ0][Pachelbel: Canon en re mayor]] ~ Conjunto de música antigua Voces de la Música.
 + 10 [[https://youtu.be/s_i9wdM2Y_k][Mozart: Concierto para piano n.º 20]] ~ András Schiff (piano).
 + 11 [[https://youtu.be/T0cH_BvpeCU][Bach: Concierto en sol mayor según Vivaldi, BWV 973]] ~ Kanji Daito (clavicémbalo).
++ 14 [[https://youtu.be/ZB-yofZVeDQ][Mendelssohn: Concierto para violín lírico]] ~ Janine Jansen (violín).
 
 * Pendientes
-+ [[https://youtu.be/ZB-yofZVeDQ][Mendelssohn: Concierto para violín lírico]] ~ Janine Jansen (violín).
 + [[https://youtu.be/4VLOOVJQMNQ][Shostakóvich: Vals nº 2]] ~ Orquesta Filarmónica de Berlín.
 + [[https://youtu.be/auNCLDkEbnQ][Richard Strauss: Burlesque para piano y orquesta en re menor]] ~ Mao Fujita (piano).
 + [[https://youtu.be/i7NlNgl4dkg][Bach: Preludio en la menor BWV 931]] ~ Dmitri Szostak (clave).
@@ -189,5 +189,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/G2yVMWbslCM][Clara Schumann: Tres romances para violín y piano, Op. 22]] ~ Janine Jansen (vioín) y Denis Kozhukhin (piano).
 + [[https://youtu.be/GI9D8ZXvdig][Schubert: Cuatro improvisaciones, op. 90, D. 899 nº. 3 en sol bemol mayor]] ~ Eric Lu (piano).
 + [[https://youtu.be/iAII1vuTzwI][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Saehyun Kim (piano).
++ [[https://youtu.be/0JkN4EAobpI][Boccherini: Minueto]] ~ Orquesta Filarmónica de Moscú.
++ [[https://youtu.be/KuPxUv5dgro][Soler: Fandango]] ~ Richard Lester (clavecín).
++ [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
 
 ------------------------------------------------------------------------
