@@ -167,9 +167,9 @@ compartidos y los pendientes.
 + 10 [[https://youtu.be/s_i9wdM2Y_k][Mozart: Concierto para piano n.º 20]] ~ András Schiff (piano).
 + 11 [[https://youtu.be/T0cH_BvpeCU][Bach: Concierto en sol mayor según Vivaldi, BWV 973]] ~ Kanji Daito (clavicémbalo).
 + 14 [[https://youtu.be/ZB-yofZVeDQ][Mendelssohn: Concierto para violín lírico]] ~ Janine Jansen (violín).
++ 15 [[https://youtu.be/4VLOOVJQMNQ][Shostakóvich: Vals nº 2]] ~ Orquesta Filarmónica de Berlín.
 
 * Pendientes
-+ [[https://youtu.be/4VLOOVJQMNQ][Shostakóvich: Vals nº 2]] ~ Orquesta Filarmónica de Berlín.
 + [[https://youtu.be/auNCLDkEbnQ][Richard Strauss: Burlesque para piano y orquesta en re menor]] ~ Mao Fujita (piano).
 + [[https://youtu.be/i7NlNgl4dkg][Bach: Preludio en la menor BWV 931]] ~ Dmitri Szostak (clave).
 + [[https://youtu.be/Ogfd8DSMkRo][Bach: Primer movimiento (coro) de la cantata BWV 33]] ~ Coro y orquesta de la Fundación JS Bach.
@@ -192,5 +192,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/0JkN4EAobpI][Boccherini: Minueto]] ~ Orquesta Filarmónica de Moscú.
 + [[https://youtu.be/KuPxUv5dgro][Soler: Fandango]] ~ Richard Lester (clavecín).
 + [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
++ [[https://youtu.be/tlFu__EFFz0][Stravinsky: La consagración de la primavera]] ~ Orquesta Filarmónica de Tokio
 
 ------------------------------------------------------------------------
