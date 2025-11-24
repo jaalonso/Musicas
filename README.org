@@ -174,9 +174,9 @@ compartidos y los pendientes.
 + 19 [[https://youtu.be/i7NlNgl4dkg][Bach: Preludio en la menor BWV 931]] ~ Dmitri Szostak (clave).
 + 20 [[https://youtu.be/Ogfd8DSMkRo][Bach: Primer movimiento (coro) de la cantata BWV 33]] ~ Coro y orquesta de la Fundación JS Bach.
 + 21 [[https://youtu.be/DX3UlhEEA2M][Bach: Sinfonía de la Cantata BWV 146]] - Jos van Veldhoven (director).
++ 24 [[https://youtu.be/jc_zEe7ExPU][Bach: Preludio n.º 9 en mi mayor, BWV 854]] ~ Víkingur Ólafsson (piano).
 
 * Pendientes
-+ [[https://youtu.be/jc_zEe7ExPU][Bach: Preludio n.º 9 en mi mayor, BWV 854]] ~ Víkingur Ólafsson (piano).
 + [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
 + [[https://youtu.be/2oNE03TqoOg][Bach-Kempff: Siciliano]] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
@@ -198,5 +198,9 @@ compartidos y los pendientes.
 + [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
 + [[https://youtu.be/JCjNjczJfws][Albéniz: Rumores de la Caleta]] ~ Enzo Oliva (piano).
 + [[https://youtu.be/5PDF1YnDNyY][Chopin: Estudios Op. 25, n.° 11]] ~ Saehyun Kim (piano).
++ [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, "Apasinada"]] ~ Yoav Levanon (piano).
++ [[https://youtu.be/ApVTzLZDm6k][Schubert: Fantasía en fa menor]] ~ Bertrand Chamayou y Leif Ove Andsnes (piano).
++ [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
++ [[https://youtu.be/Rz7XWCjsP88][Bach: Minueto en sol mayor BWV 843]] ~ Fernando Lourens (clavecín).
 
 ------------------------------------------------------------------------
