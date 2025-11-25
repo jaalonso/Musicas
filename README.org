@@ -175,9 +175,9 @@ compartidos y los pendientes.
 + 20 [[https://youtu.be/Ogfd8DSMkRo][Bach: Primer movimiento (coro) de la cantata BWV 33]] ~ Coro y orquesta de la Fundación JS Bach.
 + 21 [[https://youtu.be/DX3UlhEEA2M][Bach: Sinfonía de la Cantata BWV 146]] - Jos van Veldhoven (director).
 + 24 [[https://youtu.be/jc_zEe7ExPU][Bach: Preludio n.º 9 en mi mayor, BWV 854]] ~ Víkingur Ólafsson (piano).
++ 25 [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
 
 * Pendientes
-+ [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
 + [[https://youtu.be/2oNE03TqoOg][Bach-Kempff: Siciliano]] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
 + [[https://youtu.be/MI0kGczlaJE][Chopin: Concierto para piano n.º 1]] ~ Garrick Ohlsson.
@@ -202,5 +202,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/ApVTzLZDm6k][Schubert: Fantasía en fa menor]] ~ Bertrand Chamayou y Leif Ove Andsnes (piano).
 + [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
 + [[https://youtu.be/Rz7XWCjsP88][Bach: Minueto en sol mayor BWV 843]] ~ Fernando Lourens (clavecín).
++ [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
+
 
 ------------------------------------------------------------------------
