@@ -178,10 +178,9 @@ compartidos y los pendientes.
 + 25 [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
 + 26 [[https://youtu.be/2oNE03TqoOg][Bach-Kempff: Siciliano]] ~ Evgeny Kissin (piano).
 + 27 [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
++ 28 [[https://youtu.be/MI0kGczlaJE][Chopin: Concierto para piano n.º 1]] ~ Garrick Ohlsson.
 
 * Pendientes
-+ [[https://youtu.be/MI0kGczlaJE][Chopin: Concierto para piano n.º 1]] ~ Garrick Ohlsson.
-+ [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 + [[https://youtu.be/hKILwVH_MdM][Chopin: Vals del minuto Op. 64 nº. 1]] ~ Lang Lang (piano).
 + [[https://youtu.be/WZu6vC5aQjU][Léo Delibes: Vals de Coppélia]] ~ Orquesta Funkhaus de la WDR
@@ -203,6 +202,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
 + [[https://youtu.be/Rz7XWCjsP88][Bach: Minueto en sol mayor BWV 843]] ~ Fernando Lourens (clavecín).
 + [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
-
++ [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
 
 ------------------------------------------------------------------------
