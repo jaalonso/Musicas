@@ -185,9 +185,9 @@ compartidos y los pendientes.
 + 03 [[https://youtu.be/hKILwVH_MdM][Chopin: Vals del minuto Op. 64 nº. 1]] ~ Lang Lang (piano).
 + 04 [[https://youtu.be/WZu6vC5aQjU][Léo Delibes: Vals de Coppélia]] ~ Orquesta Funkhaus de la WDR.
 + 05 [[https://youtu.be/JmTzspn4xWs][Bach: Tocata en sol menor BWV 915]] ~ Maude Gratton (clave).
++ 06 [[https://youtu.be/eWQvK3HFmVg][Clara Schumann: Polonesa Op. 1 nº. 1]] ~ Noriko Ogawa (piano).
 
 * Pendientes
-+ [[https://youtu.be/eWQvK3HFmVg][Clara Schumann: Polonesa Op. 1 nº. 1]] ~ Noriko Ogawa (piano).
 + [[https://youtu.be/6SNY2psmNi0][Clara Schumann: Trío para piano en Sol menor, Op. 17]] ~ Anne-Sophie Mutter (violín) y Pablo Ferrández (piano).
 + [[https://youtu.be/G2yVMWbslCM][Clara Schumann: Tres romances para violín y piano, Op. 22]] ~ Janine Jansen (vioín) y Denis Kozhukhin (piano).
 + [[https://youtu.be/GI9D8ZXvdig][Schubert: Cuatro improvisaciones, op. 90, D. 899 nº. 3 en sol bemol mayor]] ~ Eric Lu (piano).
@@ -206,6 +206,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
 + [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
-
++ [[https://youtu.be/Z1VHyuQvUXI][Chopin: Preludio de la gota de lluvia]] ~ Mijaíl Pletnev (piano).
++ [[https://youtu.be/5VPgJenz0jU][Rachmaninoff: Qué hermoso es este lugar]] ~ Nobuyuki Tsujii (piano).
++ [[https://youtu.be/pJXDc6-0EmU][Schubert: Impromptu Op. 142 n.° 2 en la bemol mayor]] ~ Eric Lu (piano).
 
 ------------------------------------------------------------------------
