@@ -187,27 +187,25 @@ compartidos y los pendientes.
 + 05 [[https://youtu.be/JmTzspn4xWs][Bach: Tocata en sol menor BWV 915]] ~ Maude Gratton (clave).
 + 06 [[https://youtu.be/eWQvK3HFmVg][Clara Schumann: Polonesa Op. 1 nº. 1]] ~ Noriko Ogawa (piano).
 + 07 [[https://youtu.be/GI9D8ZXvdig][Schubert: Cuatro improvisaciones, op. 90, D. 899 nº. 3 en sol bemol mayor]] ~ Eric Lu (piano).
++ 08 [[https://youtu.be/0JkN4EAobpI][Boccherini: Minueto]] ~ Orquesta Filarmónica de Moscú.
 
 * Pendientes
-+ [[https://youtu.be/iAII1vuTzwI][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Saehyun Kim (piano).
-+ [[https://youtu.be/0JkN4EAobpI][Boccherini: Minueto]] ~ Orquesta Filarmónica de Moscú.
-+ [[https://youtu.be/KuPxUv5dgro][Soler: Fandango]] ~ Richard Lester (clavecín).
-+ [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
-+ [[https://youtu.be/tlFu__EFFz0][Stravinsky: La consagración de la primavera]] ~ Orquesta Filarmónica de Tokio
-+ [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
-+ [[https://youtu.be/6SNY2psmNi0][Clara Schumann: Trío para piano en Sol menor, Op. 17]] ~ Anne-Sophie Mutter (violín) y Pablo Ferrández (piano).
-+ [[https://youtu.be/JCjNjczJfws][Albéniz: Rumores de la Caleta]] ~ Enzo Oliva (piano).
 + [[https://youtu.be/5PDF1YnDNyY][Chopin: Estudios Op. 25, n.° 11]] ~ Saehyun Kim (piano).
-+ [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, "Apasinada"]] ~ Yoav Levanon (piano).
-+ [[https://youtu.be/ApVTzLZDm6k][Schubert: Fantasía en fa menor]] ~ Bertrand Chamayou y Leif Ove Andsnes (piano).
++ [[https://youtu.be/6SNY2psmNi0][Clara Schumann: Trío para piano en Sol menor, Op. 17]] ~ Anne-Sophie Mutter (violín) y Pablo Ferrández (piano).
 + [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
-+ [[https://youtu.be/Rz7XWCjsP88][Bach: Minueto en sol mayor BWV 843]] ~ Fernando Lourens (clavecín).
-+ [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
-+ [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
++ [[https://youtu.be/ApVTzLZDm6k][Schubert: Fantasía en fa menor]] ~ Bertrand Chamayou y Leif Ove Andsnes (piano).
 + [[https://youtu.be/G2yVMWbslCM][Clara Schumann: Tres romances para violín y piano, Op. 22]] ~ Janine Jansen (vioín) y Denis Kozhukhin (piano).
++ [[https://youtu.be/JCjNjczJfws][Albéniz: Rumores de la Caleta]] ~ Enzo Oliva (piano).
++ [[https://youtu.be/KuPxUv5dgro][Soler: Fandango]] ~ Richard Lester (clavecín).
++ [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
++ [[https://youtu.be/Rz7XWCjsP88][Bach: Minueto en sol mayor BWV 843]] ~ Fernando Lourens (clavecín).
++ [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
++ [[https://youtu.be/iAII1vuTzwI][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Saehyun Kim (piano).
++ [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
++ [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, "Apasinada"]] ~ Yoav Levanon (piano).
++ [[https://youtu.be/tlFu__EFFz0][Stravinsky: La consagración de la primavera]] ~ Orquesta Filarmónica de Tokio
++ [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
-+ [[https://youtu.be/Z1VHyuQvUXI][Chopin: Preludio de la gota de lluvia]] ~ Mijaíl Pletnev (piano).
-+ [[https://youtu.be/5VPgJenz0jU][Rachmaninoff: Qué hermoso es este lugar]] ~ Nobuyuki Tsujii (piano).
-+ [[https://youtu.be/pJXDc6-0EmU][Schubert: Impromptu Op. 142 n.° 2 en la bemol mayor]] ~ Eric Lu (piano).
+
 
 ------------------------------------------------------------------------
