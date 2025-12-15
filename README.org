@@ -191,10 +191,12 @@ compartidos y los pendientes.
 + 09 [[https://youtu.be/5PDF1YnDNyY][Chopin: Estudios Op. 25, n.° 11]] ~ Saehyun Kim (piano).
 + 10 [[https://youtu.be/6SNY2psmNi0][Clara Schumann: Trío para piano en Sol menor, Op. 17]] ~ Anne-Sophie Mutter (violín) y Pablo Ferrández (piano).
 + 11 [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
++ 12 [[https://youtu.be/ApVTzLZDm6k][Schubert: Fantasía en fa menor]] ~ Bertrand Chamayou y Leif Ove Andsnes (piano).
++ 13 [[https://youtu.be/G2yVMWbslCM][Clara Schumann: Tres romances para violín y piano, Op. 22]] ~ Janine Jansen (vioín) y Denis Kozhukhin (piano).
++ 14 [[https://youtu.be/LKcZL8q1eBw][El Cascanueces de Balanchine]].
++ 15 [[https://youtu.be/SUt0LFwG7tk][Chaikovsky: "Vals de los copos de nieve" de "El cascanueces"]] ~ Ballet Nacional Inglés
 
 * Pendientes
-+ [[https://youtu.be/ApVTzLZDm6k][Schubert: Fantasía en fa menor]] ~ Bertrand Chamayou y Leif Ove Andsnes (piano).
-+ [[https://youtu.be/G2yVMWbslCM][Clara Schumann: Tres romances para violín y piano, Op. 22]] ~ Janine Jansen (vioín) y Denis Kozhukhin (piano).
 + [[https://youtu.be/JCjNjczJfws][Albéniz: Rumores de la Caleta]] ~ Enzo Oliva (piano).
 + [[https://youtu.be/KuPxUv5dgro][Soler: Fandango]] ~ Richard Lester (clavecín).
 + [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
@@ -206,6 +208,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tlFu__EFFz0][Stravinsky: La consagración de la primavera]] ~ Orquesta Filarmónica de Tokio
 + [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
-
++ [[https://youtu.be/_Z66jeM6WIw][Mozart: Sonata para piano nº. 12]] ~ Friedrich Gulda (piano).
 
 ------------------------------------------------------------------------
