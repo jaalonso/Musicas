@@ -229,5 +229,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa
 + [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
 + [[https://youtu.be/paFY1PvWmmg][Beethoven: Concierto para piano n.º 2]] ~ Martha Argerich (piano).
++ [[https://youtu.be/60-VD40O9C8][Beethoven: Cuarteto de cuerdas]] n.º 7 ~ Cuarteto Aris.
++ [[https://youtu.be/9uvofauJhJY][Bach: Preludio en re mayor BWV 925]] ~ Fernando Lourens (clavicémbalo).
 
-------------------------------------------------------------------------
+Local Variables:
+truncate-lines: t
+eval: (auto-fill-mode -1)
+End:
