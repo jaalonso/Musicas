@@ -231,6 +231,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/paFY1PvWmmg][Beethoven: Concierto para piano n.º 2]] ~ Martha Argerich (piano).
 + [[https://youtu.be/60-VD40O9C8][Beethoven: Cuarteto de cuerdas]] n.º 7 ~ Cuarteto Aris.
 + [[https://youtu.be/9uvofauJhJY][Bach: Preludio en re mayor BWV 925]] ~ Fernando Lourens (clavicémbalo).
++ [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
++ [[https://youtu.be/b8bYEYNFbNU?si=5EC43cgHCd31AAh5][Sibelius: Concierto para violín en re menor]] ~ Augustin Hadelich (violín)
++ [[https://youtu.be/V-KlmgVw5yQ][Beethoven: Cuarteto de cuerdas n.º 9]] ~ Cuarteto Aris.
++ [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
 
 Local Variables:
 truncate-lines: t
