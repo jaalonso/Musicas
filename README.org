@@ -237,7 +237,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Fundación JS Bach.
-
++ [[https://youtu.be/YYMovXYN9hw][Bach: Sonata para flauta en do mayor BWV 1033]] ~ Anna Besson (flauta travesera) y Beatrice Martin (clavicémbalo).
++ [[https://youtu.be/Um6drCMyQSU][Bach: Desde una profunda angustia te lloro, BWV 687]]. ~ György y Márta Kurtág (piano).
 
 Local Variables:
 truncate-lines: t
