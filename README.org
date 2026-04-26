@@ -68,6 +68,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/DX3UlhEEA2M][Bach: Sinfonía de la Cantata BWV 146]] - Jos van Veldhoven (director).
 + [[https://youtu.be/24sDrkeDil8][Bach: Sinfonía de la Cantata BWV 35]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Coro y orquesta de la Fundación J.S. Bach.
++ [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Coro y orquesta de la Fundación J.S. Bach.
 + [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Fundación JS Bach.
 + [[https://youtu.be/YYMovXYN9hw][Bach: Sonata para flauta en do mayor BWV 1033]] ~ Anna Besson (flauta travesera) y Beatrice Martin (clavicémbalo).
 + [[https://youtu.be/ZBPF3zesH6k][Bach: Sonata para flauta en mi bemol mayor]] ~ Lang Lang (piano).
@@ -182,8 +183,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/NxV9VytEm9c][Mozart: Sinfonía n.º 40, K. 550]] ~ Orquesta de cámara noruega.
 + [[https://youtu.be/USl7qUWU33k][Mozart: Sonata para dos pianos, K. 448]] ~ Martha Argerich y Daniel Barenboim.
 + [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14]] ~ Yundi Li (piano).
-
-* Pendientes
 + [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano n.º 8 en la menor]] ~ Alexandra Dovgan.
 + [[https://youtu.be/X8VSmkFmMSQ][Mozart: Sonata para piano n.º 8]] ~ Elisabeth Leonskaja (piano).
 + [[https://youtu.be/_Z66jeM6WIw][Mozart: Sonata para piano nº. 12]] ~ Friedrich Gulda (piano).
@@ -228,7 +227,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Coro y orquesta de la Fundación J.S. Bach.
 + [[https://youtu.be/YYMovXYN9hw][Bach: Sonata para flauta en do mayor BWV 1033]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
 + [[https://youtu.be/su0MMGllWy0][Bach: Suite orquestal n.º 3, BWV 1068: II. Aire]] ~ Friedrich Gulda (piano).
 + [[https://youtu.be/QUeedE1EO8o][Bach: Variaciones Goldberg]] ~ Nobuyuki Tsujii (piano).
