@@ -48,6 +48,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/bcdS2hbpZcY][Bach: Gavotte de la 4ª suite de laúd para guitarra.]] ~ Andrés Segovia.
 + [[https://youtu.be/Rz7XWCjsP88][Bach: Minueto en sol mayor BWV 843]] ~ Fernando Lourens (clavecín).
 + [[https://youtu.be/oEnc_Qp5g6Q][Bach: Minueto en sol mayor y en sol menor]] ~ Hanna Zhang (clave).
++ [[https://youtu.be/vTBawq7Y2J4][Bach: Minueto y trío en sol menor BWV 929]] ~ Dmitri Szostak (clave).
 + [[https://youtu.be/Ug6Wj8rO-iw][Bach: Misa en si menor BWV 232 (Agnus Dei)]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/iEBX_ouEw1I][Bach: Partita para violín solo n.º 1]] ~ Hilary Hahn.
 + [[https://youtu.be/yjAMxZcRobE][Bach: Partita para violín solo n.º 3 en mi mayor]] ~ Midori (violín).
@@ -232,10 +233,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/vTBawq7Y2J4][Bach: Minueto y trío en sol menor BWV 929]] ~ Dmitri Szostak (clave).
 + [[https://youtu.be/xn3hT7MQs54][Beethoven: Sonata para violín y piano n.º 9]] ~ Martha Argerich (piano) y Janine Jansen (violín).
 + [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
 + [[https://youtu.be/-14asxhTjWo][Chaikovski: Concierto para piano n.º 1 en si bemol menor, op. 23]] ~ Yuja Wang (piano).
++ [[https://youtu.be/zOoiu1VBPIE][Chaikovski: Concierto para piano n.º 1]] ~ Gabriela Montero (piano).
 + [[https://youtu.be/A-gtWJZwYoQ][Chaikovsky: Cuarta Sinfonía]] ~ Orquesta Sinfónica de Londres.
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
