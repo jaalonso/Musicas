@@ -107,6 +107,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/zJ_Nsm-Y7RU][Bizet: Los pescadores de perlas]] ~ Alfredo Kraus.
 + [[https://youtu.be/0JkN4EAobpI][Boccherini: Minueto]] ~ Orquesta Filarmónica de Moscú.
 + [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
++ [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
 + [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
 + [[https://youtu.be/xX_0NhiMT_w][Brahms: Danzas húngaras]] ~ Claudio Abbado (director).
 + [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
@@ -117,6 +118,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/VR49WCES28A][Brahms: Sinfonía n.º 3]] ~ Orquesta Filarmónica de Londres.
 + [[https://youtu.be/YjkdsuWAKTw?si=UGbDvpPni18gt4oG][Brahms: Sonata para piano n.º 1]] ~ Alexandre Kantorow
 + [[https://youtu.be/slfumgKMKyA][Bruckner: Adagio de la sinfonía n.º 6]] ~ Mirga Gražinytė-Tyla (directora).
++ [[https://youtu.be/zOoiu1VBPIE][Chaikovski: Concierto para piano n.º 1]] ~ Gabriela Montero (piano).
++ [[https://youtu.be/-14asxhTjWo][Chaikovski: Concierto para piano n.º 1]] ~ Yuja Wang (piano).
 + [[https://youtu.be/IgrUb2IS9sI][Chaikovski: Concierto para violín]] ~ David Oistrakh (violín).
 + [[https://youtu.be/SUt0LFwG7tk][Chaikovsky: "Vals de los copos de nieve" de "El cascanueces"]] ~ Ballet Nacional Inglés
 + [[https://youtu.be/qqejv_BQ7Zg][Chaikovsky: Adagio de la rosa]] ~ Marianela Nuñez.
@@ -173,6 +176,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/WZu6vC5aQjU][Léo Delibes: Vals de Coppélia]] ~ Orquesta Funkhaus de la WDR.
 + [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
 + [[https://youtu.be/7OvsVSWB4TI][Mascagni: Intermezzo Cavalleria Rusticana]] ~ Orquesta Sinfónica Evergreen.
++ [[https://youtu.be/7QtGOWemQhY][Massenet: Meditación de Thais para violín y piano]] ~ Rusanda Panfili (violín) y Donka Angatscheva (piano).
 + [[https://youtu.be/tRHd5g5m4O8][Massenet: Meditación]] ~ Anna Tifu (violín).
 + [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/ZB-yofZVeDQ][Mendelssohn: Concierto para violín lírico]] ~ Janine Jansen (violín).
@@ -235,9 +239,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
-+ [[https://youtu.be/-14asxhTjWo][Chaikovski: Concierto para piano n.º 1 en si bemol menor, op. 23]] ~ Yuja Wang (piano).
-+ [[https://youtu.be/zOoiu1VBPIE][Chaikovski: Concierto para piano n.º 1]] ~ Gabriela Montero (piano).
 + [[https://youtu.be/A-gtWJZwYoQ][Chaikovsky: Cuarta Sinfonía]] ~ Orquesta Sinfónica de Londres.
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
