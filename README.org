@@ -126,6 +126,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/cLmUzFOSsls][Chaikovsky: Concierto para piano n.º 1]]  ~ Khatia Buniatishvili
 + [[https://youtu.be/BMsRteqEeII][Chaikovsky: Concierto para piano n.º 1]] ~ Martha Argerich (piano).
 + [[https://youtu.be/A-gtWJZwYoQ][Chaikovsky: Cuarta Sinfonía]] ~ Orquesta Sinfónica de Londres.
++ [[https://youtu.be/A-gtWJZwYoQ][Chaikovsky: Cuarta Sinfonía]] ~ Orquesta Sinfónica de Londres.
 + [[https://youtu.be/afQe11rv810][Chaikovsky: Danza española de "El lago de los cisnes"]] ~ Yuri Temirkanov (dirección).
 + [[https://youtu.be/dzltDhlAmPs][Chaikovsky: El cascanueces]] ~ Filarmónica de Berlín.
 + [[https://youtu.be/K2BWikzQojw][Chaikovsky: La bella durmiente, Op. 66]] ~ Daniil Trifonov (piano).
@@ -239,7 +240,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/A-gtWJZwYoQ][Chaikovsky: Cuarta Sinfonía]] ~ Orquesta Sinfónica de Londres.
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
