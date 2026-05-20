@@ -132,6 +132,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/K2BWikzQojw][Chaikovsky: La bella durmiente, Op. 66]] ~ Daniil Trifonov (piano).
 + [[https://youtu.be/8AmvyuhMAMg][Chaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
++ [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/BSFNl4roGlI][Chopin: Balada n.º 1]] ~ Krystian Zimerman (piano).
 + [[https://youtu.be/opoVkvHyA7o][Chopin: Concierto n° 1, mov. 3° Rondo-Vivace]] ~ Rafal Blechacz (piano).
@@ -243,7 +244,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
 + [[https://youtu.be/iAII1vuTzwI][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Saehyun Kim (piano).
