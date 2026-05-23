@@ -150,6 +150,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/KLzYwT9YT-c][Chopin: Nocturno n.º 2]] ~ Yundi Li (piano).
 + [[https://youtu.be/Y7UTWYO25Y4][Chopin: Nocturno, op 27 nº. 2]] ~ Maria João Pires (piano).
 + [[https://youtu.be/-tIdhz35tcU][Chopin: Nocturno]] ~ Menahem Presler (piano).
++ [[https://youtu.be/Nn4LXfgnVKI][Chopin: Segundo concierto]] ~ Eva Gevorgyan (piano).
 + [[https://youtu.be/WVsGf1ag6Us][Chopin: Vals Op. 64 n.º 2]] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/UWiy7xfn_YQ][Chopin: Vals Opus 64/2 en do sostenido menor]] ~ Valentina Igoshina (piano).
 + [[https://youtu.be/hKILwVH_MdM][Chopin: Vals del minuto Op. 64 nº. 1]] ~ Lang Lang (piano).
@@ -246,26 +247,27 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/iAII1vuTzwI][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Saehyun Kim (piano).
-+ [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
-+ [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
-+ [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
-+ [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, “Apasinada”]] ~ Yoav Levanon (piano).
-+ [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
++ [[https://youtu.be/Pi04QoZRiOE][Wagner: Obertura Tannhäuser]] ~ Roland Böer (director)
 + [[https://youtu.be/8UQtrrz2jf4][Mozart: Concierto para piano n.º 9]] ~ Maria João Pires (piano).
-+ [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
-+ [[https://youtu.be/_Z66jeM6WIw][Mozart: Sonata para piano nº. 12]] ~ Friedrich Gulda (piano).
-+ [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
-+ [[https://youtu.be/VGpy4ahXT8Q][Ravel: Concierto para piano en sol mayor]] ~ Seong-Jin Cho (piano).
-+ [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
-+ [[https://youtu.be/OAtFmLA1vK0][Rimsky-Korsakov: El vuelo del abejorro]] ~ Zubin Mehta (director).
-+ [[https://youtu.be/UYazgvNmoJI][Saint-Saëns: El carnaval de los animales]] ~ Lang Lang y Gina Alice (piano).
 + [[https://youtu.be/LLOs6S5S7xM][Scarlatti: Sonata en re menor]] ~ Martha Argerich (piano).
-+ [[https://youtu.be/aZEMIAfUxDs][Schubert: Impromptu n.º 3]] ~ Eric Lu (piano).
++ [[https://youtu.be/OAtFmLA1vK0][Rimsky-Korsakov: El vuelo del abejorro]] ~ Zubin Mehta (director).
++ [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
 + [[https://youtu.be/TF2zhm7XvOE][Shostakovich: Trío con piano n.° 2]] ~ Martha Argerich, Gautier y Renaud Capuçon.
++ [[https://youtu.be/UYazgvNmoJI][Saint-Saëns: El carnaval de los animales]] ~ Lang Lang y Gina Alice (piano).
++ [[https://youtu.be/VGpy4ahXT8Q][Ravel: Concierto para piano en sol mayor]] ~ Seong-Jin Cho (piano).
++ [[https://youtu.be/_Z66jeM6WIw][Mozart: Sonata para piano nº. 12]] ~ Friedrich Gulda (piano).
++ [[https://youtu.be/aZEMIAfUxDs][Schubert: Impromptu n.º 3]] ~ Eric Lu (piano).
 + [[https://youtu.be/b8bYEYNFbNU?si=5EC43cgHCd31AAh5][Sibelius: Concierto para violín en re menor]] ~ Augustin Hadelich (violín)
-+ [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
++ [[https://youtu.be/iAII1vuTzwI][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Saehyun Kim (piano).
++ [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
++ [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
++ [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
++ [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
++ [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, “Apasinada”]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/tlFu__EFFz0][Stravinsky: La consagración de la primavera]] ~ Orquesta Filarmónica de Tokio
++ [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
++ [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
++ [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
 
 Local Variables:
 truncate-lines: t
