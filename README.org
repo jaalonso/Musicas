@@ -191,6 +191,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/j8e0fBlvEMQ][Mozart: Concierto para piano n.° 23]] ~ Hélène Grimaud.
 + [[https://youtu.be/s_i9wdM2Y_k][Mozart: Concierto para piano n.º 20]] ~ András Schiff (piano).
 + [[https://youtu.be/8UQtrrz2jf4][Mozart: Concierto para piano n.º 9]] ~ Maria João Pires (piano).
++ [[https://youtu.be/8UQtrrz2jf4][Mozart: Concierto para piano n.º 9]] ~ Maria João Pires (piano).
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
 + [[https://youtu.be/LBNaE3m0FXc][Mozart: Dueto de Apolo y Jacinto]] ~ Allan Bergius (soprano) y Michel Lecocq (tenor).
 + [[https://youtu.be/1V0rGf9PjzI][Mozart: Fantasía n.º 3, K. 397]] ~ Fazıl Say (piano).
@@ -248,7 +249,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/8UQtrrz2jf4][Mozart: Concierto para piano n.º 9]] ~ Maria João Pires (piano).
 + [[https://youtu.be/LLOs6S5S7xM][Scarlatti: Sonata en re menor]] ~ Martha Argerich (piano).
 + [[https://youtu.be/OAtFmLA1vK0][Rimsky-Korsakov: El vuelo del abejorro]] ~ Zubin Mehta (director).
 + [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
