@@ -219,6 +219,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/auNCLDkEbnQ][Richard Strauss: Burlesque para piano y orquesta en re menor]] ~ Mao Fujita (piano).
 + [[https://youtu.be/OAtFmLA1vK0][Rimsky-Korsakov: El vuelo del abejorro]] ~ Zubin Mehta (director).
 + [[https://youtu.be/4r6KZZnDBwg][Saint-Saëns: Allegro appassionato para violonchelo y piano]] ~ Jacqueline du Pré (violonchelo).
++ [[https://youtu.be/UYazgvNmoJI][Saint-Saëns: El carnaval de los animales]] ~ Lang Lang y Gina Alice (piano).
 + [[https://youtu.be/41lwDMP4NjQ][Saint-Saëns: El cisne (del carnaval de los animales)]] ~ Sheku Kanneh-Mason (violoncello).
 + [[https://youtu.be/TL0xzp4zzBE][Satie: Gymnopédie n.º 1]] ~ Khatia Buniatishvili (piano).
 + [[https://youtu.be/Nq5fDKzf_oQ][Scarlatti: Sonata K. 141]] ~ Javier Perianes (piano).
@@ -254,7 +255,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/UYazgvNmoJI][Saint-Saëns: El carnaval de los animales]] ~ Lang Lang y Gina Alice (piano).
 + [[https://youtu.be/VGpy4ahXT8Q][Ravel: Concierto para piano en sol mayor]] ~ Seong-Jin Cho (piano).
 + [[https://youtu.be/_Z66jeM6WIw][Mozart: Sonata para piano nº. 12]] ~ Friedrich Gulda (piano).
 + [[https://youtu.be/aZEMIAfUxDs][Schubert: Impromptu n.º 3]] ~ Eric Lu (piano).
