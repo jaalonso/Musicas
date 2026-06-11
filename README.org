@@ -161,6 +161,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/qNoq240t54I][Debussy: Arabesco n.º 1 en mi mayor]] ~ Alain Lefèvre (piano).
 + [[https://youtu.be/Ws4QlQklqR8][Debussy: Claro de Luna]] ~ Menahem Pressler (piano).
 + [[https://youtu.be/XfeA9cd1qLI][Debussy: Ensueño]] ~  Menahem Pressler (piano).
++ [[https://youtu.be/IiebDvKnkhQ][Debussy: La más lenta]] ~ María Dueñas (violín) y Itamar Golán (piano).
 + [[https://youtu.be/8UAYCubihlc][Debussy: Preludio a la siesta de un fauno]]. ~ Clara Andrada de la Calle (flauta).
 + [[https://youtu.be/0u-b9Rt7ot0][Debussy: Rêverie]] ~ Bruce Liu (piano).
 + [[https://youtu.be/gHAF2TjxDsU][Dvořák: Concierto para violín en la menor, op. 53.]] ~ Midori (violín).
@@ -245,6 +246,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/4VLOOVJQMNQ][Shostakóvich: Vals nº 2]] ~ Orquesta Filarmónica de Berlín.
 + [[https://youtu.be/b0YjkDFJwJE][Sibelius: Concierto para violín Op. 47]] ~ David Oistrakh
 + [[https://youtu.be/b8bYEYNFbNU?si=5EC43cgHCd31AAh5][Sibelius: Concierto para violín en re menor]] ~ Augustin Hadelich (violín)
++ [[https://youtu.be/b8bYEYNFbNU][Sibelius: Concierto para violín en re menor]] ~ Augustin Hadelich (violín)
 + [[https://youtu.be/uKWSdHvxWRw][Sor Ma. Clara: Selección de piezas del Cuaderno de tonos de maitines]] ~ Gerardo Ruiz (clavecín).
 + [[https://youtu.be/tlFu__EFFz0][Stravinsky: La consagración de la primavera]] ~ Orquesta Filarmónica de Tokio
 + [[https://youtu.be/ORcAkPrS9Dk][Strohl: Soledad]] ~ Marilies Guschlbauer (celo) y Julia Rinderle (piano).
@@ -261,8 +263,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/IiebDvKnkhQ][Debussy: La más lenta]] ~ María Dueñas (violín) y Itamar Golán (piano).
-+ [[https://youtu.be/b8bYEYNFbNU?si=5EC43cgHCd31AAh5][Sibelius: Concierto para violín en re menor]] ~ Augustin Hadelich (violín)
 + [[https://youtu.be/iAII1vuTzwI][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
