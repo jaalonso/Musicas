@@ -180,6 +180,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/P60WOUYOauI][Khachaturian: Suite de Mascarada]] ~ Manfred Honeck (dirección).
 + [[https://youtu.be/x-8aa_t0d5A][Liszt/Paganini: La Campanella]] ~ Lang Lang (piano).
 + [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
++ [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, "Apasinada"]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/2FqugGjOkQE][Liszt: Sueño de amor]] ~ Lang Lang (piano).
 + [[https://youtu.be/WZu6vC5aQjU][Léo Delibes: Vals de Coppélia]] ~ Orquesta Funkhaus de la WDR.
@@ -264,7 +265,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
 + [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
 + [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
