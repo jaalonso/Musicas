@@ -77,6 +77,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/UXDVB-glRKw][Bach: Sonata para violín solo n.º 3 BWV 1005 (Allegro assai)]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/rzQnPyJx3hA][Bach: Suite francesa n.º 4]] ~ David Fray (piano).
 + [[https://youtu.be/su0MMGllWy0][Bach: Suite orquestal n.º 3, BWV 1068: II. Aire]] ~ Nikolaus Harnoncourt (director).
++ [[https://youtu.be/MyPt0VAWyKM][Bach: Suite para violonchelo n.º 1]] ~ Kim Jin-Kyung (violoncello).
 + [[https://youtu.be/Rx_IibJH4rA][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma.
 + [[https://youtu.be/JmTzspn4xWs][Bach: Tocata en sol menor BWV 915]] ~ Maude Gratton (clave).
 + [[https://youtu.be/-HqnqRZcMiE][Bach: Tocata y fuga BWV 565]] ~ Vincent Dubois (órgano).
@@ -195,7 +196,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/j8e0fBlvEMQ][Mozart: Concierto para piano n.° 23]] ~ Hélène Grimaud.
 + [[https://youtu.be/s_i9wdM2Y_k][Mozart: Concierto para piano n.º 20]] ~ András Schiff (piano).
 + [[https://youtu.be/8UQtrrz2jf4][Mozart: Concierto para piano n.º 9]] ~ Maria João Pires (piano).
-+ [[https://youtu.be/8UQtrrz2jf4][Mozart: Concierto para piano n.º 9]] ~ Maria João Pires (piano).
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
 + [[https://youtu.be/LBNaE3m0FXc][Mozart: Dueto de Apolo y Jacinto]] ~ Allan Bergius (soprano) y Michel Lecocq (tenor).
 + [[https://youtu.be/1V0rGf9PjzI][Mozart: Fantasía n.º 3, K. 397]] ~ Fazıl Say (piano).
@@ -265,6 +265,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
++ [[https://youtu.be/2Y1vJYUokbc][Bach: Chacona en re menor para dos violonchelos]]. ~ Hillary Smith y Christopher Ahn
++ [[https://youtu.be/EvNsPyp5O2I][Chopin: Nocturno nº. 2]] ~ Lang Lang (piano).
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
 + [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
 + [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
