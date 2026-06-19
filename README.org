@@ -25,6 +25,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/fw_7rUSpmbQ][Bach: Cantata n.º 39, BWV 39]] ~~~ Orquesta de la Fundación JS Bach.
 + [[https://youtu.be/QmBKTdGM2hQ][Bach: Cantata n.º 45 BWV 45]] ~ Rudolf Lutz (director).
 + [[https://youtu.be/1qWdALq02qo][Bach: Chacona de la Cantata "Nach dir, Herr, verlanget mich" BWV 150]] ~ Netherlands Bach Society.
++ [[https://youtu.be/2Y1vJYUokbc][Bach: Chacona en re menor para dos violonchelos]]. ~ Hillary Smith y Christopher Ahn
 + [[https://youtu.be/tp_WeHUKoXM][Bach: Concierto de Brandeburgo n.º 4]] ~ Claudio Abbado (director).
 + [[https://youtu.be/_V7oujd9djk][Bach: Concierto de Brandemburgo n.º 5 BWV 1050]] ~ Orquesta barroca de Friburgo.
 + [[https://youtu.be/Z-xvW920gqk][Bach: Concierto en la menor BWV 593]]. ~ Reitze Smits (órgano).
@@ -149,6 +150,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/s_ST3hzMsVE][Chopin: Nocturno en do sostenido menor]] ~ Bruce Liu (piano).
 + [[https://youtu.be/n9oQEa-d5rU][Chopin: Nocturno n.º 20]] ~ Wladyslaw Szpilman (piano).
 + [[https://youtu.be/KLzYwT9YT-c][Chopin: Nocturno n.º 2]] ~ Yundi Li (piano).
++ [[https://youtu.be/EvNsPyp5O2I][Chopin: Nocturno nº. 2]] ~ Lang Lang (piano).
 + [[https://youtu.be/Y7UTWYO25Y4][Chopin: Nocturno, op 27 nº. 2]] ~ Maria João Pires (piano).
 + [[https://youtu.be/-tIdhz35tcU][Chopin: Nocturno]] ~ Menahem Presler (piano).
 + [[https://youtu.be/Nn4LXfgnVKI][Chopin: Segundo concierto]] ~ Eva Gevorgyan (piano).
@@ -168,6 +170,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/gHAF2TjxDsU][Dvořák: Concierto para violín en la menor, op. 53.]] ~ Midori (violín).
 + [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa
++ [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
 + [[https://youtu.be/7Q6WQVV1GxQ][Dvořák: Serenata para cuerdas, op. 22]] ~ Orquesta de cámara Noruega.
 + [[https://youtu.be/QW-s_FzD9Uc][Dvořák: Sinfonía del nuevo Mundo]] ~ Karajan.
 + [[https://youtu.be/T8OKcgMl-9w][Dvořák: Sinfonía nº. 9]] ~ Dalia Stasevska (directora).
@@ -265,9 +268,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/2Y1vJYUokbc][Bach: Chacona en re menor para dos violonchelos]]. ~ Hillary Smith y Christopher Ahn
-+ [[https://youtu.be/EvNsPyp5O2I][Chopin: Nocturno nº. 2]] ~ Lang Lang (piano).
-+ [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
 + [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
 + [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, “Apasinada”]] ~ Yoav Levanon (piano).
