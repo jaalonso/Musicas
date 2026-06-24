@@ -148,6 +148,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/y7sPRNhPDQU][Chopin: Estudio Op. 10 n.º 4]] ~ Valentina Lisitsa (piano).
 + [[https://youtu.be/7VWHBHeNrg4][Chopin: Estudio op. 10, n.º 12 en do menor 'Revolucionario']] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/5PDF1YnDNyY][Chopin: Estudios Op. 25, n.° 11]] ~ Saehyun Kim (piano).
++ [[https://youtu.be/5qtJSkFW_wI][Chopin: Mazurcas, op. 6.3]] ~ Brian Ganz (piano).
 + [[https://youtu.be/s_ST3hzMsVE][Chopin: Nocturno en do sostenido menor]] ~ Bruce Liu (piano).
 + [[https://youtu.be/n9oQEa-d5rU][Chopin: Nocturno n.º 20]] ~ Wladyslaw Szpilman (piano).
 + [[https://youtu.be/KLzYwT9YT-c][Chopin: Nocturno n.º 2]] ~ Yundi Li (piano).
@@ -272,7 +273,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields.
 
 * Pendientes
-+ [[https://youtu.be/5qtJSkFW_wI][Chopin: Mazurcas, op. 6.3]] ~ Brian Ganz (piano).
 + [[https://youtu.be/02tzzlz9iPw][Chopin:  Nocturno en si mayor, op. 62]] ~ Brian Ganz (piano).
 + [[https://youtu.be/ty8OsHfh4jI][Chopin: Canción de cuna, op. 57]] ~ Brian Ganz (piano).
 + [[https://youtu.be/abnjWrsRy-c][Bach: Giga de la Partita n.º 2, BWV 1004]] ~ Jakob Lebisch (guitarra).
