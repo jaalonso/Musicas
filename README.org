@@ -73,7 +73,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/24sDrkeDil8][Bach: Sinfonía de la Cantata BWV 35]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Fundación JS Bach.
 + [[https://youtu.be/YYMovXYN9hw][Bach: Sonata para flauta en do mayor BWV 1033]] ~ Anna Besson (flauta travesera) y Beatrice Martin (clavicémbalo).
-+ [[https://youtu.be/ZBPF3zesH6k][Bach: Sonata para flauta en mi bemol mayor]] ~ Lang Lang (piano).
 + [[https://youtu.be/Aum2EmVMPYE][Bach: Sonata para viola da gamba y clave n.º 3, BWV 1029]] ~ Rebeka Rusó (viola da gamba) y Peter Waldner (clavicémbalo).
 + [[https://youtu.be/HbCJfATyROY][Bach: Sonata para violín n.º 1 en sol menor, BWV 1001]] ~ Maxim Vengerov (violín).
 + [[https://youtu.be/UXDVB-glRKw][Bach: Sonata para violín solo n.º 3 BWV 1005 (Allegro assai)]] ~ Hilary Hahn (violín).
@@ -267,6 +266,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/J5qi_4DnpKg][Verdi: Nabucco va pensiero]].
 + [[https://youtu.be/oWkbW6OVLVY][Verdi: Un baile de máscaras]] ~ Luciano Pavarotti (tenor).
 + [[https://youtu.be/_V6HpGCmId0][Vivaldi: Concierto en re mayor RV 212 "San Antonio"]] ~ Alana Youssefian (violín).
++ [[https://youtu.be/OwGJt0q-kRA][Vivaldi: Concierto en sol menor, R. 576]] ~ Anna Fusek (flauta dulce), Giulia Genini (flauta dulce), Daniele Damiano (fagot), Andreas Buschatz (violín), Albrecht Mayer (oboe).
 + [[https://youtu.be/OwGJt0q-kRA][Vivaldi: Concierto en sol menor]] ~ Daniele Damiano (fagot), Andreas Buschatz (violín), Albrecht Mayer (oboe).
 + [[https://youtu.be/UIdwCrfDNjU][Vivaldi: Las cuatro estaciones (Otoño)]] ~ Carla Moore (violín).
 + [[https://youtu.be/9ZqpSWkN5Ls][Vivaldi: Las cuatro estaciones (Verano)]] ~ Renaud Capuçon (violín).
@@ -274,6 +274,9 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
++ [[https://youtu.be/FHqytGT0lqo][Bach: Sonata para flauta en mi bemol mayor]] ~ Lang Lang (piano).
++ [[https://youtu.be/yYWlj_PBpoQ][Schumann: Las confusiones del sueño]] ~ Martha Argerich (piano).
++ [[https://youtu.be/kqOglZ5tXk4][Chopin: Preludios]] ~ András Schiff (piano).
 + [[https://youtu.be/02tzzlz9iPw][Chopin:  Nocturno en si mayor, op. 62]] ~ Brian Ganz (piano).
 + [[https://youtu.be/ty8OsHfh4jI][Chopin: Canción de cuna, op. 57]] ~ Brian Ganz (piano).
 + [[https://youtu.be/abnjWrsRy-c][Bach: Giga de la Partita n.º 2, BWV 1004]] ~ Jakob Lebisch (guitarra).
