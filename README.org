@@ -18,6 +18,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
 + [[https://youtu.be/PyMz0w2UC9s][Bach: Aria para la cuerda de sol]] ~ Jonathan Scott (órgano).
 + [[https://youtu.be/Um6drCMyQSU][Bach: Aus tiefer Not schrei ich zu dir, BWV 687]] ~ György y Márta Kurtág (piano).
++ [[https://youtu.be/UAFDRuPLQOs][Bach: Cantata BWV 196]] ~ Coro y orquesta de la Fundación J.S. Bach.
 + [[https://youtu.be/wYC53466Y2c][Bach: Cantata BWV 49]] ~ Dorothee Mields (soprano) y Andreas Wolf (bajo).
 + [[https://youtu.be/7v0OlBiADJo][Bach: Cantata n.º 17 BWV 17]] ~ Rudolf Lutz (director).
 + [[https://youtu.be/-QA-Tc8Vw80][Bach: Cantata n.º 34 BWV 34]] ~ Jos van Veldhoven (director).
@@ -68,6 +69,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/k0uL8DLwfYg][Bach: Preludio y fuga n.º 24]] ~ Piotr Anderszewski (piano)
 + [[https://youtu.be/Ogfd8DSMkRo][Bach: Primer movimiento (coro) de la cantata BWV 33]] ~ Coro y orquesta de la Fundación JS Bach.
 + [[https://youtu.be/w8eVHVblRVA][Bach: Primer movimiento de la suite para violonchelo n.º 6]] ~ Sergey Malov
++ [[https://youtu.be/c_Q3VdkVtok][Bach: Que hermoso está el día]] ~ Bart Naessens (órgano).
 + [[https://youtu.be/5XzZudf5LJ0][Bach: Sarabanda de la partita n.º 1 para violín solo]] ~ Hilary Hahn.
 + [[https://youtu.be/DX3UlhEEA2M][Bach: Sinfonía de la Cantata BWV 146]] - Jos van Veldhoven (director).
 + [[https://youtu.be/24sDrkeDil8][Bach: Sinfonía de la Cantata BWV 35]] ~ Jos van Veldhoven (director).
@@ -112,6 +114,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
 + [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
 + [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
++ [[https://youtu.be/VoRaLNOnA8w][Brahms: Concierto para piano nº. 1]] ~ Krystian Zimerman (piano).
 + [[https://youtu.be/xX_0NhiMT_w][Brahms: Danzas húngaras]] ~ Claudio Abbado (director).
 + [[https://youtu.be/2pBrYuxUCSQ][Brahms: Doble concierto]] ~ Lisa Batiashvili (violín) y Gautier Capuçon (violoncello).
 + [[https://youtu.be/RmbdJt0VUQI][Brahms: Quinteto para clarinete, op. 115]] ~ Heritage Ensemble.
@@ -136,6 +139,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/8AmvyuhMAMg][Chaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
++ [[https://youtu.be/8yVD_6arzm4][Chopin: 12 estudios, op. 25: nº. 1 "Arpa eólica"]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/BSFNl4roGlI][Chopin: Balada n.º 1]] ~ Krystian Zimerman (piano).
@@ -275,7 +279,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/c_Q3VdkVtok][Bach: Que hermoso está el día]] ~ Bart Naessens
 + [[https://youtu.be/zMC5PPw76Rs][Mozart: «Lacrimosa» del Réquiem]] ~ Xiaofu Ju (piano)
 + [[https://youtu.be/FHqytGT0lqo][Bach: Sonata para flauta en mi bemol mayor]] ~ Lang Lang (piano).
 + [[https://youtu.be/yYWlj_PBpoQ][Schumann: Las confusiones del sueño]] ~ Martha Argerich (piano).
