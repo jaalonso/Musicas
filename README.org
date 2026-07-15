@@ -30,6 +30,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/tp_WeHUKoXM][Bach: Concierto de Brandeburgo n.º 4]] ~ Claudio Abbado (director).
 + [[https://youtu.be/_V7oujd9djk][Bach: Concierto de Brandemburgo n.º 5 BWV 1050]] ~ Orquesta barroca de Friburgo.
 + [[https://youtu.be/Z-xvW920gqk][Bach: Concierto en la menor BWV 593]]. ~ Reitze Smits (órgano).
++ [[https://youtu.be/GOPFgLCsUAs][Bach: Concierto en re menor para tres pianos, BWV 1063]] ~ Güher y Süher Pekinel, Jacques Louissier.
 + [[https://youtu.be/T0cH_BvpeCU][Bach: Concierto en sol mayor según Vivaldi, BWV 973]] ~ Kanji Daito (clavicémbalo).
 + [[https://youtu.be/ghTitIMtTCM][Bach: Concierto italiano]] ~ András Schiff (piano).
 + [[https://youtu.be/PtcIMMhnppk][Bach: Concierto para 2 pianos]] ~ David Fray y Audrey Vigoureux.
@@ -51,6 +52,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/SNWOhm5iXxs][Bach: Fantasía cromática y fuga en re menor]] ~ András Schiff (piano).
 + [[https://youtu.be/0S5qR66XbHc][Bach: Gavota de la «Suite inglesa» n.º 3]] ~ Martha Argerich (piano).
 + [[https://youtu.be/bcdS2hbpZcY][Bach: Gavotte de la 4ª suite de laúd para guitarra.]] ~ Andrés Segovia.
++ [[https://youtu.be/abnjWrsRy-c][Bach: Giga de la Partita n.º 2, BWV 1004]] ~ Jakob Lebisch (guitarra).
 + [[https://youtu.be/Rz7XWCjsP88][Bach: Minueto en sol mayor BWV 843]] ~ Fernando Lourens (clavecín).
 + [[https://youtu.be/oEnc_Qp5g6Q][Bach: Minueto en sol mayor y en sol menor]] ~ Hanna Zhang (clave).
 + [[https://youtu.be/vTBawq7Y2J4][Bach: Minueto y trío en sol menor BWV 929]] ~ Dmitri Szostak (clave).
@@ -71,10 +73,12 @@ compartidos y los pendientes.
 + [[https://youtu.be/w8eVHVblRVA][Bach: Primer movimiento de la suite para violonchelo n.º 6]] ~ Sergey Malov
 + [[https://youtu.be/c_Q3VdkVtok][Bach: Que hermoso está el día]] ~ Bart Naessens (órgano).
 + [[https://youtu.be/5XzZudf5LJ0][Bach: Sarabanda de la partita n.º 1 para violín solo]] ~ Hilary Hahn.
++ [[https://youtu.be/nPxrURO_qho][Bach: Sinfonía de la Cantata BWV 12]] ~ Fundación JS Bach.
 + [[https://youtu.be/DX3UlhEEA2M][Bach: Sinfonía de la Cantata BWV 146]] - Jos van Veldhoven (director).
 + [[https://youtu.be/24sDrkeDil8][Bach: Sinfonía de la Cantata BWV 35]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Fundación JS Bach.
 + [[https://youtu.be/YYMovXYN9hw][Bach: Sonata para flauta en do mayor BWV 1033]] ~ Anna Besson (flauta travesera) y Beatrice Martin (clavicémbalo).
++ [[https://youtu.be/FHqytGT0lqo][Bach: Sonata para flauta en mi bemol mayor]] ~ Lang Lang (piano).
 + [[https://youtu.be/Aum2EmVMPYE][Bach: Sonata para viola da gamba y clave n.º 3, BWV 1029]] ~ Rebeka Rusó (viola da gamba) y Peter Waldner (clavicémbalo).
 + [[https://youtu.be/HbCJfATyROY][Bach: Sonata para violín n.º 1 en sol menor, BWV 1001]] ~ Maxim Vengerov (violín).
 + [[https://youtu.be/UXDVB-glRKw][Bach: Sonata para violín solo n.º 3 BWV 1005 (Allegro assai)]] ~ Hilary Hahn (violín).
@@ -93,6 +97,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/paFY1PvWmmg][Beethoven: Concierto para piano n.º 2]] ~ Martha Argerich (piano).
 + [[https://youtu.be/WnoeEm8a_oo][Beethoven: Concierto para piano n.º 3]] ~ Emanuel Ax (piano).
 + [[https://youtu.be/WnoeEm8a_oo][Beethoven: Concierto para piano n.º 3]] ~ Emanuel Ax (piano).
++ [[https://youtu.be/PBO17pOrXhU][Beethoven: Concierto para piano n.º 4]] ~ Krystian Zimerman (piano).
 + [[https://youtu.be/wCikqGo9O7o][Beethoven: Concierto para violín en re]] ~ Lisa Batiashvili (violín)
 + [[https://youtu.be/60-VD40O9C8][Beethoven: Cuarteto de cuerdas n.º 7]] ~ Cuarteto Aris.
 + [[https://youtu.be/V-KlmgVw5yQ][Beethoven: Cuarteto de cuerdas n.º 9]] ~ Cuarteto Aris.
@@ -102,6 +107,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/qBMf1wtYnNM][Beethoven: Octeto en mi bemol mayor]] ~ Filarmónica de Berlín.
 + [[https://youtu.be/s71I_EWJk7I][Beethoven: Para Elisa]] ~ Lang Lang (piano).
 + [[https://youtu.be/oDB1kOUFy5A][Beethoven: Sonata n.º 3 para violín y piano, op. 12]] ~ David Oistrakh y Sviatoslav Richter
++ [[https://youtu.be/efA1S8hyBms][Beethoven: Sonata para piano "Appassionata"]] ~ Lang Lang (piano).
 + [[https://youtu.be/co6nWmswipo][Beethoven: Sonata para piano "La tempestad"]] ~ Fazıl Say (piano).
 + [[https://youtu.be/-WxCQlu2l2I][Beethoven: Sonata para piano n.° 31, op. 110]] ~ András Schiff.
 + [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
@@ -140,10 +146,12 @@ compartidos y los pendientes.
 + [[https://youtu.be/8AmvyuhMAMg][Chaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
++ [[https://youtu.be/02tzzlz9iPw][Chopin:  Nocturno en si mayor, op. 62]] ~ Brian Ganz (piano).
 + [[https://youtu.be/8yVD_6arzm4][Chopin: 12 estudios, op. 25: nº. 1 "Arpa eólica"]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/BSFNl4roGlI][Chopin: Balada n.º 1]] ~ Krystian Zimerman (piano).
++ [[https://youtu.be/ty8OsHfh4jI][Chopin: Canción de cuna, op. 57]] ~ Brian Ganz (piano).
 + [[https://youtu.be/opoVkvHyA7o][Chopin: Concierto n° 1, mov. 3° Rondo-Vivace]] ~ Rafal Blechacz (piano).
 + [[https://youtu.be/MI0kGczlaJE][Chopin: Concierto para piano n.º 1]] ~ Garrick Ohlsson.
 + [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
@@ -160,6 +168,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/EvNsPyp5O2I][Chopin: Nocturno nº. 2]] ~ Lang Lang (piano).
 + [[https://youtu.be/Y7UTWYO25Y4][Chopin: Nocturno, op 27 nº. 2]] ~ Maria João Pires (piano).
 + [[https://youtu.be/-tIdhz35tcU][Chopin: Nocturno]] ~ Menahem Presler (piano).
++ [[https://youtu.be/kqOglZ5tXk4][Chopin: Preludios]] ~ András Schiff (piano).
 + [[https://youtu.be/Nn4LXfgnVKI][Chopin: Segundo concierto]] ~ Eva Gevorgyan (piano).
 + [[https://youtu.be/WVsGf1ag6Us][Chopin: Vals Op. 64 n.º 2]] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/UWiy7xfn_YQ][Chopin: Vals Opus 64/2 en do sostenido menor]] ~ Valentina Igoshina (piano).
@@ -255,6 +264,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/1viUagdHYRA][Schubert: Serenata]] ~ Luke Faulkner (piano)
 + [[https://youtu.be/jdO0OAvNj1o][Schubert: Vals capricho]] ~ David Oistrakh (violín) y Frieda Bauer (piano).
 + [[https://youtu.be/rCP27rIVJBw][Schumann/Liszt: Dedicación]] ~ Martha Argerich (piano).
++ [[https://youtu.be/X_NV1Jdhu-I][Schumann: Concierto para piano]] ~ Yunchan Lim (piano).
++ [[https://youtu.be/yYWlj_PBpoQ][Schumann: Las confusiones del sueño]] ~ Martha Argerich (piano).
 + [[https://youtu.be/4lKQQw4FLjQ][Schumann: Piezas de fantasía para violín y piano]] ~ Sol Gabetta (violonchelo) y Hélène Grimaud (piano).
 + [[https://youtu.be/IS8FO6DEwfU][Shostakovich: Sinfonía n.º 5, Op. 47]] ~ Leonard Bernstein (director).
 + [[https://youtu.be/TF2zhm7XvOE][Shostakovich: Trío con piano n.° 2]] ~ Martha Argerich, Gautier y Renaud Capuçon.
@@ -281,13 +292,13 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/FHqytGT0lqo][Bach: Sonata para flauta en mi bemol mayor]] ~ Lang Lang (piano).
-+ [[https://youtu.be/yYWlj_PBpoQ][Schumann: Las confusiones del sueño]] ~ Martha Argerich (piano).
-+ [[https://youtu.be/kqOglZ5tXk4][Chopin: Preludios]] ~ András Schiff (piano).
-+ [[https://youtu.be/02tzzlz9iPw][Chopin:  Nocturno en si mayor, op. 62]] ~ Brian Ganz (piano).
-+ [[https://youtu.be/ty8OsHfh4jI][Chopin: Canción de cuna, op. 57]] ~ Brian Ganz (piano).
-+ [[https://youtu.be/abnjWrsRy-c][Bach: Giga de la Partita n.º 2, BWV 1004]] ~ Jakob Lebisch (guitarra).
-+ [[https://youtu.be/GOPFgLCsUAs][Bach: Concierto en re menor para tres pianos, BWV 1063]] ~ Güher y Süher Pekinel, Jacques Louissier.
++ [[https://youtu.be/7ni6r4mKGk0][Bach: Preludio en si menor]] ~ Alexandra Dovgan (piano).
++ [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
++ [[https://youtu.be/WmC8myVT8HQ][Bach: WTC Libro 1, Preludio y fuga en mi mayor]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/kdwlcss3uDA][Bach: Concierto italiano en fa mayor]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/2iGoiWv6e9M][Beethoven: Sonata en do mayor, op. 2 n.º 3]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/yqv8UcXD6bo][Chopin: Estudio nº. 11 op. 25]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano n.º 8 en la menor]] ~ Alexandra Dovgan (piano).
 + [[https://youtu.be/sYqfpaBhnro][Chopin: Barcarola, op. 60]] ~ Brian Ganz (piano).
 + [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, “Apasinada”]] ~ Yoav Levanon (piano).
