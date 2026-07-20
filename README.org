@@ -9,7 +9,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/JCjNjczJfws][Albéniz: Rumores de la Caleta]] ~ Enzo Oliva (piano).
 + [[https://youtu.be/2oNE03TqoOg][Bach-Kempff: Siciliano]] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/OnCw9a5bRl8][Bach: Adagio del concierto para violín en re menor BWV 1052R]] ~ Ekkehard Abele (bajo).
++ [[https://youtu.be/6emElQDVqF4][Bach: Adagio y fuga BWV 1003]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/h3-rNMhIyuQ][Bach: Adagio]] ~ Víkingur Ólafsson (piano).
++ [[https://youtu.be/PgYnJ19pjKs][Bach: Allegro assai]] ~ Drew Henderson (guitarra).
++ [[https://youtu.be/i6OZb1j59uo][Bach: Allegro de la sonata para violín n.º 2 BWV 1003]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/S_K871_BrYQ][Bach: Allegro del concierto de Brandenburgo nº. 1]] ~ Bojan Čičić (violín)
 + [[https://youtu.be/FyeOPfg_6FE][Bach: Apertura de la Pasión según San Juan]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/YTbqQT_xelk][Bach: Aria "Ninguna duda puede perturbarme" de la Cantata BWV 108]] ~ Johannes Kaleschke (tenor).
@@ -62,10 +65,12 @@ compartidos y los pendientes.
 + [[https://youtu.be/zzBXZ__LN_M][Bach: Pasacalle en do menor]]. ~ Reitze Smits (órgano).
 + [[https://youtu.be/BBeXF_lnj_M][Bach: Pasión según San Mateo]] ~ Delphine Galou (contralto).
 + [[https://youtu.be/UjRBNFhP_ac][Bach: Pequeño preludio para principiantes BWV 934]] ~ Anyssa Neumann (piano).
++ [[https://youtu.be/oFSG7ViivHs][Bach: Preludio de la suite para violonchelo n.º 3]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/GhwEI3uSMwk][Bach: Preludio en fa mayor BWV 928]] ~ Guillermo González García (clave).
 + [[https://youtu.be/i7NlNgl4dkg][Bach: Preludio en la menor BWV 931]] ~ Dmitri Szostak (clave).
 + [[https://youtu.be/9uvofauJhJY][Bach: Preludio en re mayor BWV 925]] ~ Fernando Lourens (clavicémbalo).
 + [[https://youtu.be/-VDuMRZmg3Y][Bach: Preludio en re menor BWV 926]] ~ Adriel González (piano)
++ [[https://youtu.be/7ni6r4mKGk0][Bach: Preludio en si menor]] ~ Alexandra Dovgan (piano).
 + [[https://youtu.be/jc_zEe7ExPU][Bach: Preludio n.º 9 en mi mayor, BWV 854]] ~ Víkingur Ólafsson (piano).
 + [[https://youtu.be/g7LveqdAKcs][Bach: Preludio y fuga n.º 11]] ~ Piotr Anderszewski (piano)
 + [[https://youtu.be/k0uL8DLwfYg][Bach: Preludio y fuga n.º 24]] ~ Piotr Anderszewski (piano)
@@ -292,7 +297,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/7ni6r4mKGk0][Bach: Preludio en si menor]] ~ Alexandra Dovgan (piano).
++ [[https://youtu.be/xmQD4f8bxsw][Bach: Preludio, sarabanda, giga y doble de BWV 997]] ~ Drew Henderson (guitarra).
++ [[https://youtu.be/keAUmV6QLtI][Bach: Preludio de la Partita n.º 1, BWV 825]] ~ Drew Henderson y Simon Farintosh (guitarra).
++ [[https://youtu.be/33NQv3EX2QI][Bach: Sonata en sol menor, BWV 1001]] ~ Drew Henderson (guitarra).
++ [[https://youtu.be/FDCTTnrRcjw][Bach: Suite en mi mayor BWV 1006]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
 + [[https://youtu.be/WmC8myVT8HQ][Bach: WTC Libro 1, Preludio y fuga en mi mayor]] ~ Anastasia Dovgan (piano).
 + [[https://youtu.be/kdwlcss3uDA][Bach: Concierto italiano en fa mayor]] ~ Anastasia Dovgan (piano).
