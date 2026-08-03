@@ -301,18 +301,24 @@ compartidos y los pendientes.
 + [[https://youtu.be/9ZqpSWkN5Ls][Vivaldi: Las cuatro estaciones (Verano)]] ~ Renaud Capuçon (violín).
 + [[https://youtu.be/Pi04QoZRiOE][Wagner: Obertura Tannhäuser]] ~ Roland Böer (director).
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
++ [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
++ [[https://youtu.be/sYqfpaBhnro][Chopin: Barcarola, op. 60]] ~ Brian Ganz (piano).
++ [[https://youtu.be/UabZ5Xhsdf4][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich (piano).
++ [[https://youtu.be/QRsU8SpfEI8][Bach: Preludio n.º 12 en fa menor]] ~ Minsoo Sohn (piano).
++ [[https://youtu.be/kdwlcss3uDA][Bach: Concierto italiano en fa mayor]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/WmC8myVT8HQ][Bach: WTC Libro 1, Preludio y fuga en mi mayor]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/2iGoiWv6e9M][Beethoven: Sonata en do mayor, op. 2 n.º 3]] ~ Anastasia Dovgan (piano).
 
 * Pendientes
++ [[https://youtu.be/yqv8UcXD6bo][Chopin: Estudio nº. 11 op. 25]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano n.º 8 en la menor]] ~ Alexandra Dovgan (piano).
++ [[https://youtu.be/DU4pVJHgiL4][Mozart: Sinfonía nº 35 en re mayor]] ~ Riccardo Muti (director).
 + [[https://youtu.be/33NQv3EX2QI][Bach: Sonata en sol menor, BWV 1001]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/FDCTTnrRcjw][Bach: Suite en mi mayor BWV 1006]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
-+ [[https://youtu.be/WmC8myVT8HQ][Bach: WTC Libro 1, Preludio y fuga en mi mayor]] ~ Anastasia Dovgan (piano).
-+ [[https://youtu.be/kdwlcss3uDA][Bach: Concierto italiano en fa mayor]] ~ Anastasia Dovgan (piano).
-+ [[https://youtu.be/2iGoiWv6e9M][Beethoven: Sonata en do mayor, op. 2 n.º 3]] ~ Anastasia Dovgan (piano).
-+ [[https://youtu.be/yqv8UcXD6bo][Chopin: Estudio nº. 11 op. 25]] ~ Anastasia Dovgan (piano).
-+ [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano n.º 8 en la menor]] ~ Alexandra Dovgan (piano).
-+ [[https://youtu.be/sYqfpaBhnro][Chopin: Barcarola, op. 60]] ~ Brian Ganz (piano).
-+ [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
++ [[https://youtu.be/6TapsawYUok][Chopin: Fantasía en fa menor]] ~ Daniel Barenboim (piano).
++ [[https://youtu.be/H4zTBhc1SPg][Chopin: Barcarola en fa sostenido mayor]] ~ Daniel Barenboim (piano).
++ [[https://youtu.be/lWgoY9pCkQ0][Beethoven: Sonata para piano n.° 23 en fa menor "Apasionada"]] ~ Evgeny Kissin (piano).
 
 Local Variables:
 truncate-lines: t
