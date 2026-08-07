@@ -243,6 +243,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/0HhBr0t4VJ0][Mozart: Marcha turca]] ~ Lang Lang (piano).
 + [[https://youtu.be/qch9mpigHUc][Mozart: Pequeña serenata nocturna, K.525]] ~ Orquesta Filarmónica de Viena dirigida por Karl Böhm.
 + [[https://youtu.be/NxV9VytEm9c][Mozart: Sinfonía n.º 40, K. 550]] ~ Orquesta de cámara noruega.
++ [[https://youtu.be/DU4pVJHgiL4][Mozart: Sinfonía nº 35 en re mayor]] ~ Riccardo Muti (director).
 + [[https://youtu.be/USl7qUWU33k][Mozart: Sonata para dos pianos, K. 448]] ~ Martha Argerich y Daniel Barenboim.
 + [[https://youtu.be/NZ2dYG9rrV4][Mozart: Sonata para piano n.° 9 en re mayor, K. 311]] ~ Friedrich Gulda (piano).
 + [[https://youtu.be/-jH8HQOSfIc][Mozart: Sonata para piano n.º 14]] ~ Yundi Li (piano).
@@ -312,7 +313,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/DU4pVJHgiL4][Mozart: Sinfonía nº 35 en re mayor]] ~ Riccardo Muti (director).
 + [[https://youtu.be/33NQv3EX2QI][Bach: Sonata en sol menor, BWV 1001]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/FDCTTnrRcjw][Bach: Suite en mi mayor BWV 1006]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
