@@ -86,6 +86,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/DX3UlhEEA2M][Bach: Sinfonía de la Cantata BWV 146]] - Jos van Veldhoven (director).
 + [[https://youtu.be/24sDrkeDil8][Bach: Sinfonía de la Cantata BWV 35]] ~ Jos van Veldhoven (director).
 + [[https://youtu.be/TP2xJ_PYs7E][Bach: Sonata "Bach im Fluss" de la Cantata BWV 31]] ~ Fundación JS Bach.
++ [[https://youtu.be/33NQv3EX2QI][Bach: Sonata en sol menor, BWV 1001]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/YYMovXYN9hw][Bach: Sonata para flauta en do mayor BWV 1033]] ~ Anna Besson (flauta travesera) y Beatrice Martin (clavicémbalo).
 + [[https://youtu.be/FHqytGT0lqo][Bach: Sonata para flauta en mi bemol mayor]] ~ Lang Lang (piano).
 + [[https://youtu.be/Aum2EmVMPYE][Bach: Sonata para viola da gamba y clave n.º 3, BWV 1029]] ~ Rebeka Rusó (viola da gamba) y Peter Waldner (clavicémbalo).
@@ -313,7 +314,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/33NQv3EX2QI][Bach: Sonata en sol menor, BWV 1001]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/FDCTTnrRcjw][Bach: Suite en mi mayor BWV 1006]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
 + [[https://youtu.be/6TapsawYUok][Chopin: Fantasía en fa menor]] ~ Daniel Barenboim (piano).
