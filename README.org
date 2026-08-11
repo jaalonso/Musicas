@@ -48,6 +48,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/Fe40O80Kmcg][Bach: Concierto para teclado n.º 5]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/DgfyryZJES4][Bach: Concierto para violín n.º 2, BWV 1042]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/CwxLR13XFi4][Bach: Coral "No tan triste, no tanto" BWV 384]] ~ Sociedad holandesa de Bach
++ [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
 + [[https://youtu.be/Um6drCMyQSU][Bach: Desde una profunda angustia te lloro, BWV 687]]. ~ György y Márta Kurtág (piano).
 + [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
 + [[https://youtu.be/bLRHf_j1dLI][Bach: El arte de la fuga, BWV 1080]] ~ Daniil Trifonov (piano).
@@ -316,10 +317,22 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
 + [[https://youtu.be/6TapsawYUok][Chopin: Fantasía en fa menor]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/H4zTBhc1SPg][Chopin: Barcarola en fa sostenido mayor]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/lWgoY9pCkQ0][Beethoven: Sonata para piano n.° 23 en fa menor "Apasionada"]] ~ Evgeny Kissin (piano).
++ [[https://youtu.be/CdFUqoovxYQ][Khachaturian: Danza del sable]] ~ Camille Berthollet (violoncello), Julie Berthollet (violín).
++ [[https://youtu.be/z7Tj2SzToHI][Rossini: Obertura de Guillermo Tell]].
++ [[https://youtu.be/UIYqYlA4LnA][Handel: Suite musical acuática n.º 1 en fa mayor]] ~ Academy of St Martin in the Fields.
++ [[https://youtu.be/2FqugGjOkQE][Liszt: Sueño de amor]] ~ Lang Lang (piano).
++ [[https://youtu.be/uodyjwSpDus][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Estatal de Baviera.
++ [[https://youtu.be/LCQMIsDXKts][Massenet: Meditación de Thaïs]] ~ Bomsori (violín).
++ [[https://youtu.be/dpAsrfKUIrA][Bach: El clave bien temperado]] ~ András Schiff (piano).
++ [[https://youtu.be/NDOEPdMWnzA][Bach: Concierto de Brandeburgo n.º 6]] ~ Monica Huggett y Orquesta de la Era de la Ilustración
++ [[https://youtu.be/gqKjo_dScys][Bach: Cantata BWV 147]] ~ Nathalie Stutzmann.
++ [[https://youtu.be/VV6BYic8AJ0][Bach: Concierto para clavecín, cuerdas y bajo continuo n.º 5]] ~ Trevor Pinnock · The English Concert
++ [[https://youtu.be/6FwZZ5tjuxc][Bach: Pasión según San Mateo]] ~ Nathalie Stutzmann · Orfeo 55.
++ [[https://youtu.be/yaG8STty1r4][Bach: Concierto para teclado n.º 8]] ~ Orquesta Barroca de Ámsterdam · Ton Koopman.
+
 
 Local Variables:
 truncate-lines: t
