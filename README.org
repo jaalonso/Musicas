@@ -165,6 +165,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/BSFNl4roGlI][Chopin: Balada n.º 1]] ~ Krystian Zimerman (piano).
++ [[https://youtu.be/H4zTBhc1SPg][Chopin: Barcarola en fa sostenido mayor]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/sYqfpaBhnro][Chopin: Barcarola, op. 60]] ~ Brian Ganz (piano).
 + [[https://youtu.be/ty8OsHfh4jI][Chopin: Canción de cuna, op. 57]] ~ Brian Ganz (piano).
 + [[https://youtu.be/opoVkvHyA7o][Chopin: Concierto n° 1, mov. 3° Rondo-Vivace]] ~ Rafal Blechacz (piano).
@@ -318,7 +319,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/H4zTBhc1SPg][Chopin: Barcarola en fa sostenido mayor]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/lWgoY9pCkQ0][Beethoven: Sonata para piano n.° 23 en fa menor "Apasionada"]] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/CdFUqoovxYQ][Khachaturian: Danza del sable]] ~ Camille Berthollet (violoncello), Julie Berthollet (violín).
 + [[https://youtu.be/z7Tj2SzToHI][Rossini: Obertura de Guillermo Tell]].
@@ -332,7 +332,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/VV6BYic8AJ0][Bach: Concierto para clavecín, cuerdas y bajo continuo n.º 5]] ~ Trevor Pinnock · The English Concert
 + [[https://youtu.be/6FwZZ5tjuxc][Bach: Pasión según San Mateo]] ~ Nathalie Stutzmann · Orfeo 55.
 + [[https://youtu.be/yaG8STty1r4][Bach: Concierto para teclado n.º 8]] ~ Orquesta Barroca de Ámsterdam · Ton Koopman.
-
++ [[https://youtu.be/3GHSIPYY71w][Mozart: Réquiem]] ~ Karl Böhm (director).
++ [[https://youtu.be/Sj60kZH_GT0][Chopin: Nocturno nº 8]] ~ Bruce Liu (piano).
++ [[https://youtu.be/dkCQ3zNYgcU][Bach: Minueto en sol mayor y en sol menor BWV 841-842]] ~ Hanna Zhang (clave).
++ [[https://youtu.be/KcPHh__Ucdg][Beethoven: Sinfonía nº 3 "Heroica"]] ~ Rafael Kubelik (director).
 
 Local Variables:
 truncate-lines: t
