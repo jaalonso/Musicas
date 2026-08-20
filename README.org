@@ -230,6 +230,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, "Apasinada"]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, “Apasionada”]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/2FqugGjOkQE][Liszt: Sueño de amor]] ~ Lang Lang (piano).
++ [[https://youtu.be/2FqugGjOkQE][Liszt: Sueño de amor]] ~ Lang Lang (piano).
 + [[https://youtu.be/WZu6vC5aQjU][Léo Delibes: Vals de Coppélia]] ~ Orquesta Funkhaus de la WDR.
 + [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
 + [[https://youtu.be/7OvsVSWB4TI][Mascagni: Intermezzo Cavalleria Rusticana]] ~ Orquesta Sinfónica Evergreen.
@@ -323,7 +324,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/2FqugGjOkQE][Liszt: Sueño de amor]] ~ Lang Lang (piano).
 + [[https://youtu.be/uodyjwSpDus][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Estatal de Baviera.
 + [[https://youtu.be/LCQMIsDXKts][Massenet: Meditación de Thaïs]] ~ Bomsori (violín).
 + [[https://youtu.be/dpAsrfKUIrA][Bach: El clave bien temperado]] ~ András Schiff (piano).
