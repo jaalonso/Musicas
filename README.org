@@ -45,6 +45,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/Di2k06uNU1U][Bach: Concierto para 4 pianos]] ~ D. Fray, J. Rouvier, E. Christien, A. Vigoureux.
 + [[https://youtu.be/pXMH56hJBVI][Bach: Concierto para clave, cuerda y continuo BWV 1055]] ~ Francesco Corti (clavicémbalo).
 + [[https://youtu.be/XcsfDxojdV8][Bach: Concierto para clavecín n.° 1 en re menor]] ~ Jean Rondeau.
++ [[https://youtu.be/VV6BYic8AJ0][Bach: Concierto para clavecín, cuerdas y bajo continuo n.º 5]] ~ Trevor Pinnock · The English Concert
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/h7qtyCl7ysE][Bach: Concierto para teclado n.º 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
 + [[https://youtu.be/Fe40O80Kmcg][Bach: Concierto para teclado n.º 5]] ~ Beatrice Rana (piano).
@@ -329,13 +330,18 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/VV6BYic8AJ0][Bach: Concierto para clavecín, cuerdas y bajo continuo n.º 5]] ~ Trevor Pinnock · The English Concert
 + [[https://youtu.be/6FwZZ5tjuxc][Bach: Pasión según San Mateo]] ~ Nathalie Stutzmann · Orfeo 55.
 + [[https://youtu.be/yaG8STty1r4][Bach: Concierto para teclado n.º 8]] ~ Orquesta Barroca de Ámsterdam · Ton Koopman.
 + [[https://youtu.be/3GHSIPYY71w][Mozart: Réquiem]] ~ Karl Böhm (director).
 + [[https://youtu.be/Sj60kZH_GT0][Chopin: Nocturno nº 8]] ~ Bruce Liu (piano).
 + [[https://youtu.be/dkCQ3zNYgcU][Bach: Minueto en sol mayor y en sol menor BWV 841-842]] ~ Hanna Zhang (clave).
 + [[https://youtu.be/KcPHh__Ucdg][Beethoven: Sinfonía nº 3 "Heroica"]] ~ Rafael Kubelik (director).
++ [[https://youtu.be/MFgbBt6jByk][Bach: Cantata BWV 120a]] ~ Masaaki Suzuki (director).
++ [[https://youtu.be/hPk0GGL0i0w][Bach: El clave bien temperado]] ~ András Schiff (piano).
++ [[https://youtu.be/f3rN7JvkLBw][Bach: Concierto de Brandeburgo n.º 4]] ~ Herbert von Karajan (director).
++ [[https://youtu.be/Kk6-xXB2Vf4][Bach: Tocata y fuga BWV 565]] ~ Marie-Claire Alain (órgano).
++ [[https://youtu.be/fpq8m4aMLZk][Bach: Pasión según San Juan]] ~ Philippe Herreweghe (director).
++ [[https://youtu.be/1prweT95Mo0][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma (violoncello).
 
 Local Variables:
 truncate-lines: t
