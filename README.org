@@ -49,6 +49,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/9A2YSn_duR4][Bach: Concierto para teclado n.º 1]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/h7qtyCl7ysE][Bach: Concierto para teclado n.º 1]] ~ Glenn Gould (piano) y Leonard Bernstein (dirección).
 + [[https://youtu.be/Fe40O80Kmcg][Bach: Concierto para teclado n.º 5]] ~ Beatrice Rana (piano).
++ [[https://youtu.be/yaG8STty1r4][Bach: Concierto para teclado n.º 8]] ~ Ton Koopman (director).
 + [[https://youtu.be/DgfyryZJES4][Bach: Concierto para violín n.º 2, BWV 1042]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/CwxLR13XFi4][Bach: Coral "No tan triste, no tanto" BWV 384]] ~ Sociedad holandesa de Bach
 + [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
@@ -331,7 +332,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/yaG8STty1r4][Bach: Concierto para teclado n.º 8]] ~ Orquesta Barroca de Ámsterdam · Ton Koopman.
 + [[https://youtu.be/3GHSIPYY71w][Mozart: Réquiem]] ~ Karl Böhm (director).
 + [[https://youtu.be/Sj60kZH_GT0][Chopin: Nocturno nº 8]] ~ Bruce Liu (piano).
 + [[https://youtu.be/dkCQ3zNYgcU][Bach: Minueto en sol mayor y en sol menor BWV 841-842]] ~ Hanna Zhang (clave).
