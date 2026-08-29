@@ -261,6 +261,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/0HhBr0t4VJ0][Mozart: Marcha turca]] ~ Lang Lang (piano).
 + [[https://youtu.be/uodyjwSpDus][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Estatal de Baviera.
 + [[https://youtu.be/qch9mpigHUc][Mozart: Pequeña serenata nocturna, K.525]] ~ Orquesta Filarmónica de Viena dirigida por Karl Böhm.
++ [[https://youtu.be/3GHSIPYY71w][Mozart: Réquiem]] ~ Karl Böhm (director).
 + [[https://youtu.be/NxV9VytEm9c][Mozart: Sinfonía n.º 40, K. 550]] ~ Orquesta de cámara noruega.
 + [[https://youtu.be/DU4pVJHgiL4][Mozart: Sinfonía nº 35 en re mayor]] ~ Riccardo Muti (director).
 + [[https://youtu.be/USl7qUWU33k][Mozart: Sonata para dos pianos, K. 448]] ~ Martha Argerich y Daniel Barenboim.
@@ -332,7 +333,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/3GHSIPYY71w][Mozart: Réquiem]] ~ Karl Böhm (director).
 + [[https://youtu.be/Sj60kZH_GT0][Chopin: Nocturno nº 8]] ~ Bruce Liu (piano).
 + [[https://youtu.be/dkCQ3zNYgcU][Bach: Minueto en sol mayor y en sol menor BWV 841-842]] ~ Hanna Zhang (clave).
 + [[https://youtu.be/KcPHh__Ucdg][Beethoven: Sinfonía nº 3 "Heroica"]] ~ Rafael Kubelik (director).
