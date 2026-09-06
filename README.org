@@ -109,6 +109,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/MyPt0VAWyKM][Bach: Suite para violonchelo n.º 1]] ~ Kim Jin-Kyung (violoncello).
 + [[https://youtu.be/Rx_IibJH4rA][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma.
 + [[https://youtu.be/JmTzspn4xWs][Bach: Tocata en sol menor BWV 915]] ~ Maude Gratton (clave).
++ [[https://youtu.be/Kk6-xXB2Vf4][Bach: Tocata y fuga BWV 565]] ~ Marie-Claire Alain (órgano).
 + [[https://youtu.be/-HqnqRZcMiE][Bach: Tocata y fuga BWV 565]] ~ Vincent Dubois (órgano).
 + [[https://youtu.be/erXG9vnN-GI][Bach: Tocata y fuga en re menor]] ~ Liene Andreta Kalnciema (órgano).
 + [[https://youtu.be/iUuYirDJOa0][Bach: Variaciones Goldberg (Aria)]] ~ Thibaut Garcia (guitarra) y Antoine Morinière (guitarra).
@@ -339,7 +340,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/Kk6-xXB2Vf4][Bach: Tocata y fuga BWV 565]] ~ Marie-Claire Alain (órgano).
 + [[https://youtu.be/fpq8m4aMLZk][Bach: Pasión según San Juan]] ~ Philippe Herreweghe (director).
 + [[https://youtu.be/1prweT95Mo0][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma (violoncello).
 + [[https://youtu.be/LAfXEGHGNto][Bach: Cantata BWV 170]] ~ Andreas Scholl (alto).
