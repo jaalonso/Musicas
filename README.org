@@ -74,6 +74,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/iEBX_ouEw1I][Bach: Partita para violín solo n.º 1]] ~ Hilary Hahn.
 + [[https://youtu.be/yjAMxZcRobE][Bach: Partita para violín solo n.º 3 en mi mayor]] ~ Midori (violín).
 + [[https://youtu.be/zzBXZ__LN_M][Bach: Pasacalle en do menor]]. ~ Reitze Smits (órgano).
++ [[https://youtu.be/fpq8m4aMLZk][Bach: Pasión según San Juan]] ~ Philippe Herreweghe (director).
 + [[https://youtu.be/BBeXF_lnj_M][Bach: Pasión según San Mateo]] ~ Delphine Galou (contralto).
 + [[https://youtu.be/6FwZZ5tjuxc][Bach: Pasión según San Mateo]] ~ Nathalie Stutzmann · Orfeo 55.
 + [[https://youtu.be/UjRBNFhP_ac][Bach: Pequeño preludio para principiantes BWV 934]] ~ Anyssa Neumann (piano).
@@ -118,16 +119,12 @@ compartidos y los pendientes.
 + [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
 + [[https://youtu.be/WmC8myVT8HQ][Bach: WTC Libro 1, Preludio y fuga en mi mayor]] ~ Anastasia Dovgan (piano).
 + [[https://youtu.be/paFY1PvWmmg][Beethoven: Concierto para piano n.º 2]] ~ Martha Argerich (piano).
-+ [[https://youtu.be/paFY1PvWmmg][Beethoven: Concierto para piano n.º 2]] ~ Martha Argerich (piano).
-+ [[https://youtu.be/WnoeEm8a_oo][Beethoven: Concierto para piano n.º 3]] ~ Emanuel Ax (piano).
 + [[https://youtu.be/WnoeEm8a_oo][Beethoven: Concierto para piano n.º 3]] ~ Emanuel Ax (piano).
 + [[https://youtu.be/PBO17pOrXhU][Beethoven: Concierto para piano n.º 4]] ~ Krystian Zimerman (piano).
 + [[https://youtu.be/wCikqGo9O7o][Beethoven: Concierto para violín en re]] ~ Lisa Batiashvili (violín)
 + [[https://youtu.be/60-VD40O9C8][Beethoven: Cuarteto de cuerdas n.º 7]] ~ Cuarteto Aris.
 + [[https://youtu.be/V-KlmgVw5yQ][Beethoven: Cuarteto de cuerdas n.º 9]] ~ Cuarteto Aris.
-+ [[https://youtu.be/V-KlmgVw5yQ][Beethoven: Cuarteto de cuerdas n.º 9]] ~ Cuarteto Aris.
 + [[https://youtu.be/60-VD40O9C8][Beethoven: Cuarteto de cuerdas]] n.º 7 ~ Cuarteto Aris.
-+ [[https://youtu.be/qBMf1wtYnNM][Beethoven: Octeto en mi bemol mayor]] ~ Filarmónica de Berlín.
 + [[https://youtu.be/qBMf1wtYnNM][Beethoven: Octeto en mi bemol mayor]] ~ Filarmónica de Berlín.
 + [[https://youtu.be/s71I_EWJk7I][Beethoven: Para Elisa]] ~ Lang Lang (piano).
 + [[https://youtu.be/KcPHh__Ucdg][Beethoven: Sinfonía nº 3 "Heroica"]] ~ Rafael Kubelik (director).
@@ -140,11 +137,9 @@ compartidos y los pendientes.
 + [[https://youtu.be/LZGGmOOniCo][Beethoven: Sonata para piano n.° 8 "Patética"]] ~ Fazıl Say (piano).
 + [[https://youtu.be/cB6lP3ORUtI][Beethoven: Sonata para violín n.º 5 «Primavera»]] ~ Sarah Kim (violín) y Nelson Padgett (piano).
 + [[https://youtu.be/xn3hT7MQs54][Beethoven: Sonata para violín y piano n.º 9]] ~ Martha Argerich (piano) y Janine Jansen (violín).
-+ [[https://youtu.be/xn3hT7MQs54][Beethoven: Sonata para violín y piano n.º 9]] ~ Martha Argerich (piano) y Janine Jansen (violín).
 + [[https://youtu.be/452nsCCzIJs][Beethoven: Triple concerto, op. 56 n.º 2]] ~~~ Anne-Sophie Mutter, Daniel Barenboim, Yo-Yo Ma.
 + [[https://youtu.be/zJ_Nsm-Y7RU][Bizet: Los pescadores de perlas]] ~ Alfredo Kraus.
 + [[https://youtu.be/0JkN4EAobpI][Boccherini: Minueto]] ~ Orquesta Filarmónica de Moscú.
-+ [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
 + [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
 + [[https://youtu.be/8LJu-qzWxg4][Brahms: Canción de cuna]] ~ Kenji Miura (piano).
 + [[https://youtu.be/VoRaLNOnA8w][Brahms: Concierto para piano nº. 1]] ~ Krystian Zimerman (piano).
@@ -166,16 +161,13 @@ compartidos y los pendientes.
 + [[https://youtu.be/cLmUzFOSsls][Chaikovsky: Concierto para piano n.º 1]]  ~ Khatia Buniatishvili
 + [[https://youtu.be/BMsRteqEeII][Chaikovsky: Concierto para piano n.º 1]] ~ Martha Argerich (piano).
 + [[https://youtu.be/A-gtWJZwYoQ][Chaikovsky: Cuarta Sinfonía]] ~ Orquesta Sinfónica de Londres.
-+ [[https://youtu.be/A-gtWJZwYoQ][Chaikovsky: Cuarta Sinfonía]] ~ Orquesta Sinfónica de Londres.
 + [[https://youtu.be/afQe11rv810][Chaikovsky: Danza española de "El lago de los cisnes"]] ~ Yuri Temirkanov (dirección).
 + [[https://youtu.be/dzltDhlAmPs][Chaikovsky: El cascanueces]] ~ Filarmónica de Berlín.
 + [[https://youtu.be/K2BWikzQojw][Chaikovsky: La bella durmiente, Op. 66]] ~ Daniil Trifonov (piano).
 + [[https://youtu.be/8AmvyuhMAMg][Chaikovsky: La bella durmiente]]. ~ Daniil Trifonov (piano).
 + [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
-+ [[https://youtu.be/QjGbrnrteac][Chaikovsky: La danza del hada de azúcar]] ~ Nobuyuki Tsujii (piano).
 + [[https://youtu.be/02tzzlz9iPw][Chopin:  Nocturno en si mayor, op. 62]] ~ Brian Ganz (piano).
 + [[https://youtu.be/8yVD_6arzm4][Chopin: 12 estudios, op. 25: nº. 1 "Arpa eólica"]] ~ Saehyun Kim (piano).
-+ [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/zzY-luryRLo][Chopin: 24 Preludios, Op. 28: n.° 4 en mi menor]]. ~ Mijaíl Pletnev (piano).
 + [[https://youtu.be/BSFNl4roGlI][Chopin: Balada n.º 1]] ~ Krystian Zimerman (piano).
 + [[https://youtu.be/H4zTBhc1SPg][Chopin: Barcarola en fa sostenido mayor]] ~ Daniel Barenboim (piano).
@@ -184,7 +176,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/opoVkvHyA7o][Chopin: Concierto n° 1, mov. 3° Rondo-Vivace]] ~ Rafal Blechacz (piano).
 + [[https://youtu.be/MI0kGczlaJE][Chopin: Concierto para piano n.º 1]] ~ Garrick Ohlsson.
 + [[https://youtu.be/UabZ5Xhsdf4][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich (piano).
-+ [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
 + [[https://youtu.be/kkZP4AUkTNY][Chopin: Concierto para piano n.º 1]] ~ Martha Argerich.
 + [[https://youtu.be/TjmKsInL4cc][Chopin: Estudio Op. 10 n.º 12 'Revolucionario']] ~ Yundi Li (piano).
 + [[https://youtu.be/y7sPRNhPDQU][Chopin: Estudio Op. 10 n.º 4]] ~ Valentina Lisitsa (piano).
@@ -220,7 +211,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/0u-b9Rt7ot0][Debussy: Rêverie]] ~ Bruce Liu (piano).
 + [[https://youtu.be/gHAF2TjxDsU][Dvořák: Concierto para violín en la menor, op. 53.]] ~ Midori (violín).
 + [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
-+ [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa.
 + [[https://youtu.be/7Q6WQVV1GxQ][Dvořák: Serenata para cuerdas, op. 22]] ~ Orquesta de cámara Noruega.
@@ -239,10 +229,8 @@ compartidos y los pendientes.
 + [[https://youtu.be/P60WOUYOauI][Khachaturian: Suite de Mascarada]] ~ Manfred Honeck (dirección).
 + [[https://youtu.be/x-8aa_t0d5A][Liszt/Paganini: La Campanella]] ~ Lang Lang (piano).
 + [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
-+ [[https://youtu.be/k9L1qLqIcnE][Liszt: Años de peregrinación (Orage)]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, "Apasinada"]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/tD1EROVJvBc][Liszt: Estudio trascendental n.° 10, “Apasionada”]] ~ Yoav Levanon (piano).
-+ [[https://youtu.be/2FqugGjOkQE][Liszt: Sueño de amor]] ~ Lang Lang (piano).
 + [[https://youtu.be/2FqugGjOkQE][Liszt: Sueño de amor]] ~ Lang Lang (piano).
 + [[https://youtu.be/WZu6vC5aQjU][Léo Delibes: Vals de Coppélia]] ~ Orquesta Funkhaus de la WDR.
 + [[https://youtu.be/umpQqm9MyT8][Mahler: Quinta sinfonía]] ~ Iván Fischer (director).
@@ -250,7 +238,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/7QtGOWemQhY][Massenet: Meditación de Thais para violín y piano]] ~ Rusanda Panfili (violín) y Donka Angatscheva (piano).
 + [[https://youtu.be/LCQMIsDXKts][Massenet: Meditación de Thaïs]] ~ Bomsori (violín).
 + [[https://youtu.be/tRHd5g5m4O8][Massenet: Meditación]] ~ Anna Tifu (violín).
-+ [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/rXwlXmKr5PA][Mendelssohn: Canción sin palabras, Op. 67, n.º 2]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/ZB-yofZVeDQ][Mendelssohn: Concierto para violín lírico]] ~ Janine Jansen (violín).
 + [[https://youtu.be/zC6tY-UgVxU][Mendelssohn: Concierto para violín]] ~ Alena Baeva (violín).
@@ -278,8 +265,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/31Rvn3vtoZ4][Mozart: Sonata para piano n.º 8 en la menor]] ~ Alexandra Dovgan.
 + [[https://youtu.be/X8VSmkFmMSQ][Mozart: Sonata para piano n.º 8]] ~ Elisabeth Leonskaja (piano).
 + [[https://youtu.be/_Z66jeM6WIw][Mozart: Sonata para piano nº. 12]] ~ Friedrich Gulda (piano).
-+ [[https://youtu.be/_Z66jeM6WIw][Mozart: Sonata para piano nº. 12]] ~ Friedrich Gulda (piano).
-+ [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
 + [[https://youtu.be/qSSkr84Dc0A][Mozart: Sonata para violín en mi bemol]] ~ Renaud Capuçon (violín), Kit Armstrong (piano).
 + [[https://youtu.be/zMC5PPw76Rs][Mozart: «Lacrimosa» del Réquiem]] ~ Xiaofu Ju (piano).
 + [[https://youtu.be/mVUpKIFHqZk][Offenbach: Los cuentos de Hoffmann]] ~ Patricia Janečková (soprano).
@@ -291,7 +276,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/Q0Qo1anGvfQ][Ravel: La Valse]] ~ Martha Argerich (piano) y Nelson Freire (piano).
 + [[https://youtu.be/xXPlCTQ2DMA][Ravel: Preludio en la menor]] ~ Seong-Jin Cho (piano)
 + [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
-+ [[https://youtu.be/Szdziw4tI9o][Richard Strauss: Así habló Zaratustra]] ~ Orquesta Filarmónica de Berlín
 + [[https://youtu.be/auNCLDkEbnQ][Richard Strauss: Burlesque para piano y orquesta en re menor]] ~ Mao Fujita (piano).
 + [[https://youtu.be/OAtFmLA1vK0][Rimsky-Korsakov: El vuelo del abejorro]] ~ Zubin Mehta (director).
 + [[https://youtu.be/4r6KZZnDBwg][Saint-Saëns: Allegro appassionato para violonchelo y piano]] ~ Jacqueline du Pré (violonchelo).
@@ -300,13 +284,11 @@ compartidos y los pendientes.
 + [[https://youtu.be/TL0xzp4zzBE][Satie: Gymnopédie n.º 1]] ~ Khatia Buniatishvili (piano).
 + [[https://youtu.be/Nq5fDKzf_oQ][Scarlatti: Sonata K. 141]] ~ Javier Perianes (piano).
 + [[https://youtu.be/LLOs6S5S7xM][Scarlatti: Sonata en re menor]] ~ Martha Argerich (piano).
-+ [[https://youtu.be/LLOs6S5S7xM][Scarlatti: Sonata en re menor]] ~ Martha Argerich (piano).
 + [[https://youtu.be/fH225XZldjs][Schubert: Ave María]] ~ Gautier Capuçon (violonchelo).
 + [[https://youtu.be/LNUJA9N14eM][Schubert: Ave María]] ~ Michael Lucarelli (guitarra).
 + [[https://youtu.be/GI9D8ZXvdig][Schubert: Cuatro improvisaciones, op. 90, D. 899 nº. 3 en sol bemol mayor]] ~ Eric Lu (piano).
 + [[https://youtu.be/OZHPmRU38vA][Schubert: Fantasia a 4 manos]] ~ Lang Lang, Daniel Baremboim.
 + [[https://youtu.be/ApVTzLZDm6k][Schubert: Fantasía en fa menor]] ~ Bertrand Chamayou y Leif Ove Andsnes (piano).
-+ [[https://youtu.be/aZEMIAfUxDs][Schubert: Impromptu n.º 3]] ~ Eric Lu (piano).
 + [[https://youtu.be/aZEMIAfUxDs][Schubert: Impromptu n.º 3]] ~ Eric Lu (piano).
 + [[https://youtu.be/1viUagdHYRA][Schubert: Serenata]] ~ Luke Faulkner (piano)
 + [[https://youtu.be/jdO0OAvNj1o][Schubert: Vals capricho]] ~ David Oistrakh (violín) y Frieda Bauer (piano).
@@ -315,7 +297,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/yYWlj_PBpoQ][Schumann: Las confusiones del sueño]] ~ Martha Argerich (piano).
 + [[https://youtu.be/4lKQQw4FLjQ][Schumann: Piezas de fantasía para violín y piano]] ~ Sol Gabetta (violonchelo) y Hélène Grimaud (piano).
 + [[https://youtu.be/IS8FO6DEwfU][Shostakovich: Sinfonía n.º 5, Op. 47]] ~ Leonard Bernstein (director).
-+ [[https://youtu.be/TF2zhm7XvOE][Shostakovich: Trío con piano n.° 2]] ~ Martha Argerich, Gautier y Renaud Capuçon.
 + [[https://youtu.be/TF2zhm7XvOE][Shostakovich: Trío con piano n.° 2]] ~ Martha Argerich, Gautier y Renaud Capuçon.
 + [[https://youtu.be/4VLOOVJQMNQ][Shostakóvich: Vals nº 2]] ~ Orquesta Filarmónica de Berlín.
 + [[https://youtu.be/b0YjkDFJwJE][Sibelius: Concierto para violín Op. 47]] ~ David Oistrakh
@@ -340,13 +321,13 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/fpq8m4aMLZk][Bach: Pasión según San Juan]] ~ Philippe Herreweghe (director).
 + [[https://youtu.be/1prweT95Mo0][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma (violoncello).
 + [[https://youtu.be/LAfXEGHGNto][Bach: Cantata BWV 170]] ~ Andreas Scholl (alto).
 + [[https://youtu.be/1RV0nzbZTnQ][Bach: Cantata BWV 484]] ~ Michaela Riener (mezzosoprano) y Menno van Delft (órgano).
 + [[https://youtu.be/krlg5lQLamg][Chopin: Estudio op. 10]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/F6A7b-8QoL4][Bach: El clave bien temperado, Libro 1, n.º 20. Movimiento 1: Preludio]] ~ Minsoo Sohn (piano).
 + [[https://youtu.be/h8t-svA72k0][Chopin: Estudio op. 25, nº. 12]] ~ Saehyun Kim (piano).
++ [[https://youtu.be/Q_ySPQcKWIQ][Bach: Concierto italiano, BWV 971]] ~ András Schiff (piano).
 
 Local Variables:
 truncate-lines: t
