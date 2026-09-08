@@ -108,6 +108,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/rzQnPyJx3hA][Bach: Suite francesa n.º 4]] ~ David Fray (piano).
 + [[https://youtu.be/su0MMGllWy0][Bach: Suite orquestal n.º 3, BWV 1068: II. Aire]] ~ Nikolaus Harnoncourt (director).
 + [[https://youtu.be/MyPt0VAWyKM][Bach: Suite para violonchelo n.º 1]] ~ Kim Jin-Kyung (violoncello).
++ [[https://youtu.be/1prweT95Mo0][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma (violoncello).
 + [[https://youtu.be/Rx_IibJH4rA][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma.
 + [[https://youtu.be/JmTzspn4xWs][Bach: Tocata en sol menor BWV 915]] ~ Maude Gratton (clave).
 + [[https://youtu.be/Kk6-xXB2Vf4][Bach: Tocata y fuga BWV 565]] ~ Marie-Claire Alain (órgano).
@@ -321,7 +322,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/1prweT95Mo0][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma (violoncello).
 + [[https://youtu.be/LAfXEGHGNto][Bach: Cantata BWV 170]] ~ Andreas Scholl (alto).
 + [[https://youtu.be/1RV0nzbZTnQ][Bach: Cantata BWV 484]] ~ Michaela Riener (mezzosoprano) y Menno van Delft (órgano).
 + [[https://youtu.be/krlg5lQLamg][Chopin: Estudio op. 10]] ~ Yoav Levanon (piano).
