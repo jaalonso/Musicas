@@ -25,6 +25,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/gqKjo_dScys][Bach: Cantata BWV 147]] ~ Nathalie Stutzmann.
 + [[https://youtu.be/LAfXEGHGNto][Bach: Cantata BWV 170]] ~ Andreas Scholl (alto).
 + [[https://youtu.be/UAFDRuPLQOs][Bach: Cantata BWV 196]] ~ Coro y orquesta de la Fundación J.S. Bach.
++ [[https://youtu.be/1RV0nzbZTnQ][Bach: Cantata BWV 484]] ~ Michaela Riener (mezzosoprano) y Menno van Delft (órgano).
 + [[https://youtu.be/wYC53466Y2c][Bach: Cantata BWV 49]] ~ Dorothee Mields (soprano) y Andreas Wolf (bajo).
 + [[https://youtu.be/7v0OlBiADJo][Bach: Cantata n.º 17 BWV 17]] ~ Rudolf Lutz (director).
 + [[https://youtu.be/-QA-Tc8Vw80][Bach: Cantata n.º 34 BWV 34]] ~ Jos van Veldhoven (director).
@@ -183,6 +184,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/y7sPRNhPDQU][Chopin: Estudio Op. 10 n.º 4]] ~ Valentina Lisitsa (piano).
 + [[https://youtu.be/yqv8UcXD6bo][Chopin: Estudio nº. 11 op. 25]] ~ Anastasia Dovgan (piano).
 + [[https://youtu.be/7VWHBHeNrg4][Chopin: Estudio op. 10, n.º 12 en do menor 'Revolucionario']] ~ Evgeny Kissin (piano).
++ [[https://youtu.be/krlg5lQLamg][Chopin: Estudio op. 10]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/5PDF1YnDNyY][Chopin: Estudios Op. 25, n.° 11]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/6TapsawYUok][Chopin: Fantasía en fa menor]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/5qtJSkFW_wI][Chopin: Mazurcas, op. 6.3]] ~ Brian Ganz (piano).
@@ -323,8 +325,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/1RV0nzbZTnQ][Bach: Cantata BWV 484]] ~ Michaela Riener (mezzosoprano) y Menno van Delft (órgano).
-+ [[https://youtu.be/krlg5lQLamg][Chopin: Estudio op. 10]] ~ Yoav Levanon (piano).
 + [[https://youtu.be/F6A7b-8QoL4][Bach: El clave bien temperado, Libro 1, n.º 20. Movimiento 1: Preludio]] ~ Minsoo Sohn (piano).
 + [[https://youtu.be/h8t-svA72k0][Chopin: Estudio op. 25, nº. 12]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/Q_ySPQcKWIQ][Bach: Concierto italiano, BWV 971]] ~ András Schiff (piano).
