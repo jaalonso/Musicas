@@ -61,6 +61,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
 + [[https://youtu.be/bLRHf_j1dLI][Bach: El arte de la fuga, BWV 1080]] ~ Daniil Trifonov (piano).
 + [[https://youtu.be/iWoI8vmE8bI][Bach: El clave bien temperado (Preludio n° 1)]] ~ Alexandre Tharaud (piano).
++ [[https://youtu.be/F6A7b-8QoL4][Bach: El clave bien temperado, Libro 1, n.º 20. Movimiento 1: Preludio]] ~ Minsoo Sohn (piano).
 + [[https://youtu.be/5gTA5q6eqyo][Bach: El clave bien temperado]] ~ András Schiff (piano).
 + [[https://youtu.be/dpAsrfKUIrA][Bach: El clave bien temperado]] ~ András Schiff (piano).
 + [[https://youtu.be/hPk0GGL0i0w][Bach: El clave bien temperado]] ~ András Schiff (piano).
@@ -325,7 +326,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/F6A7b-8QoL4][Bach: El clave bien temperado, Libro 1, n.º 20. Movimiento 1: Preludio]] ~ Minsoo Sohn (piano).
 + [[https://youtu.be/h8t-svA72k0][Chopin: Estudio op. 25, nº. 12]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/Q_ySPQcKWIQ][Bach: Concierto italiano, BWV 971]] ~ András Schiff (piano).
 
