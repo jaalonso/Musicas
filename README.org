@@ -42,6 +42,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/GOPFgLCsUAs][Bach: Concierto en re menor para tres pianos, BWV 1063]] ~ Güher y Süher Pekinel, Jacques Louissier.
 + [[https://youtu.be/T0cH_BvpeCU][Bach: Concierto en sol mayor según Vivaldi, BWV 973]] ~ Kanji Daito (clavicémbalo).
 + [[https://youtu.be/kdwlcss3uDA][Bach: Concierto italiano en fa mayor]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/Q_ySPQcKWIQ][Bach: Concierto italiano, BWV 971]] ~ András Schiff (piano).
 + [[https://youtu.be/ghTitIMtTCM][Bach: Concierto italiano]] ~ András Schiff (piano).
 + [[https://youtu.be/PtcIMMhnppk][Bach: Concierto para 2 pianos]] ~ David Fray y Audrey Vigoureux.
 + [[https://youtu.be/K0nqoXSIS0Y][Bach: Concierto para 2 pianos]] ~ Khatia y Gvantsa Buniatishvili.
@@ -186,6 +187,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/yqv8UcXD6bo][Chopin: Estudio nº. 11 op. 25]] ~ Anastasia Dovgan (piano).
 + [[https://youtu.be/7VWHBHeNrg4][Chopin: Estudio op. 10, n.º 12 en do menor 'Revolucionario']] ~ Evgeny Kissin (piano).
 + [[https://youtu.be/krlg5lQLamg][Chopin: Estudio op. 10]] ~ Yoav Levanon (piano).
++ [[https://youtu.be/h8t-svA72k0][Chopin: Estudio op. 25, nº. 12]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/5PDF1YnDNyY][Chopin: Estudios Op. 25, n.° 11]] ~ Saehyun Kim (piano).
 + [[https://youtu.be/6TapsawYUok][Chopin: Fantasía en fa menor]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/5qtJSkFW_wI][Chopin: Mazurcas, op. 6.3]] ~ Brian Ganz (piano).
@@ -326,8 +328,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/h8t-svA72k0][Chopin: Estudio op. 25, nº. 12]] ~ Saehyun Kim (piano).
-+ [[https://youtu.be/Q_ySPQcKWIQ][Bach: Concierto italiano, BWV 971]] ~ András Schiff (piano).
++ [[https://youtu.be/1Fj7bLYqQXM][Clara Schumann: Concierto para piano en la menor, op. 7]] ~ Beatrice Rana (piano).
 
 Local Variables:
 truncate-lines: t
