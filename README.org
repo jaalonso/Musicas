@@ -24,14 +24,14 @@ compartidos y los pendientes.
 + [[https://youtu.be/MFgbBt6jByk][Bach: Cantata BWV 120a]] ~ Masaaki Suzuki (director).
 + [[https://youtu.be/gqKjo_dScys][Bach: Cantata BWV 147]] ~ Nathalie Stutzmann.
 + [[https://youtu.be/LAfXEGHGNto][Bach: Cantata BWV 170]] ~ Andreas Scholl (alto).
++ [[https://youtu.be/7v0OlBiADJo][Bach: Cantata BWV 17]] ~ Rudolf Lutz (director).
 + [[https://youtu.be/UAFDRuPLQOs][Bach: Cantata BWV 196]] ~ Coro y orquesta de la Fundación J.S. Bach.
++ [[https://youtu.be/-QA-Tc8Vw80][Bach: Cantata BWV 34]] ~ Jos van Veldhoven (director).
++ [[https://youtu.be/nUcxG3h5XCc][Bach: Cantata BWV 36]] ~ Olaf Bär (bajo).
++ [[https://youtu.be/fw_7rUSpmbQ][Bach: Cantata BWV 39]] ~~~ Orquesta de la Fundación JS Bach.
++ [[https://youtu.be/QmBKTdGM2hQ][Bach: Cantata BWV 45]] ~ Rudolf Lutz (director).
 + [[https://youtu.be/1RV0nzbZTnQ][Bach: Cantata BWV 484]] ~ Michaela Riener (mezzosoprano) y Menno van Delft (órgano).
 + [[https://youtu.be/wYC53466Y2c][Bach: Cantata BWV 49]] ~ Dorothee Mields (soprano) y Andreas Wolf (bajo).
-+ [[https://youtu.be/7v0OlBiADJo][Bach: Cantata n.º 17 BWV 17]] ~ Rudolf Lutz (director).
-+ [[https://youtu.be/-QA-Tc8Vw80][Bach: Cantata n.º 34 BWV 34]] ~ Jos van Veldhoven (director).
-+ [[https://youtu.be/nUcxG3h5XCc][Bach: Cantata n.º 36 (Aria Willkommen, werter Schatz!) BWV 36]] ~ Olaf Bär (bajo).
-+ [[https://youtu.be/fw_7rUSpmbQ][Bach: Cantata n.º 39, BWV 39]] ~~~ Orquesta de la Fundación JS Bach.
-+ [[https://youtu.be/QmBKTdGM2hQ][Bach: Cantata n.º 45 BWV 45]] ~ Rudolf Lutz (director).
 + [[https://youtu.be/1qWdALq02qo][Bach: Chacona de la Cantata "Nach dir, Herr, verlanget mich" BWV 150]] ~ Netherlands Bach Society.
 + [[https://youtu.be/2Y1vJYUokbc][Bach: Chacona en re menor para dos violonchelos]]. ~ Hillary Smith y Christopher Ahn
 + [[https://youtu.be/tp_WeHUKoXM][Bach: Concierto de Brandeburgo n.º 4]] ~ Claudio Abbado (director).
@@ -207,6 +207,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/Gwm8pvt6IT4][Chopin: Vals en la bemol mayor, op. 69, n.º 1 («Adieu»)]] ~ Brian Ganz (piano).
 + [[https://youtu.be/s_O7q9RIep4][Chopin: Vals n.º 1 "Grande valse brillante"]] ~ Lang Lang (piano).
 + [[https://youtu.be/WRMI5VsbI64][Chopin: Vals nº  7 en do sostenido menor]] ~ Rafał Blechacz (piano).
++ [[https://youtu.be/1Fj7bLYqQXM][Clara Schumann: Concierto para piano en la menor, op. 7]] ~ Beatrice Rana (piano).
 + [[https://youtu.be/eWQvK3HFmVg][Clara Schumann: Polonesa Op. 1 nº. 1]] ~ Noriko Ogawa (piano).
 + [[https://youtu.be/G2yVMWbslCM][Clara Schumann: Tres romances para violín y piano, Op. 22]] ~ Janine Jansen (vioín) y Denis Kozhukhin (piano).
 + [[https://youtu.be/6SNY2psmNi0][Clara Schumann: Trío para piano en Sol menor, Op. 17]] ~ Anne-Sophie Mutter (violín) y Pablo Ferrández (piano).
@@ -328,7 +329,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/1Fj7bLYqQXM][Clara Schumann: Concierto para piano en la menor, op. 7]] ~ Beatrice Rana (piano).
++ [[https://youtu.be/XchS7HiO6Qo][Chopin: Nocturno en do sostenido menor]] ~ George Li (piano).
 
 Local Variables:
 truncate-lines: t
