@@ -192,6 +192,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/6TapsawYUok][Chopin: Fantasía en fa menor]] ~ Daniel Barenboim (piano).
 + [[https://youtu.be/5qtJSkFW_wI][Chopin: Mazurcas, op. 6.3]] ~ Brian Ganz (piano).
 + [[https://youtu.be/s_ST3hzMsVE][Chopin: Nocturno en do sostenido menor]] ~ Bruce Liu (piano).
++ [[https://youtu.be/XchS7HiO6Qo][Chopin: Nocturno en do sostenido menor]] ~ George Li (piano).
 + [[https://youtu.be/ONxG3-wJzLs][Chopin: Nocturno n.º 20 en do sostenido menor]] ~ Tianyao Lyu (piano).
 + [[https://youtu.be/n9oQEa-d5rU][Chopin: Nocturno n.º 20]] ~ Wladyslaw Szpilman (piano).
 + [[https://youtu.be/KLzYwT9YT-c][Chopin: Nocturno n.º 2]] ~ Yundi Li (piano).
@@ -329,7 +330,13 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/XchS7HiO6Qo][Chopin: Nocturno en do sostenido menor]] ~ George Li (piano).
++ [[https://youtu.be/S_i38Kb0oV0][Gounod: La siesta]] ~ Ann Murray (mezzosoprano) y Felicity Lott (soprano).
++ [[https://youtu.be/D5hZqpzDpDo][Bizet: Habanera de Carmen]] ~ Maria Callas (soprano).
++ [[https://youtu.be/4IcL8Kq2fps][Handel: Lascia ch'io pianga]] ~ Ewa Mallas-Godlewska (soprano).
++ [[https://youtu.be/lvEuRvF1acI][Falla: Noche en los jardínes de España]] ~ Juan Pérez Floristán (piano).
++ [[https://youtu.be/9EGdL_P2iXE][Beethoven: Claro de luna]] ~ Igor Levit (piano).
++ [[https://youtu.be/svWwGIqebbQ][Bach: Concierto de Brandeburgo n.º 3]] ~ The English Concert con Trevor Pinnock (director).
++ [[https://youtu.be/1PQefCubmvk][Dvorák: Humorescas]] ~ Isaac Stern (violín).
 
 Local Variables:
 truncate-lines: t
