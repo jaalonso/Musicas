@@ -1,0 +1,19 @@
+#!/bin/bash
+
+mostrar_ayuda() {
+    echo "  + Pausar: p"
+    echo "  + Reanudar: p"
+    echo "  + Pista siguiente: >"
+    echo "  + Pista anterior: <"
+    echo "  + Parar del todo: q"
+    echo "  + Orden aleatorio: z"
+    echo "  + Orden original: Z"
+    echo "  + Mostrar esta ayuda: h"
+    echo ""
+}
+
+mostrar_ayuda
+
+mpv --no-video --msg-level=all=no --script=show-title.lua \
+    --loop-playlist=no --loop-file=no \
+    clasica.m3u

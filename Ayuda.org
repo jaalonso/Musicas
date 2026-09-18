@@ -1,0 +1,16 @@
+#+TITLE: Ayudas
+
++ Para generar la lista de reproducción, dentro de =README.org= se ejecuta
+  =M-x genera-clasica-m3u= y crea el fichero =clasica.m3u=.
+
++ Para reproducir la lista, en una terminal, se ejecuta
+  =./reproduce_musica=.
+
++ Para controlar la reproducción:
+  + Pausar: =p=
+  + Reanudar: =p=
+  + Pista siguiente: =>=
+  + Pista anterior: =<=
+  + Parar del todo: =q=
+  + Orden aleatorio: =z=
+  + Orden original: =Z=

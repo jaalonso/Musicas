@@ -226,6 +226,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/QW-s_FzD9Uc][Dvořák: Sinfonía del nuevo Mundo]] ~ Karajan.
 + [[https://youtu.be/T8OKcgMl-9w][Dvořák: Sinfonía nº. 9]] ~ Dalia Stasevska (directora).
 + [[https://youtu.be/LKcZL8q1eBw][El Cascanueces de Balanchine]].
++ [[https://youtu.be/S_i38Kb0oV0][Gounod: La siesta]] ~ Ann Murray (mezzosoprano) y Felicity Lott (soprano).
 + [[https://youtu.be/N7XH-58eB8c][Haendel: Ombra mai fu]] ~ Andreas Scholl (contratenor).
 + [[https://youtu.be/1h4mAceHmrI][Handel: Música acuática, HWV 349]] ~ FestspielOrchester Göttingen.
 + [[https://youtu.be/UIYqYlA4LnA][Handel: Suite musical acuática n.º 1 en fa mayor]] ~ Academy of St Martin in the Fields.
@@ -330,13 +331,22 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/S_i38Kb0oV0][Gounod: La siesta]] ~ Ann Murray (mezzosoprano) y Felicity Lott (soprano).
 + [[https://youtu.be/D5hZqpzDpDo][Bizet: Habanera de Carmen]] ~ Maria Callas (soprano).
 + [[https://youtu.be/4IcL8Kq2fps][Handel: Lascia ch'io pianga]] ~ Ewa Mallas-Godlewska (soprano).
 + [[https://youtu.be/lvEuRvF1acI][Falla: Noche en los jardínes de España]] ~ Juan Pérez Floristán (piano).
 + [[https://youtu.be/9EGdL_P2iXE][Beethoven: Claro de luna]] ~ Igor Levit (piano).
 + [[https://youtu.be/svWwGIqebbQ][Bach: Concierto de Brandeburgo n.º 3]] ~ The English Concert con Trevor Pinnock (director).
 + [[https://youtu.be/1PQefCubmvk][Dvorák: Humorescas]] ~ Isaac Stern (violín).
++ [[https://youtu.be/0JwJ1y8a1io][Lucas Ruiz de Ribayaz: Tarantela]] ~ Sara Águeda (arpa).
++ [[https://youtu.be/o5yjU4Mlocc][Haydn: Sinfonía n.º 45]] ~ Academy of St Martin in the Fields · Sir Neville Marriner
++ [[https://youtu.be/AZsej47Yb34][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Filarmónica de Viena · Sir Georg Solti.
++ [[https://youtu.be/g2j7ubVUYVw][Ferdinand Ries: Sinfonía n.º 1]] ~ Tapiola Sinfonietta · Janne Nisonen.
++ [[https://youtu.be/mr5AbGPByu8][Bach: Suite para violonchelo n.º 1]] ~ Sedef Erçetin.
++ [[https://youtu.be/_bJP06Fw3WU][Stravinsky: Polca del circo]] ~ Orquesta Filarmónica de Berlín, Herbert von Karajan.
++ [[https://youtu.be/96Th_y6PGUg][Handel: Suite de música acuática]] ~ The English Concert, Trevor Pinnock.
++ [[https://youtu.be/Xk6NwjUOi9Y][Mozart: Una pequeña música nocturna]] ~ Leonhard Baumgartner, Margarita Pochebut, Svenja Dose, Oscar Jockel.
++ [[https://youtu.be/DLQwYDWMt3k][Chopin: Vals en do sostenido menor, op. 64 No. 2]] ~ Khatia Buniatishvili (piano).
++ [[https://youtu.be/hC-hQSNMQ7I][Beethoven: Sinfonía n.º 8]] ~ Filarmónica de Viena, Sir Simon Rattle (director).
 
 Local Variables:
 truncate-lines: t
