@@ -143,6 +143,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/cB6lP3ORUtI][Beethoven: Sonata para violín n.º 5 «Primavera»]] ~ Sarah Kim (violín) y Nelson Padgett (piano).
 + [[https://youtu.be/xn3hT7MQs54][Beethoven: Sonata para violín y piano n.º 9]] ~ Martha Argerich (piano) y Janine Jansen (violín).
 + [[https://youtu.be/452nsCCzIJs][Beethoven: Triple concerto, op. 56 n.º 2]] ~~~ Anne-Sophie Mutter, Daniel Barenboim, Yo-Yo Ma.
++ [[https://youtu.be/D5hZqpzDpDo][Bizet: Habanera de Carmen]] ~ Maria Callas (soprano).
 + [[https://youtu.be/zJ_Nsm-Y7RU][Bizet: Los pescadores de perlas]] ~ Alfredo Kraus.
 + [[https://youtu.be/0JkN4EAobpI][Boccherini: Minueto]] ~ Orquesta Filarmónica de Moscú.
 + [[https://youtu.be/KM4_KmG5oPY][Brahms: 7 fantasías, op. 116: Capriccio n.° 3 en sol menor]] ~ Aristo Sham (piano).
@@ -331,7 +332,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/D5hZqpzDpDo][Bizet: Habanera de Carmen]] ~ Maria Callas (soprano).
 + [[https://youtu.be/4IcL8Kq2fps][Handel: Lascia ch'io pianga]] ~ Ewa Mallas-Godlewska (soprano).
 + [[https://youtu.be/lvEuRvF1acI][Falla: Noche en los jardínes de España]] ~ Juan Pérez Floristán (piano).
 + [[https://youtu.be/9EGdL_P2iXE][Beethoven: Claro de luna]] ~ Igor Levit (piano).
@@ -347,6 +347,9 @@ compartidos y los pendientes.
 + [[https://youtu.be/Xk6NwjUOi9Y][Mozart: Una pequeña música nocturna]] ~ Leonhard Baumgartner, Margarita Pochebut, Svenja Dose, Oscar Jockel.
 + [[https://youtu.be/DLQwYDWMt3k][Chopin: Vals en do sostenido menor, op. 64 No. 2]] ~ Khatia Buniatishvili (piano).
 + [[https://youtu.be/hC-hQSNMQ7I][Beethoven: Sinfonía n.º 8]] ~ Filarmónica de Viena, Sir Simon Rattle (director).
++ [[https://youtu.be/Mcbxytn4z2k][Rossini: Dúo de los gatos]] ~ Marie-Nicole Lemieux (contralto), Patrizia Ciofi (soprano).
++ [[https://youtu.be/hMKfCmRjhek][Bach: El clave bien temperado]] ~ Minsoo Sohn (piano)
++ [[https://youtu.be/HABQxxLVTAQ][Mozart: Fantasía en do menor, K. 475]] ~ Friedrich Gulda (piano).
 
 Local Variables:
 truncate-lines: t
