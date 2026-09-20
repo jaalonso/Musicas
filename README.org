@@ -229,6 +229,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/LKcZL8q1eBw][El Cascanueces de Balanchine]].
 + [[https://youtu.be/S_i38Kb0oV0][Gounod: La siesta]] ~ Ann Murray (mezzosoprano) y Felicity Lott (soprano).
 + [[https://youtu.be/N7XH-58eB8c][Haendel: Ombra mai fu]] ~ Andreas Scholl (contratenor).
++ [[https://youtu.be/4IcL8Kq2fps][Handel: Lascia ch'io pianga]] ~ Ewa Mallas-Godlewska (soprano).
 + [[https://youtu.be/1h4mAceHmrI][Handel: Música acuática, HWV 349]] ~ FestspielOrchester Göttingen.
 + [[https://youtu.be/UIYqYlA4LnA][Handel: Suite musical acuática n.º 1 en fa mayor]] ~ Academy of St Martin in the Fields.
 + [[https://youtu.be/15m-vsQvs54][Haydn: Sinfonía n.º 45 "Despedida"]] ~ Orquesta de cámara de Europa.
@@ -332,7 +333,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/4IcL8Kq2fps][Handel: Lascia ch'io pianga]] ~ Ewa Mallas-Godlewska (soprano).
 + [[https://youtu.be/lvEuRvF1acI][Falla: Noche en los jardínes de España]] ~ Juan Pérez Floristán (piano).
 + [[https://youtu.be/9EGdL_P2iXE][Beethoven: Claro de luna]] ~ Igor Levit (piano).
 + [[https://youtu.be/svWwGIqebbQ][Bach: Concierto de Brandeburgo n.º 3]] ~ The English Concert con Trevor Pinnock (director).
@@ -350,6 +350,10 @@ compartidos y los pendientes.
 + [[https://youtu.be/Mcbxytn4z2k][Rossini: Dúo de los gatos]] ~ Marie-Nicole Lemieux (contralto), Patrizia Ciofi (soprano).
 + [[https://youtu.be/hMKfCmRjhek][Bach: El clave bien temperado]] ~ Minsoo Sohn (piano)
 + [[https://youtu.be/HABQxxLVTAQ][Mozart: Fantasía en do menor, K. 475]] ~ Friedrich Gulda (piano).
++ [[https://youtu.be/3RAvBGR2kic][Schumann: Carnaval, op. 9]] ~ Daniil Trifonov (piano).
++ [[https://youtu.be/3MNWsOtm6RY][Tartini: El trino del diablo]] ~ Niek Baar (violín).
++ [[https://youtu.be/_z03OnUtG1c][Bach: El arte de la fuga, BWV 1080]] ~ Cuarteto Casals
++ [[https://youtu.be/1z9f8Vj7F-M][Mozart: Concierto para piano n.º 21, K.467]] ~ Orquesta de Cámara Mahler y Leif Ove Andsnes (piano).
 
 Local Variables:
 truncate-lines: t
