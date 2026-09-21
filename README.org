@@ -123,6 +123,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/99R-IpvH1CA][Bach: Variaciones Goldberg]] ~ Glenn Gould.
 + [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
 + [[https://youtu.be/WmC8myVT8HQ][Bach: WTC Libro 1, Preludio y fuga en mi mayor]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/9EGdL_P2iXE][Beethoven: Claro de luna]] ~ Igor Levit (piano).
 + [[https://youtu.be/paFY1PvWmmg][Beethoven: Concierto para piano n.º 2]] ~ Martha Argerich (piano).
 + [[https://youtu.be/WnoeEm8a_oo][Beethoven: Concierto para piano n.º 3]] ~ Emanuel Ax (piano).
 + [[https://youtu.be/PBO17pOrXhU][Beethoven: Concierto para piano n.º 4]] ~ Krystian Zimerman (piano).
@@ -333,8 +334,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/lvEuRvF1acI][Falla: Noche en los jardínes de España]] ~ Juan Pérez Floristán (piano).
-+ [[https://youtu.be/9EGdL_P2iXE][Beethoven: Claro de luna]] ~ Igor Levit (piano).
 + [[https://youtu.be/svWwGIqebbQ][Bach: Concierto de Brandeburgo n.º 3]] ~ The English Concert con Trevor Pinnock (director).
 + [[https://youtu.be/1PQefCubmvk][Dvorák: Humorescas]] ~ Isaac Stern (violín).
 + [[https://youtu.be/0JwJ1y8a1io][Lucas Ruiz de Ribayaz: Tarantela]] ~ Sara Águeda (arpa).
@@ -354,6 +353,9 @@ compartidos y los pendientes.
 + [[https://youtu.be/3MNWsOtm6RY][Tartini: El trino del diablo]] ~ Niek Baar (violín).
 + [[https://youtu.be/_z03OnUtG1c][Bach: El arte de la fuga, BWV 1080]] ~ Cuarteto Casals
 + [[https://youtu.be/1z9f8Vj7F-M][Mozart: Concierto para piano n.º 21, K.467]] ~ Orquesta de Cámara Mahler y Leif Ove Andsnes (piano).
++ [[https://youtu.be/GWtoeYznx8E][Bach: Cantata BWV 147]] ~ Netherlands Bach Society.
++ [[https://youtu.be/Q_lqm7v2_DM][Puccini: Nessun dorma! de Turandot]] ~ Pene Pati (tenor).
+
 
 Local Variables:
 truncate-lines: t
