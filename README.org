@@ -34,6 +34,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/wYC53466Y2c][Bach: Cantata BWV 49]] ~ Dorothee Mields (soprano) y Andreas Wolf (bajo).
 + [[https://youtu.be/1qWdALq02qo][Bach: Chacona de la Cantata "Nach dir, Herr, verlanget mich" BWV 150]] ~ Netherlands Bach Society.
 + [[https://youtu.be/2Y1vJYUokbc][Bach: Chacona en re menor para dos violonchelos]]. ~ Hillary Smith y Christopher Ahn
++ [[https://youtu.be/Czsd13Mmcg0][Bach: Concierto de Brandeburgo n.º 3]] ~ Claudio Abbado (director).
 + [[https://youtu.be/tp_WeHUKoXM][Bach: Concierto de Brandeburgo n.º 4]] ~ Claudio Abbado (director).
 + [[https://youtu.be/f3rN7JvkLBw][Bach: Concierto de Brandeburgo n.º 4]] ~ Herbert von Karajan (director).
 + [[https://youtu.be/NDOEPdMWnzA][Bach: Concierto de Brandeburgo n.º 6]] ~ Monica Huggett y Orquesta de la Era de la Ilustración
@@ -334,7 +335,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/svWwGIqebbQ][Bach: Concierto de Brandeburgo n.º 3]] ~ The English Concert con Trevor Pinnock (director).
 + [[https://youtu.be/1PQefCubmvk][Dvorák: Humorescas]] ~ Isaac Stern (violín).
 + [[https://youtu.be/0JwJ1y8a1io][Lucas Ruiz de Ribayaz: Tarantela]] ~ Sara Águeda (arpa).
 + [[https://youtu.be/o5yjU4Mlocc][Haydn: Sinfonía n.º 45]] ~ Academy of St Martin in the Fields · Sir Neville Marriner
@@ -355,7 +355,12 @@ compartidos y los pendientes.
 + [[https://youtu.be/1z9f8Vj7F-M][Mozart: Concierto para piano n.º 21, K.467]] ~ Orquesta de Cámara Mahler y Leif Ove Andsnes (piano).
 + [[https://youtu.be/GWtoeYznx8E][Bach: Cantata BWV 147]] ~ Netherlands Bach Society.
 + [[https://youtu.be/Q_lqm7v2_DM][Puccini: Nessun dorma! de Turandot]] ~ Pene Pati (tenor).
-
++ [[https://youtu.be/U8TCFtz_8A0][Bach: El espíritu y el alma se confunden, BWV 35]] ~ Lars Ulrik Mortensen (director).
++ [[https://youtu.be/1prweT95Mo0][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma (violoncello).
++ [[https://youtu.be/tfRSamwTGXc][Bach: Pasión según San Juan, BWV 245]] ~ John Eliot Gardiner (director).
++ [[https://youtu.be/Kk6-xXB2Vf4][Bach: Tocata y fuga en re menor, BWV 565]] ~ Marie-Claire Alain (órgano).
++ [[https://youtu.be/ImWw9G9sXUI][Bach: Concierto de Brandemburgo n.º 4, BWV 1049]] ~ Academia de música antigua de Berlín.
++ [[https://youtu.be/tHAR2Q7FmL8][Bach: Preludio y fuga en do mayor (WTK, Libro I, n.º 1), BWV 846]] ~ András Schiff (piano).
 
 Local Variables:
 truncate-lines: t
