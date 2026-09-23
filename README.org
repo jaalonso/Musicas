@@ -221,6 +221,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/IiebDvKnkhQ][Debussy: La más lenta]] ~ María Dueñas (violín) y Itamar Golán (piano).
 + [[https://youtu.be/8UAYCubihlc][Debussy: Preludio a la siesta de un fauno]]. ~ Clara Andrada de la Calle (flauta).
 + [[https://youtu.be/0u-b9Rt7ot0][Debussy: Rêverie]] ~ Bruce Liu (piano).
++ [[https://youtu.be/1PQefCubmvk][Dvorák: Humorescas]] ~ Isaac Stern (violín).
 + [[https://youtu.be/gHAF2TjxDsU][Dvořák: Concierto para violín en la menor, op. 53.]] ~ Midori (violín).
 + [[https://youtu.be/vALW5djWJDs][Dvořák: Danza eslava, Op. 72, n.º 5]] ~ Orquesta filarmónica checa.
 + [[https://youtu.be/oU64y7JpTTs][Dvořák: Danzas eslavas]] ~ Filarmónica Checa
@@ -335,7 +336,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/1PQefCubmvk][Dvorák: Humorescas]] ~ Isaac Stern (violín).
 + [[https://youtu.be/0JwJ1y8a1io][Lucas Ruiz de Ribayaz: Tarantela]] ~ Sara Águeda (arpa).
 + [[https://youtu.be/o5yjU4Mlocc][Haydn: Sinfonía n.º 45]] ~ Academy of St Martin in the Fields · Sir Neville Marriner
 + [[https://youtu.be/AZsej47Yb34][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Filarmónica de Viena · Sir Georg Solti.
@@ -360,7 +360,21 @@ compartidos y los pendientes.
 + [[https://youtu.be/tfRSamwTGXc][Bach: Pasión según San Juan, BWV 245]] ~ John Eliot Gardiner (director).
 + [[https://youtu.be/Kk6-xXB2Vf4][Bach: Tocata y fuga en re menor, BWV 565]] ~ Marie-Claire Alain (órgano).
 + [[https://youtu.be/ImWw9G9sXUI][Bach: Concierto de Brandemburgo n.º 4, BWV 1049]] ~ Academia de música antigua de Berlín.
-+ [[https://youtu.be/tHAR2Q7FmL8][Bach: Preludio y fuga en do mayor (WTK, Libro I, n.º 1), BWV 846]] ~ András Schiff (piano).
++ [[https://youtu.be/tHAR2Q7FmL8][Bach: El clave bien temperado, BWV 846]] ~ András Schiff (piano).
++ [[https://youtu.be/QyAXurSeKMU][Bach: Cantata BWV 49]] ~ Bach Collegium Japan, Masaaki Suzuki.
++ [[https://youtu.be/DWTUvqY1-vM][Bach: Concierto para clavecín, cuerdas y bajo continuo n.º 1, BWV 1052]] ~ Trevor Pinnock.
++ [[https://youtu.be/p1pUULGrKZc][Bach: El arte de la fuga, BWV 1080]] ~ Musica Antiqua Köln, Reinhard Goebel.
++ [[https://youtu.be/A7Ytj50Q_Ig][Bach: BWV 17]] ~ Bach Collegium Japan, Masaaki Suzuki.
++ [[https://youtu.be/jkwl9YkT2zc][Bach: Sonata para violín n.º 3, BWV 1005]] ~ Hilary Hahn (violín).
++ [[https://youtu.be/QyAXurSeKMU][Bach: Cantata BWV 49 (duetto)]] ~ Hanna Blazikova (soprano) y Peter Kooij (bajo). Bach Collegium de Japón. Dir. Masaaki Suzuki.
++ [[https://youtu.be/2fK7BldLF2o][Bach: Concierto para clave, cuerda y continuo en la mayor BWV 1055]] ~ Trevor Pinnock (clave). The English Concert. Dir. Trevor Pinnock.
++ [[https://youtu.be/p1pUULGrKZc][Bach: El arte de la fuga BWV 1080]] ~ Música antiqua de Colonia, Dir. Reinhard Goebel,
++ [[https://youtu.be/KJ4JqXkEtoQ][Bach: Misa en si menor BWV 232]] ~ Andreas Scholl (contratenor). Collegium Vocale de Gante. Dir. Philippe Herreweghe
++ [[https://youtu.be/htUFDPx95lU][Bach: Cantata BWV 17]] ~ Hanna Blazikova (soprano), Robub Blaze (alto), Gerd Türk (tenor) y Peter Kooij (bajo). Bach Collegium de Japón. Dir. Masaaki Suzuki.
++ [[https://youtu.be/jkwl9YkT2zc][Bach; Sonata para violín solo n.º 3 BWV 1005]] ~ Hilary Hahn (violín).
+
++ [[https://youtu.be/hAnx--GgSxk][Bach: Cantata BWV 36]] ~ Peter Kooij (bajo), Bach Collegium de Japón, Dir. Masaaki Suzuki.
+
 
 Local Variables:
 truncate-lines: t
