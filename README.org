@@ -134,6 +134,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/60-VD40O9C8][Beethoven: Cuarteto de cuerdas]] n.º 7 ~ Cuarteto Aris.
 + [[https://youtu.be/qBMf1wtYnNM][Beethoven: Octeto en mi bemol mayor]] ~ Filarmónica de Berlín.
 + [[https://youtu.be/s71I_EWJk7I][Beethoven: Para Elisa]] ~ Lang Lang (piano).
++ [[https://youtu.be/iN6U0gS5eQ0][Beethoven: Sinfonía nº 1]] ~ Joana Mallwitz (directora).
 + [[https://youtu.be/KcPHh__Ucdg][Beethoven: Sinfonía nº 3 "Heroica"]] ~ Rafael Kubelik (director).
 + [[https://youtu.be/2iGoiWv6e9M][Beethoven: Sonata en do mayor, op. 2 n.º 3]] ~ Anastasia Dovgan (piano).
 + [[https://youtu.be/oDB1kOUFy5A][Beethoven: Sonata n.º 3 para violín y piano, op. 12]] ~ David Oistrakh y Sviatoslav Richter
@@ -337,6 +338,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
++ [[https://youtu.be/LZY6z1xgwsk][Mozart: Requiem]] ~ The Chamber Orchestra of Europe.
 + [[https://youtu.be/AZsej47Yb34][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Filarmónica de Viena · Sir Georg Solti.
 + [[https://youtu.be/g2j7ubVUYVw][Ferdinand Ries: Sinfonía n.º 1]] ~ Tapiola Sinfonietta · Janne Nisonen.
 + [[https://youtu.be/mr5AbGPByu8][Bach: Suite para violonchelo n.º 1]] ~ Sedef Erçetin.
@@ -371,9 +373,15 @@ compartidos y los pendientes.
 + [[https://youtu.be/KJ4JqXkEtoQ][Bach: Misa en si menor BWV 232]] ~ Andreas Scholl (contratenor). Collegium Vocale de Gante. Dir. Philippe Herreweghe
 + [[https://youtu.be/htUFDPx95lU][Bach: Cantata BWV 17]] ~ Hanna Blazikova (soprano), Robub Blaze (alto), Gerd Türk (tenor) y Peter Kooij (bajo). Bach Collegium de Japón. Dir. Masaaki Suzuki.
 + [[https://youtu.be/jkwl9YkT2zc][Bach; Sonata para violín solo n.º 3 BWV 1005]] ~ Hilary Hahn (violín).
-
 + [[https://youtu.be/hAnx--GgSxk][Bach: Cantata BWV 36]] ~ Peter Kooij (bajo), Bach Collegium de Japón, Dir. Masaaki Suzuki.
-
++ [[https://youtu.be/FFsHbHh7Z1k][Bach: Concierto para órgano n.º 1 BWV 592]] ~ Marie-Claire Alain (órgano).
++ [[https://youtu.be/ht0mjLjKhoY][Bach: Cantata BWV 34]] ~ Bach Collegium de Japón. Dir. Masaaki Suzuki.
++ [[https://youtu.be/DeVCyyamiOQ][Bach: Concierto de Brandemburgo n.º 5 BWV 1050]] ~ The English Concert. Dir. Trevor Pinnock.
++ [[https://youtu.be/-b06eO8QQkI][Bach: Libro de Anna Magdalena Bach: “Willst du dein Herz mir schenken (Aria de Giovannini)” BWV 518]] ~ Griet De Geyter (soprano).
++ [[https://youtu.be/zHvQGWm3MIo][Bach: Cantata BWV 212 (Cantata de campesinos)]] ~ Concerto Kohln. Dra. E. Seitz.
++ [[https://youtu.be/G_VcPUe5Jbg][Bach: Sinfonía (invención en tres partes) n.° 2, BWV 788]] ~ Till Fellner (piano).
++ [[https://youtu.be/wzcYZpFH6yM][Bach: Sinfonía (invención en tres partes) n.° 3, BWV 789]] ~ Till Fellner (piano).
++ [[https://youtu.be/T9rFoz_JpKg][Bach: Sinfonía (invención en tres partes) n.° 4, BWV 790]] ~ Till Fellner (piano).
 
 Local Variables:
 truncate-lines: t
