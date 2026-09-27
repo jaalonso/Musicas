@@ -271,7 +271,9 @@ compartidos y los pendientes.
 + [[https://youtu.be/_90bJpLcMzI][Mozart: Marcha turca]] ~ Alexandre Tharaud (piano).
 + [[https://youtu.be/0HhBr0t4VJ0][Mozart: Marcha turca]] ~ Lang Lang (piano).
 + [[https://youtu.be/uodyjwSpDus][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Estatal de Baviera.
++ [[https://youtu.be/AZsej47Yb34][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Filarmónica de Viena · Sir Georg Solti.
 + [[https://youtu.be/qch9mpigHUc][Mozart: Pequeña serenata nocturna, K.525]] ~ Orquesta Filarmónica de Viena dirigida por Karl Böhm.
++ [[https://youtu.be/LZY6z1xgwsk][Mozart: Requiem]] ~ The Chamber Orchestra of Europe.
 + [[https://youtu.be/3GHSIPYY71w][Mozart: Réquiem]] ~ Karl Böhm (director).
 + [[https://youtu.be/NxV9VytEm9c][Mozart: Sinfonía n.º 40, K. 550]] ~ Orquesta de cámara noruega.
 + [[https://youtu.be/DU4pVJHgiL4][Mozart: Sinfonía nº 35 en re mayor]] ~ Riccardo Muti (director).
@@ -338,9 +340,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/LZY6z1xgwsk][Mozart: Requiem]] ~ The Chamber Orchestra of Europe.
-+ [[https://youtu.be/AZsej47Yb34][Mozart: Obertura de "La flauta mágica"]] ~ Orquesta Filarmónica de Viena · Sir Georg Solti.
-+ [[https://youtu.be/g2j7ubVUYVw][Ferdinand Ries: Sinfonía n.º 1]] ~ Tapiola Sinfonietta · Janne Nisonen.
 + [[https://youtu.be/mr5AbGPByu8][Bach: Suite para violonchelo n.º 1]] ~ Sedef Erçetin.
 + [[https://youtu.be/_bJP06Fw3WU][Stravinsky: Polca del circo]] ~ Orquesta Filarmónica de Berlín, Herbert von Karajan.
 + [[https://youtu.be/96Th_y6PGUg][Handel: Suite de música acuática]] ~ The English Concert, Trevor Pinnock.
@@ -382,6 +381,20 @@ compartidos y los pendientes.
 + [[https://youtu.be/G_VcPUe5Jbg][Bach: Sinfonía (invención en tres partes) n.° 2, BWV 788]] ~ Till Fellner (piano).
 + [[https://youtu.be/wzcYZpFH6yM][Bach: Sinfonía (invención en tres partes) n.° 3, BWV 789]] ~ Till Fellner (piano).
 + [[https://youtu.be/T9rFoz_JpKg][Bach: Sinfonía (invención en tres partes) n.° 4, BWV 790]] ~ Till Fellner (piano).
++ [[https://youtu.be/6DSI5ZcDdV0][Bach: Cantata BWV 45]] ~ Peter Kooij (bajo). Bach Collegium de Japón. Dir. Masaaki Suzuki.
++ [[https://youtu.be/UjRBNFhP_ac][Bach: Seis pequeños preludios para principiantes (n.º 2 BWV 934)]] ~ Anyssa Neumann (piano).
++ [[https://youtu.be/SsIho_ORSv8][Bach: Sonata para viola da gamba y clave n.º 3 BWV 1029]] ~ Guido Balestracci (viola da gamba) y Blandine Rannou (clave).
++ [[https://youtu.be/fw_7rUSpmbQ][Bach: Cantata BWV 39]] ~ J. S. Bach Foundation, Rudolf Lutz (director).
++ [[https://youtu.be/xGWe2xlvfLs][Bach: Suite para violoncello solo n.º 1 BWV 1010]] ~ Jean-Guihen Queyras (violoncello).
++ [[https://youtu.be/laH-y6jI2EY][Bach: Misa en si menor BWV 232]] ~ Christoph Prégardien (tenor), Collegium vocale Gante, Dir. Philippe Herreweghe.
++ [[https://youtu.be/U4TiINEnc2U][Bach: Partita para laud solo BWV 997]] ~ Jakob Lindberg (laud).
++ [[https://youtu.be/lXQ415rMtbM][Bach: Suite obertura n.º 2 BWV 1067]] ~ Orquesta barroca de Friburgo.
++ [[https://youtu.be/zruPARr6P_s][Bach: Coral BWV 650]]. ~ Marie-Claire Alain (órgano).
++ [[https://youtu.be/w2ayoRwHEmo][Bach: Suite obertura n.º 3 BWV 1068]] ~ Boston baroque, Dir. Martin Pearlman.
++ [[https://youtu.be/WQVcCUCUHbE][Bach: Preludio para laud BWV 999]] ~ Jakob Lindberg (laud).
++ [[https://youtu.be/fvYjUloQu0U][Bach: Partita flauta sola BWV 1013]] ~ Dorothee Oberlinger (flauta de pico).
++ [[https://youtu.be/ryvrnHchcYM][Bach: Variaciones Goldberg BWV 988]] ~ Andrei Gavrilov (piano).
++ [[https://youtu.be/yNNBMkRGXfY][Bach: La Pasión según San Mateo BWV 244]] ~ Dir. John Eliot Gardiner
 
 Local Variables:
 truncate-lines: t
