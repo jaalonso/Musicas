@@ -18,6 +18,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/YTbqQT_xelk][Bach: Aria "Ninguna duda puede perturbarme" de la Cantata BWV 108]] ~ Johannes Kaleschke (tenor).
 + [[https://youtu.be/WHoLb0LYH3U][Bach: Aria "Tue Rechnung! Donnerwort" de la Cantata BWV 168]] ~ Peter Harvey (bajo).
 + [[https://youtu.be/-b06eO8QQkI][Bach: Aria de Giovannini BWV 518]] ~ Griet De Geyter (soprano).
++ [[https://youtu.be/jmXys71F3rY][Bach: Aria de la Cantata BWV 30]] ~ Fundación J. S. Bach.
 + [[https://youtu.be/Rv9Jn9LAzdE][Bach: Aria de la cantata BWV 139]] ~ Ekkehard Abele (bajo).
 + [[https://youtu.be/PyMz0w2UC9s][Bach: Aria para la cuerda de sol]] ~ Jonathan Scott (órgano).
 + [[https://youtu.be/Um6drCMyQSU][Bach: Aus tiefer Not schrei ich zu dir, BWV 687]] ~ György y Márta Kurtág (piano).
@@ -395,6 +396,14 @@ compartidos y los pendientes.
 + [[https://youtu.be/fvYjUloQu0U][Bach: Partita flauta sola BWV 1013]] ~ Dorothee Oberlinger (flauta de pico).
 + [[https://youtu.be/ryvrnHchcYM][Bach: Variaciones Goldberg BWV 988]] ~ Andrei Gavrilov (piano).
 + [[https://youtu.be/yNNBMkRGXfY][Bach: La Pasión según San Mateo BWV 244]] ~ Dir. John Eliot Gardiner
++ [[https://youtu.be/QyAXurSeKMU][Bach: Cantata BWV 49]] ~ Bach collegium de Japón, Dir. Masaaki Suzuki.
++ [[https://youtu.be/whuq0kEVGE0][Bach: Concierto para dos claves, cuerda y continuo BWV 1060]] ~  Masaaki Suzuki y Masato Suzuki (claves). Bach collegium de Japón. Dir. Masaaki Suzuki.
++ [[https://youtu.be/oTBDWSnXkAg][Bach: Cantata BWV 170]] ~  Philippe Jaroussky (contratenor), Orquesta barroca de Friburgo.
++ [[https://youtu.be/Z4UxtHjs79M][Bach: Sonata para violín y clave n.º 1 BWV 1014]] ~ Fabio Biondi (violín) y Rinaldo Alessandrini (clave).
++ [[https://youtu.be/_pHscfinsiM][Bach: Sanctus BWV 238]] ~ Coro y orquesta del Collegium vocale de Gante, Dir. Philippe Herreweghe.
++ [[https://youtu.be/TNWsvMU-zfw?][Bach: Suite para violoncello solo n.º 5 BWV 1011 (Sarabanda)]] ~ Yo-Yo Ma (violoncello).
++ [[https://youtu.be/B-ztWhytBiM][Bach: Sinfonías a 3 voces BWV 797]] ~ Till Fellner (piano).
+
 
 Local Variables:
 truncate-lines: t
