@@ -114,6 +114,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/rzQnPyJx3hA][Bach: Suite francesa n.º 4]] ~ David Fray (piano).
 + [[https://youtu.be/su0MMGllWy0][Bach: Suite orquestal n.º 3, BWV 1068: II. Aire]] ~ Nikolaus Harnoncourt (director).
 + [[https://youtu.be/MyPt0VAWyKM][Bach: Suite para violonchelo n.º 1]] ~ Kim Jin-Kyung (violoncello).
++ [[https://youtu.be/mr5AbGPByu8][Bach: Suite para violonchelo n.º 1]] ~ Sedef Erçetin.
 + [[https://youtu.be/1prweT95Mo0][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma (violoncello).
 + [[https://youtu.be/Rx_IibJH4rA][Bach: Suite para violonchelo n.º 1]] ~ Yo-Yo Ma.
 + [[https://youtu.be/JmTzspn4xWs][Bach: Tocata en sol menor BWV 915]] ~ Maude Gratton (clave).
@@ -341,7 +342,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/mr5AbGPByu8][Bach: Suite para violonchelo n.º 1]] ~ Sedef Erçetin.
 + [[https://youtu.be/_bJP06Fw3WU][Stravinsky: Polca del circo]] ~ Orquesta Filarmónica de Berlín, Herbert von Karajan.
 + [[https://youtu.be/96Th_y6PGUg][Handel: Suite de música acuática]] ~ The English Concert, Trevor Pinnock.
 + [[https://youtu.be/Xk6NwjUOi9Y][Mozart: Una pequeña música nocturna]] ~ Leonhard Baumgartner, Margarita Pochebut, Svenja Dose, Oscar Jockel.
@@ -403,6 +403,14 @@ compartidos y los pendientes.
 + [[https://youtu.be/_pHscfinsiM][Bach: Sanctus BWV 238]] ~ Coro y orquesta del Collegium vocale de Gante, Dir. Philippe Herreweghe.
 + [[https://youtu.be/TNWsvMU-zfw?][Bach: Suite para violoncello solo n.º 5 BWV 1011 (Sarabanda)]] ~ Yo-Yo Ma (violoncello).
 + [[https://youtu.be/B-ztWhytBiM][Bach: Sinfonías a 3 voces BWV 797]] ~ Till Fellner (piano).
++ [[https://youtu.be/X9pNGhHVYg0][Bach: Pedal exercitium BWV 598]] ~ Marie-Claire Alain (órgano).
++ [[https://youtu.be/SQpLvTrT8vI][Bach: onata para viola da gamba y clave n.º 2 BWV 1028]] ~ Wieland Kuijken (viola da gamba) y Gustav Leonhardt (clave).
++ [[https://youtu.be/_gvpvIHBlL4][Bach: Cantata n.º 196 Der Herr danket an uns BWV 196]] ~ Cantus Colln, Dir. K. Junghaenel.
++ [[https://youtu.be/Wa5yony2CeA][Bach: Suite para violoncello solo n.º 2 BWV 1008]] ~ Yo-Yo Ma (violoncello).
++ [[https://youtu.be/x0j5tRZ53kE][Bach: Concierto de Brandenburgo n.º 3 en sol mayor BWV 1048]] ~ Musica antiqua de Colonia, Dir. Reinhard Goebel.
++ [[https://youtu.be/zL7WwJ7U6Kg][Bach: Cantata BWV 107]] ~ Coro y Orq. del Collegium vocale de Gante, Dir. Philippe Herreweghe.
++ [[https://youtu.be/3saIOIMr4hk][Bach: Ofrenda musical BWV 1079]] ~ Leonhardt consort, Dir. Gustav Leonhardt.
++ [[https://youtu.be/B0e9GFliSVA][Bach: Concierto para clave solo BWV 974]] ~ Khatia Buniatishvili (piano).
 
 
 Local Variables:
