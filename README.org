@@ -237,6 +237,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/N7XH-58eB8c][Haendel: Ombra mai fu]] ~ Andreas Scholl (contratenor).
 + [[https://youtu.be/4IcL8Kq2fps][Handel: Lascia ch'io pianga]] ~ Ewa Mallas-Godlewska (soprano).
 + [[https://youtu.be/1h4mAceHmrI][Handel: Música acuática, HWV 349]] ~ FestspielOrchester Göttingen.
++ [[https://youtu.be/96Th_y6PGUg][Handel: Suite de música acuática]] ~ The English Concert, Trevor Pinnock.
 + [[https://youtu.be/UIYqYlA4LnA][Handel: Suite musical acuática n.º 1 en fa mayor]] ~ Academy of St Martin in the Fields.
 + [[https://youtu.be/15m-vsQvs54][Haydn: Sinfonía n.º 45 "Despedida"]] ~ Orquesta de cámara de Europa.
 + [[https://youtu.be/o5yjU4Mlocc][Haydn: Sinfonía n.º 45]] ~ Academy of St Martin in the Fields · Sir Neville Marriner.
@@ -343,7 +344,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/96Th_y6PGUg][Handel: Suite de música acuática]] ~ The English Concert, Trevor Pinnock.
 + [[https://youtu.be/Xk6NwjUOi9Y][Mozart: Una pequeña música nocturna]] ~ Leonhard Baumgartner, Margarita Pochebut, Svenja Dose, Oscar Jockel.
 + [[https://youtu.be/DLQwYDWMt3k][Chopin: Vals en do sostenido menor, op. 64 No. 2]] ~ Khatia Buniatishvili (piano).
 + [[https://youtu.be/hC-hQSNMQ7I][Beethoven: Sinfonía n.º 8]] ~ Filarmónica de Viena, Sir Simon Rattle (director).
@@ -411,6 +411,13 @@ compartidos y los pendientes.
 + [[https://youtu.be/zL7WwJ7U6Kg][Bach: Cantata BWV 107]] ~ Coro y Orq. del Collegium vocale de Gante, Dir. Philippe Herreweghe.
 + [[https://youtu.be/3saIOIMr4hk][Bach: Ofrenda musical BWV 1079]] ~ Leonhardt consort, Dir. Gustav Leonhardt.
 + [[https://youtu.be/B0e9GFliSVA][Bach: Concierto para clave solo BWV 974]] ~ Khatia Buniatishvili (piano).
++ [[https://youtu.be/tc-0wIynrjU][Bach: Cantata del café BWV 211]] ~ Barbara Bonney (soprano), Orquesta del Siglo de las Luces, Dir. Gustav Leonhardt.
++ [[https://youtu.be/QmS3k9CAf0c][Bach: Suite obertura n.º 4 BWV 1069]] ~ Orquesta barroca de Amsterdam, Dir. Ton Koopman.
++ [[https://youtu.be/eIGncsC4v7M][Bach: Fuga en la mayor BWV 949]] ~ Marie-Claire Alain (órgano).
++ [[https://youtu.be/x_SBT_XCKK8][Bach: Concierto para violín, cuerda y continuo BWV 1041]] ~ Simon Standage (violín), The English Concert, Dr. Trevor Pinnock.
++ [[https://youtu.be/oqcJ85C7w90][Bach: Fuga para laud BWV 1000]] ~ Jakob Lindberg (laud).
++ [[https://youtu.be/QhpxpyCDp0I][Bach: Magnificat en re mayor BWV 243 (duetto et misericordia)]] ~ Philippe Jaroussky (contratenor), T. Spencer (tenor), Le Concert d’Astree, Dira. Emmanuelle Haïm.
++ [[https://youtu.be/Z1fZ54Ho1nw][Bach: Suite francesa n.º 4 BWV 815]] ~ András Schiff (piano).
 
 
 Local Variables:
