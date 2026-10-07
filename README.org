@@ -272,6 +272,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364]] ~ Gidon Kremer (violín), Yuri Bashmet (viola).
 + [[https://youtu.be/LBNaE3m0FXc][Mozart: Dueto de Apolo y Jacinto]] ~ Allan Bergius (soprano) y Michel Lecocq (tenor).
++ [[https://youtu.be/HABQxxLVTAQ][Mozart: Fantasía en do menor, K. 475]] ~ Friedrich Gulda (piano).
 + [[https://youtu.be/1V0rGf9PjzI][Mozart: Fantasía n.º 3, K. 397]] ~ Fazıl Say (piano).
 + [[https://youtu.be/HukHqkRItDo][Mozart: Fantasía n.º 4 en do menor]] ~ Yundi Li (piano).
 + [[https://youtu.be/G-kJVmEWWV8][Mozart: Lacrimosa (del Réquiem)]] ~ Karl Böhm (director).
@@ -349,7 +350,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/HABQxxLVTAQ][Mozart: Fantasía en do menor, K. 475]] ~ Friedrich Gulda (piano).
 + [[https://youtu.be/3RAvBGR2kic][Schumann: Carnaval, op. 9]] ~ Daniil Trifonov (piano).
 + [[https://youtu.be/3MNWsOtm6RY][Tartini: El trino del diablo]] ~ Niek Baar (violín).
 + [[https://youtu.be/_z03OnUtG1c][Bach: El arte de la fuga, BWV 1080]] ~ Cuarteto Casals
