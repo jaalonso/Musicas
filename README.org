@@ -8,6 +8,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/_eLU5W1vc8Y][Albinoni: Adagio]].
 + [[https://youtu.be/JCjNjczJfws][Albéniz: Rumores de la Caleta]] ~ Enzo Oliva (piano).
 + [[https://youtu.be/2oNE03TqoOg][Bach-Kempff: Siciliano]] ~ Evgeny Kissin (piano).
++ [[https://youtu.be/aVSZBXpKwt4][Bach: "Clamo a ti, Señor Jesucristo", BWV 639 (Arr. de Busoni para piano)]] ~ Georgijs Osokins (piano).
 + [[https://youtu.be/OnCw9a5bRl8][Bach: Adagio del concierto para violín en re menor BWV 1052R]] ~ Ekkehard Abele (bajo).
 + [[https://youtu.be/6emElQDVqF4][Bach: Adagio y fuga BWV 1003]] ~ Drew Henderson (guitarra).
 + [[https://youtu.be/h3-rNMhIyuQ][Bach: Adagio]] ~ Víkingur Ólafsson (piano).
@@ -339,6 +340,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/_bJP06Fw3WU][Stravinsky: Polca del circo]] ~ Orquesta Filarmónica de Berlín, Herbert von Karajan.
 + [[https://youtu.be/ORcAkPrS9Dk][Strohl: Soledad]] ~ Marilies Guschlbauer (celo) y Julia Rinderle (piano).
 + [[https://youtu.be/fOpkaJp3IwI][Sviridov: Vals "Tormenta de nieve"]] ~ Orquesta Filarmónica de Moscú.
++ [[https://youtu.be/3MNWsOtm6RY][Tartini: El trino del diablo]] ~ Niek Baar (violín).
 + [[https://youtu.be/EQGBbLBShzk][Tárrega: Recuerdos de la Alhambra]] ~ Narciso Yepes (guitarra).
 + [[https://youtu.be/pu7zWrIMV_g][Verdi: Brindis de La Traviata]] ~ Pavarotti.
 + [[https://youtu.be/J5qi_4DnpKg][Verdi: Nabucco va pensiero]].
@@ -352,7 +354,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/3MNWsOtm6RY][Tartini: El trino del diablo]] ~ Niek Baar (violín).
 + [[https://youtu.be/_z03OnUtG1c][Bach: El arte de la fuga, BWV 1080]] ~ Cuarteto Casals
 + [[https://youtu.be/1z9f8Vj7F-M][Mozart: Concierto para piano n.º 21, K.467]] ~ Orquesta de Cámara Mahler y Leif Ove Andsnes (piano).
 + [[https://youtu.be/GWtoeYznx8E][Bach: Cantata BWV 147]] ~ Netherlands Bach Society.
