@@ -272,6 +272,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/VpDq4Wu2f0A][Mozart: Adagio del Concierto para clarinete]]. ~ Martin Fröst (clarinete).
 + [[https://youtu.be/j8e0fBlvEMQ][Mozart: Concierto para piano n.° 23]] ~ Hélène Grimaud.
 + [[https://youtu.be/s_i9wdM2Y_k][Mozart: Concierto para piano n.º 20]] ~ András Schiff (piano).
++ [[https://youtu.be/1z9f8Vj7F-M][Mozart: Concierto para piano n.º 21, K.467]] ~ Orquesta de Cámara Mahler y Leif Ove Andsnes (piano).
 + [[https://youtu.be/8UQtrrz2jf4][Mozart: Concierto para piano n.º 9]] ~ Maria João Pires (piano).
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364 (Presto)]] ~ Gidon Kremer (violón), Yuri Bashmet (viola).
 + [[https://youtu.be/xkhaZ8FWw3w][Mozart: Concierto para violín, viola y orquesta K. 364]] ~ Gidon Kremer (violín), Yuri Bashmet (viola).
@@ -356,7 +357,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/1z9f8Vj7F-M][Mozart: Concierto para piano n.º 21, K.467]] ~ Orquesta de Cámara Mahler y Leif Ove Andsnes (piano).
 + [[https://youtu.be/GWtoeYznx8E][Bach: Cantata BWV 147]] ~ Netherlands Bach Society.
 + [[https://youtu.be/Q_lqm7v2_DM][Puccini: Nessun dorma! de Turandot]] ~ Pene Pati (tenor).
 + [[https://youtu.be/U8TCFtz_8A0][Bach: El espíritu y el alma se confunden, BWV 35]] ~ Lars Ulrik Mortensen (director).
