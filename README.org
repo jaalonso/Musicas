@@ -148,6 +148,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/99R-IpvH1CA][Bach: Variaciones Goldberg]] ~ Glenn Gould.
 + [[https://youtu.be/LcJBKZqb-68][Bach: Variaciones Goldberg]] ~ Víkingur Ólafsson (piano)
 + [[https://youtu.be/WmC8myVT8HQ][Bach: WTC Libro 1, Preludio y fuga en mi mayor]] ~ Anastasia Dovgan (piano).
++ [[https://youtu.be/jkwl9YkT2zc][Bach; Sonata para violín solo n.º 3 BWV 1005]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/9EGdL_P2iXE][Beethoven: Claro de luna]] ~ Igor Levit (piano).
 + [[https://youtu.be/paFY1PvWmmg][Beethoven: Concierto para piano n.º 2]] ~ Martha Argerich (piano).
 + [[https://youtu.be/WnoeEm8a_oo][Beethoven: Concierto para piano n.º 3]] ~ Emanuel Ax (piano).
@@ -379,7 +380,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/jkwl9YkT2zc][Bach; Sonata para violín solo n.º 3 BWV 1005]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/hAnx--GgSxk][Bach: Cantata BWV 36]] ~ Peter Kooij (bajo), Bach Collegium de Japón, Dir. Masaaki Suzuki.
 + [[https://youtu.be/FFsHbHh7Z1k][Bach: Concierto para órgano n.º 1 BWV 592]] ~ Marie-Claire Alain (órgano).
 + [[https://youtu.be/ht0mjLjKhoY][Bach: Cantata BWV 34]] ~ Bach Collegium de Japón. Dir. Masaaki Suzuki.
