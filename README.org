@@ -78,6 +78,7 @@ compartidos y los pendientes.
 + [[https://youtu.be/DgfyryZJES4][Bach: Concierto para violín n.º 2, BWV 1042]] ~ Hilary Hahn (violín).
 + [[https://youtu.be/FFsHbHh7Z1k][Bach: Concierto para órgano n.º 1 BWV 592]] ~ Marie-Claire Alain (órgano).
 + [[https://youtu.be/CwxLR13XFi4][Bach: Coral "No tan triste, no tanto" BWV 384]] ~ Sociedad holandesa de Bach
++ [[https://youtu.be/TdrHQdAc4Gc][Bach: Coral de la BWV 198]] ~ Fundación J. S. Bach.
 + [[https://youtu.be/6FvMJ8C5KPI][Bach: Coral de la Cantata BWV 147]] ~ Alexandra Dovgan (piano).
 + [[https://youtu.be/Um6drCMyQSU][Bach: Desde una profunda angustia te lloro, BWV 687]]. ~ György y Márta Kurtág (piano).
 + [[https://youtu.be/dSKK9gz789c][Bach: Ejercicio de pedaleo]] ~ Anne-Isabelle de Parcevaux (órgano)
@@ -396,7 +397,6 @@ compartidos y los pendientes.
 + [[https://youtu.be/tQxINIyBejY][Williams: Fantasía sobre Greensleeves]] ~ Academy of St Martin in the Fields
 
 * Pendientes
-+ [[https://youtu.be/TdrHQdAc4Gc][Bach: Coral de la BWV 198]] ~ Fundación J. S. Bach.
 + [[https://youtu.be/SsIho_ORSv8][Bach: Sonata para viola da gamba y clave n.º 3 BWV 1029]] ~ Guido Balestracci (viola da gamba) y Blandine Rannou (clave).
 + [[https://youtu.be/fw_7rUSpmbQ][Bach: Cantata BWV 39]] ~ J. S. Bach Foundation, Rudolf Lutz (director).
 + [[https://youtu.be/xGWe2xlvfLs][Bach: Suite para violoncello solo n.º 1 BWV 1010]] ~ Jean-Guihen Queyras (violoncello).
